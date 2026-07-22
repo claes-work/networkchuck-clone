@@ -92,6 +92,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-11-25 | shut up and just DO it!! (IT certifications) | [[2020-11-25-yt-H8iUYmReC9M]] | ★ |
 | 2020-12-10 | 5G: what you DON'T know!! (3 things) | [[2020-12-10-yt-ZnhM-lp6GE8]] | ★ |
 | 2020-12-17 | i failed my exam | [[2020-12-17-yt-AdzEDoHAbw8]] | ★ |
+| 2020-11-16 | how Hackers SNiFF (capture) network traffic // MiTM | [[2020-11-16-yt--rSqbgI7oZM]] | ★ |
+| 2020-12-24 | Python......when should you learn it? | [[2020-12-24-yt-3Ay2Vk4jySI]] |  |
+| 2020-12-31 | thank you (2020 year-end reflection) | [[2020-12-31-yt-W-wdGEz4f5A]] | ★ |
+| 2021-03-18 | 5 Steps to Secure Linux | [[2021-03-18-yt-ZhMw53Ud2tY]] | ★ |
+| 2021-03-30 | my favorite IT study tool - Notion | [[2021-03-30-yt-9Zj3Z4KkcQA]] | ★ |
+| 2021-04-15 | you need a website RIGHT NOW!! | [[2021-04-15-yt-gwUz3E9AW0w]] | ★ |
+| 2021-04-16 | HELP!! // Linux for Hackers // EP3 | [[2021-04-16-yt-Y17KTiJLcyQ]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -237,4 +244,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_215 videos ingested (L2) so far._
+_222 videos ingested (L2) so far._

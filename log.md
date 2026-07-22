@@ -749,3 +749,22 @@ DO it / stop making excuses" action ethos; and radical AUTHENTICITY — he openl
 my exam" (studied 14 days live on Twitch and still failed) — persistence + honesty are core
 voice traits; also documents his TWITCH study-stream habit (bio). (c) FREE Security+ EP5 fills
 the earlier-flagged episode gap. No inline persona edits. Debt now 4.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020-11→2021-04 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429 (rate-limiting eased after the longer heartbeat).
+- 2020-11-16 -rSqbgI7oZM — how hackers sniff / MiTM (ARP spoof) ★ [caption partly corrupted]
+- 2020-12-24 3Ay2Vk4jySI — Python: when should you learn it
+- 2020-12-31 W-wdGEz4f5A — thank you (2020 year-end reflection; gratitude) ★
+- 2021-03-18 ZhMw53Ud2tY — 5 steps to secure Linux (defensive) ★
+- 2021-03-30 9Zj3Z4KkcQA — Notion study workflow (+Anki) ★
+- 2021-04-15 gwUz3E9AW0w — build a portfolio website (career tactic) ★
+- 2021-04-16 Y17KTiJLcyQ — Linux for Hackers EP3 (getting help) ★
+Synthesis notes: (a) VOICE/BIO: the 2020 year-end "thank you" reflection shows his warm,
+COMMUNITY-GRATITUDE voice + reflects on going full-time (bio) — add to voice.md. (b)
+PERSONAL STUDY WORKFLOW: his own study system = Notion (notes) → Anki (flashcards) + labs —
+a concrete methods datapoint (pairs with the earlier Pomodoro/Atomic Habits study frameworks).
+(c) DEFENSIVE balance: "5 steps to secure Linux" (hardening: updates/sudo/SSH keys/UFW) — his
+content isn't only offensive; capture the offense+defense balance in cybersecurity/beliefs. (d)
+Career tactic: build a portfolio WEBSITE to get hired (extends the job playbooks). (e) Linux
+for Hackers EP3 extends that free course. (f) Agents caught several title-vs-content mismatches
+(WordPress not GitHub Pages; no fail2ban/tldr) — fidelity held. No inline persona edits. Debt now 5.
