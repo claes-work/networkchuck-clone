@@ -23,6 +23,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-08-15 | CUCM Route Groups/Lists/Patterns - Part 2 | [[2017-08-15-yt-FR1Jx9z7x-w]] |  |
 | 2017-09-20 | Voice VLANs - what & why | [[2017-09-20-yt-O1aNuVYjXNM]] |  |
 | 2017-10-01 | I PASSED THE CCENT EXAM!! (brother Cameron; ICND1 tips) | [[2017-10-01-yt-FUw_Ctrp5EM]] |  |
+| 2018-01-07 | I am officially a CBT Nuggets Trainer!! | [[2018-01-07-yt-GEUSjg3Sy24]] | ★ |
+| 2018-04-10 | Is NetworkChuck Over!?!?! | [[2018-04-10-yt-2BxAmdqWWJo]] | ★ |
+| 2018-06-09 | I'm going to Cisco Live!!! - CiscoLIVE 2018 | [[2018-06-09-yt-0I4r0QGXD7U]] | ★ |
+| 2018-08-17 | The FUTURE of Information Security Engineers (DNA Center) | [[2018-08-17-yt-Pae_PYKKMAU]] | ★ |
+| 2018-12-01 | I (FINALLY!) Scheduled CCNP TSHOOT 300-135 | [[2018-12-01-yt-8qZYfLG1hSo]] | ★ |
+| 2018-12-14 | The ONE Skill You NEED in IT | [[2018-12-14-yt-T1-r_feNNnw]] | ★ |
 | 2017-01-02 | 7 CCNA CCNP Study Tips for the New Year - 2017!! | [[2017-01-02-yt-dfEWw95coak]] | ★ |
 | 2017-02-24 | CCNA or COLLEGE? - Become a Network Engineer | [[2017-02-24-yt-dmthwYTEL0M]] | ★ |
 | 2017-03-14 | Trying to Study for my CCNA CCNP with KIDS!! | [[2017-03-14-yt-_h4ioMa7rOs]] | ★ |
@@ -206,4 +212,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_184 videos ingested (L2) so far._
+_190 videos ingested (L2) so far._

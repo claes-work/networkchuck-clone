@@ -630,3 +630,23 @@ context (attributed to guest, not Chuck); note in networking/cert hubs + add rya
 entity debt. (d) Self-hosted-AI tooling deepens (Open WebUI local + public, n8n on-prem) —
 reinforces the private/self-hosted-AI thread for the ai-tools hub. No inline persona edits.
 Debt now 9. >>> CHECKPOINT next batch → Stage S (synthesis pass 3).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2018 P2 (bio-rich channel era), 6 ingested / 1 skipped / 1 no-captions
+8 P2 (2018). 6 ok, 1 skipped, 1 no-captions (isMnWZqAh0k → L1).
+- Skipped: DctF8QwAmfs (10 Days of Christmas giveaway announcement, no content).
+- 2018-01-07 GEUSjg3Sy24 — became a CBT Nuggets trainer (Jan 2018 milestone) ★
+- 2018-04-10 2BxAmdqWWJo — is NetworkChuck over? (quit eng job for CBT Nuggets FT) ★
+- 2018-06-09 0I4r0QGXD7U — going to Cisco Live 2018 Orlando ★
+- 2018-08-17 Pae_PYKKMAU — future of infosec (DNA Center; 2018 prediction) ★
+- 2018-12-01 8qZYfLG1hSo — scheduled CCNP TSHOOT 300-135 (Dec 2018; final CCNP exam) ★
+- 2018-12-14 T1-r_feNNnw — the ONE skill in IT = customer-service/people skills ★
+Synthesis notes: HIGH BIO VALUE — refines the 2017-2018 timeline. (a) MILESTONE + timeline
+correction: he QUIT his engineering job to join CBT Nuggets FULL-TIME on Jan 1, 2018 (became
+an official CBT Nuggets trainer). This sharpens the earlier "2017 remote Cisco role + RV
+travel → 2018 full-time CBT Nuggets trainer" arc — promote to biography with the precise date.
+(b) CERT TIMELINE: scheduled his own CCNP TSHOOT (300-135) Dec 2018 — the final CCNP exam;
+corroborates the "CCNP nearly done, TSHOOT outstanding" thread. (c) Cisco Live 2018 Orlando
+attendance (Cisco-community involvement). (d) NEW BELIEF: "the ONE skill you need in IT =
+customer service / people skills" — a soft-skills-over-technical value for persona/beliefs.
+(e) Dated 2018 infosec-automation prediction (DNA Center) — track for evolution. No inline
+persona edits. Debt now 10. >>> SYNTHESIS CHECKPOINT DUE next iteration → Stage S (pass 3).

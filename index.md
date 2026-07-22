@@ -7,7 +7,7 @@ _Last updated: 2026-07-22 (synthesis pass 2 — persona v2, free-courses page, h
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — dated life/career timeline (network engineer → CBT Nuggets trainer → 2014 channel → ~5M subs → coffee/Academy/Cloud Browser), registry-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/product/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **184 videos ingested (L2).**
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **190 videos ingested (L2).**
 
 ## Topics
 
