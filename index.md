@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-22 (synthesis pass 1 — persona compiled v1, topic hubs populated)_
+_Last updated: 2026-07-22 (synthesis pass 2 — persona v2, free-courses page, hubs extended)_
 
 ## Sources
 
@@ -18,6 +18,7 @@ _Last updated: 2026-07-22 (synthesis pass 1 — persona compiled v1, topic hubs 
 - [wiki/topics/cloud-devops/cloud-devops.md](wiki/topics/cloud-devops/cloud-devops.md) — cloud, containers, Kubernetes, Ansible, automation (hub).
 - [wiki/topics/ai-tools/ai-tools.md](wiki/topics/ai-tools/ai-tools.md) — LLMs, self-hosted AI, AI coding tools, automation (hub).
 - [wiki/topics/certifications-career/certifications-career.md](wiki/topics/certifications-career/certifications-career.md) — CCNA/A+/certs, IT-career advice (hub).
+- [wiki/topics/certifications-career/free-courses.md](wiki/topics/certifications-career/free-courses.md) — catalog of his six FREE full-course series (CCNA, Security+, Linux for Hackers, Python, Bash, Subnetting).
 - [wiki/topics/creator-coffee-business/creator-coffee-business.md](wiki/topics/creator-coffee-business/creator-coffee-business.md) — coffee, Academy, the creator/YouTube playbook (hub).
 
 ## Entities
@@ -33,6 +34,7 @@ _Last updated: 2026-07-22 (synthesis pass 1 — persona compiled v1, topic hubs 
 - [wiki/entities/jeremy-cioara.md](wiki/entities/jeremy-cioara.md) — CONTEXT: CBT Nuggets Cisco trainer, CCNA 200-301 co-author.
 - [wiki/entities/cameron-keith.md](wiki/entities/cameron-keith.md) — CONTEXT: Chuck's brother, "noobs" podcast co-host.
 - [wiki/entities/shawn-powers.md](wiki/entities/shawn-powers.md) — CONTEXT: Linux educator, interview collaborator.
+- [wiki/entities/john-hammond.md](wiki/entities/john-hammond.md) — CONTEXT: cybersecurity educator, interview guest.
 
 ## Persona (THE PRODUCT)
 
@@ -40,7 +42,7 @@ _Last updated: 2026-07-22 (synthesis pass 1 — persona compiled v1, topic hubs 
 - [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v1** (synthesis pass 1).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v2** (synthesis pass 2).
 
 ## Other
 

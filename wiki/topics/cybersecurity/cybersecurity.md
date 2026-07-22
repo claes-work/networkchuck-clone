@@ -32,8 +32,82 @@ Comparing the two 2019-era Cisco security tracks: **CCNA Security** needed a pre
 
 [[../../sources/2019-03-12-yt-PusUAu9gGiI]]. See also the certifications/career workstream and [[../homelab-selfhosting/homelab-selfhosting]] for the home-lab practice environment behind this study.
 
+### OSINT — open-source intelligence tooling (2020–2021)
+Starting 2020, Chuck built out a recurring OSINT thread: showing how much can be discovered about a target from public data alone, always framed as reconnaissance that ethical hackers and defenders need to understand (and that individuals should know about to protect their own footprint). The recurring tools/demos:
+- **Google dorking (Google hacking)** — advanced search operators (`site:`, `filetype:`, `inurl:`, `intitle:`, etc.) to surface exposed files, login pages, cameras, and misconfigured servers indexed by Google (2020-06-28). [[../../sources/2020-06-28-yt-hrVa_dhD-iA]]
+- **Sherlock** — hunt down a person's accounts across hundreds of social platforms by username (2021-03-06). [[../../sources/2021-03-06-yt-KdZvxxLsN3E]]
+- **PhoneInfoga** — reconnaissance on a phone number (carrier, location, footprint) (2021-03-13). [[../../sources/2021-03-13-yt-6CnDdXVTxhU]]
+- **Instagram OSINT** — pulling intelligence from Instagram profiles/activity (2021-03-28). [[../../sources/2021-03-28-yt-NWyqSbnsvGU]]
+- **Twitter OSINT** — mining public Twitter data for intelligence (2021-04-29). [[../../sources/2021-04-29-yt-SvO_FDa8AIs]]
+
+These run in [[../linux-terminal/linux-terminal]] (Kali/Linux) and reinforce the defensive lesson: know what you're leaking so you can lock it down.
+
+### Ethical-hacking demo catalog (2020–2022)
+As the channel's security content exploded through 2020–2022, Chuck ran a steady stream of hands-on attack demos. Two constants across all of them: (1) the attack is performed only against **his own or consenting systems** (his home network, his own VMs/labs, his own browser or infra), and (2) each closes with a **defensive lesson** — what setting, habit, or tool would have stopped it. Paraphrased catalog:
+- **Nmap** — network scanning/enumeration to find open ports and vulnerabilities on your own network (2020-07-09). [[../../sources/2020-07-09-yt-4t4kBkMsDbQ]]
+- **HashCat password cracking** — cracking password hashes with Kali + HashCat, and the takeaway on why long/unique passwords matter (2020-08-21). [[../../sources/2020-08-21-yt-z4_oqTZJqCo]]
+- **ProxyChains / Tor anonymity** — routing tools through proxy chains for anonymity, framed as "don't make this mistake" when learning to hack (2020-08-02). [[../../sources/2020-08-02-yt-qsA8zREbt6g]]
+- **Reverse shells with netcat** — establishing a callback shell to understand how attackers gain remote control (2021-07-08). [[../../sources/2021-07-08-yt-bXCeFPNWjsM]]
+- **BadUSB on a Raspberry Pi Pico** — turning an $8 Pi Pico into a keystroke-injection "bad USB," and why you should never trust unknown USB devices (2021-08-20). [[../../sources/2021-08-20-yt-e_f9p-_JWZw]]
+- **ARP spoofing / man-in-the-middle** — a device intercepting traffic on his own network via ARP poisoning (2021-09-24). [[../../sources/2021-09-24-yt-2rVzRoF7vQw]]
+- **Dark-web DDoS against his own infrastructure** — buying a DDoS attack on the dark web and pointing it at his own server to show the threat (explicitly "don't do this") (2020-10-03). [[../../sources/2020-10-03-yt-eZYtnzODpW4]]
+- **Tor hidden service on a Raspberry Pi** — standing up a dark-web (.onion) site on a Pi to demystify how hidden services work (2021-05-08). [[../../sources/2021-05-08-yt-bllS9tkCkaM]]
+- **"Hack like Mr. Robot"** — recreating show-style hacking techniques for teaching (2020-12-18). [[../../sources/2020-12-18-yt-nnAQ8SYzAnE]]
+- **Python malware (lab)** — writing malware in Python inside an isolated lab to understand how it works and how defenders detect it (2022-05-16). [[../../sources/2022-05-16-yt-UtMMjXOlRQc]]
+- **Browser exploitation** — hacking a web browser (demoed against his own/his wife's consenting machine) to show client-side attack surface (2022-02-15). [[../../sources/2022-02-15-yt-3ogyS4KOlXc]]
+
+Related tooling background lives in [[../linux-terminal/linux-terminal]]; the isolated environments these run in are covered in [[../homelab-selfhosting/homelab-selfhosting]].
+
+### Build-a-hacking-lab blueprint (2021–2022)
+Chuck repeatedly stresses that you should practice hacking **only** in an isolated lab you own — never on systems you don't have permission to touch. His lab guidance:
+- **How to build a hacking lab** — the blueprint: a Kali attack box plus deliberately vulnerable target VMs, isolated on their own network (2021-03-05). [[../../sources/2021-03-05-yt-mvsiuLzpx2E]]
+- **The $0.30 hacking lab** — a near-free cloud-based lab so cost is no excuse to practice illegally (2022-06-03). [[../../sources/2022-06-03-yt-4xJDDUt4Wq8]]
+- **Kasm browser-based Kali lab** — running Kali Linux in the browser via Kasm for a disposable, containerized hacking environment (2022-01-17). [[../../sources/2022-01-17-yt-U7e-mcJdZok]]
+
+### "How X gets hacked" awareness series (2021–2022)
+A defender-facing format that walks through how real targets get compromised so viewers can protect themselves:
+- **How big companies get hacked** — common enterprise attack paths (phishing, credential theft, misconfig) (2021-02-09). [[../../sources/2021-02-09-yt-bsCsuoIzyTg]]
+- **How YouTubers get hacked** — session-token/OAuth theft and social engineering aimed at creators, plus how to defend the account (2022-08-30). [[../../sources/2022-08-30-yt-u2M_V5LtzpQ]]
+
+### FREE Security+ course
+Extending his "free certification course" model from the CCNA into security, Chuck published a free **CompTIA Security+** training series on the channel (episodes covering hacking fundamentals, phishing, social engineering, and web attacks — see the 2020-10 → 2020-11 Security+ source pages below). Details and links are tracked under [[../certifications-career/free-courses]] alongside his other free courses.
+
+### The entry-level hacking certification — PenTest+ (2020-12-19)
+Chuck points beginners who want to go into offensive security toward **CompTIA PenTest+** as a solid first *hacking* certification — an entry point into penetration testing that pairs well with Security+ and the hands-on lab work above (2020-12-19). [[../../sources/2020-12-19-yt-EY-Scg1z6zA]] See also [[../certifications-career/certifications-career]].
+
+### The consistent ethics / legality frame (through-line)
+Across every OSINT tool, attack demo, lab build, and awareness video from 2020 onward, Chuck applies the same explicit framing established in the earlier WiFi demos: the content is **educational**, run **only against systems you own or have explicit consent to test**, and its purpose is **defensive** — learn how the attack works so you can stop it. He repeatedly warns viewers not to use these techniques on others ("do not do this without permission"), the goal being to become a **white-hat**: *"learn how to hack things so you can learn how to protect things."* This ethics/legality frame should be treated as core to his security voice and reproduced whenever the persona discusses offensive tooling.
+
 ## Source pages
 
 - 2018-04-17 — [[../../sources/2018-04-17-yt-lTlTjeCjXYM]] — Hack a Cisco Switch with a Raspberry Pi (VLAN hopping / DTP / Yersinia)
 - 2019-03-12 — [[../../sources/2019-03-12-yt-PusUAu9gGiI]] — CCNA Cyber Ops vs CCNA Security (both since retired)
 - 2019-08-27 — [[../../sources/2019-08-27-yt-q7HkIwbj3CM]] — Hacking Public WiFi with a Raspberry Pi and Kali Linux (evil twin / deauth / ARP MITM; ethics + VPN defense)
+- 2020-06-28 — [[../../sources/2020-06-28-yt-hrVa_dhD-iA]] — Google HACKING (Google dorking / OSINT)
+- 2020-07-09 — [[../../sources/2020-07-09-yt-4t4kBkMsDbQ]] — Nmap tutorial to find network vulnerabilities
+- 2020-08-02 — [[../../sources/2020-08-02-yt-qsA8zREbt6g]] — learning hacking? DON'T make this mistake!! (ProxyChains / Tor anonymity)
+- 2020-08-21 — [[../../sources/2020-08-21-yt-z4_oqTZJqCo]] — how to HACK a password (Kali + HashCat)
+- 2020-10-03 — [[../../sources/2020-10-03-yt-eZYtnzODpW4]] — i bought a DDoS attack on the DARK WEB (against own infra; don't do this)
+- 2020-10-19 — [[../../sources/2020-10-19-yt-vyqSdJLVQgg]] — 3 Hacking Skills EVERYONE has // FREE Security+ // EP 1
+- 2020-10-28 — [[../../sources/2020-10-28-yt-u9dBGWVwMMA]] — Phishing attacks // FREE Security+ // EP 2
+- 2020-11-10 — [[../../sources/2020-11-10-yt-HfPKe98UqEI]] — i hacked my grandma (social engineering) // FREE Security+ // EP 3
+- 2020-11-17 — [[../../sources/2020-11-17-yt-UydNRZp_fmk]] — your favorite websites can be HACKED // FREE Security+ // EP 4
+- 2020-11-20 — [[../../sources/2020-11-20-yt-Q2ErfVPomFQ]] — you're about to get hacked (7 reasons) // FREE Security+ // EP 6
+- 2020-12-18 — [[../../sources/2020-12-18-yt-nnAQ8SYzAnE]] — hack like Mr. Robot
+- 2020-12-19 — [[../../sources/2020-12-19-yt-EY-Scg1z6zA]] — your first Hacking certification (PenTest+)
+- 2021-02-09 — [[../../sources/2021-02-09-yt-bsCsuoIzyTg]] — How Big Companies Get Hacked
+- 2021-03-05 — [[../../sources/2021-03-05-yt-mvsiuLzpx2E]] — how to build a HACKING lab
+- 2021-03-06 — [[../../sources/2021-03-06-yt-KdZvxxLsN3E]] — find social media accounts with Sherlock (OSINT)
+- 2021-03-13 — [[../../sources/2021-03-13-yt-6CnDdXVTxhU]] — find info on phone numbers with PhoneInfoga (OSINT)
+- 2021-03-28 — [[../../sources/2021-03-28-yt-NWyqSbnsvGU]] — Instagram OSINT
+- 2021-04-29 — [[../../sources/2021-04-29-yt-SvO_FDa8AIs]] — Twitter OSINT (ethical hacking)
+- 2021-05-08 — [[../../sources/2021-05-08-yt-bllS9tkCkaM]] — i put a DARK WEB website on a Raspberry Pi!! (Tor hidden service)
+- 2021-07-08 — [[../../sources/2021-07-08-yt-bXCeFPNWjsM]] — reverse shells with netcat
+- 2021-08-20 — [[../../sources/2021-08-20-yt-e_f9p-_JWZw]] — bad USBs are SCARY!! (BadUSB on a Raspberry Pi Pico)
+- 2021-09-24 — [[../../sources/2021-09-24-yt-2rVzRoF7vQw]] — this device is HACKING my network!! (ARP spoofing / MITM)
+- 2022-01-17 — [[../../sources/2022-01-17-yt-U7e-mcJdZok]] — create the ULTIMATE hacking lab (Kasm Kali-in-browser)
+- 2022-02-15 — [[../../sources/2022-02-15-yt-3ogyS4KOlXc]] — i HACKED my wife's web browser (browser exploitation)
+- 2022-03-14 — [[../../sources/2022-03-14-yt-GMOoXz20VZU]] — my kids built a HACKING computer!!
+- 2022-05-16 — [[../../sources/2022-05-16-yt-UtMMjXOlRQc]] — i created malware with Python (lab)
+- 2022-06-03 — [[../../sources/2022-06-03-yt-4xJDDUt4Wq8]] — the $0.30 Hacking Lab
+- 2022-08-30 — [[../../sources/2022-08-30-yt-u2M_V5LtzpQ]] — How YouTubers Get Hacked

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 12
+sources: 15
 ---
 
 # Biography
@@ -37,8 +37,11 @@ LinkedIn, and company pages). Seeded v1 from
 - **Late 2018 — Back in Dallas; explicit channel pivot toward network automation / coding.** After full-time family travel across **Europe** (roughly a month each in **Paris** and **Strasbourg**, plus time in **Budapest**), he returned to **Dallas, Texas** — mainly because it was too hard to focus, study, and produce content while traveling with three young kids. He built a recording studio and declared **network automation and network programmability** (partnering with Cisco) the thing he was most excited about — the pivot that reshaped the channel. Channel was nearing **~44,000 subscribers**. 🗣️ ([[../wiki/sources/2018-10-25-yt-O8HDIRtMvwI]])
 - **Dec 2019 — Co-created and co-taught the CBT Nuggets CCNA 200-301 course** with **Jeremy Cioara** and **Keith Barker**; his specific contribution was the **Network Automation** domain (the final domain of the new CCNA). 🗣️ ([[../wiki/sources/2019-12-21-yt-GwHyoTVN_gA]])
 - **2020 — The "you need to learn X RIGHT NOW" tutorial era begins.** His signature show-don't-tell format (build-it-live cold opens, coffee energy, hands-on labs) crystallizes around broad IT skills like **Docker** (and soon **Ansible**), marking the shift from Cisco-cert niche to mass-audience hands-on tutorials. 🗣️ ([[../wiki/sources/2020-04-02-yt-eGz9DS-aIeY]])
+- **~2020–2022 — The "you need to learn X RIGHT NOW" era at full stride.** The signature push broadens into a deep cloud/DevOps/dev curriculum — **Docker, Ansible, AWS, Kubernetes, Google Cloud, Virtual Machines, Load Balancing, SQL, Python, Bash** — all framed as skills you must pick up immediately. 🗣️ ([[../wiki/sources/2020-04-02-yt-eGz9DS-aIeY]])
 - **July 2020 — Launches [[../wiki/entities/networkchuck-coffee|NetworkChuck Coffee]]**, "the official coffee for IT Professionals" — coffee funds the free YouTube training. 📰/🗣️ Also earns CompTIA Linux+ (May 2020) and Cisco DevNet Associate/DevNet 500 (Feb 2020). ([[2026-07-14-research-biography-dossier]], §5, §8)
+- **2020 (mid) — Launches the "FREE CCNA" course** (Day 0, July 2020) — the first of a signature series of **free full courses**. Over 2020–2022 he adds **FREE Security+** (Oct 2020), **Linux for Hackers** (Mar 2021), **Python** (Aug 2021), **Bash** (Mar 2022), and **"You SUCK at Subnetting"** (Apr 2022) — a deliberate free-full-course content strategy. 🗣️ ([[../wiki/sources/2020-07-04-yt-S7MNX_UD7vY]], [[../wiki/sources/2020-10-19-yt-vyqSdJLVQgg]], [[../wiki/sources/2021-03-19-yt-VbEx7B_PTOE]]; see [[../wiki/topics/certifications-career/free-courses]])
 - **2021–2022 — Launches [[../wiki/entities/networkchuck-academy|NetworkChuck Academy]]** — "dedicated to helping you hack your IT career"; membership model (~$12/mo, 700+ lessons, "Weekly Skill Drop"). 🗣️/📰 ([[2026-07-14-research-biography-dossier]], §9)
+- **Jan 2022 — Publishes a "stream Kali Linux to your browser" hacking-lab video using [[../wiki/entities/networkchuck-cloud-browser|Kasm]] container-streaming** — the SAME technology that later underpins his **NetworkChuck Cloud Browser** product (~2023). He documents the product's technical origin in his own content years before shipping it. 🗣️ ([[../wiki/sources/2022-01-17-yt-U7e-mcJdZok]])
 - **~2023 — Launches [[../wiki/entities/networkchuck-cloud-browser|NetworkChuck Cloud Browser]]**, a SaaS disposable-cloud-browser product built on **Kasm** container-streaming. 📰 ([[2026-07-14-research-biography-dossier]], §10)
 - **2025 — Reunites with David Bombal at Cisco Live 2025**, championing networking's revival in the AI era and a CCNA-series relaunch. 📰 ([[2026-07-14-research-biography-dossier]], §7)
 - **2026 (mid) — ~5 million YouTube subscribers** (~370M+ views), ranked #1 cybersecurity creator by Favikon; runs a diversified education-media-coffee business from the **Dallas–Fort Worth area, Texas**, under **NetworkChuck LLC** (TX #0803634772). 📰/✅ ([[2026-07-14-research-biography-dossier]], §6, §11–12)

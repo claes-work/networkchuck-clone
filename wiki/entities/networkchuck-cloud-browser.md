@@ -3,6 +3,7 @@ type: entity
 entity_type: product
 created: 2026-07-14
 tags: [product, saas, security, subject-founded, current]
+updated: 2026-07-22
 ---
 
 # NetworkChuck Cloud Browser
@@ -33,6 +34,14 @@ with Chuck's cybersecurity/privacy content niche.
 Promoted publicly from **~early/mid 2023** (LinkedIn references to "NetworkChuck Cloud Browser"
 date to March 2023); v1.0 documentation exists at browser.networkchuck.com/docs. Exact GA date
 not pinned.
+
+## Technical origin (in his own content)
+
+In **January 2022** — over a year before the Cloud Browser product went public — NetworkChuck
+published a tutorial streaming **Kali Linux from a Docker container to the browser** using
+**Kasm** (Kasm Workspaces / KasmVNC). That is the same container-streaming technology the Cloud
+Browser SaaS is built on (see [Technology](#technology-)), documenting the product's technical
+lineage in his own educational content. Source: [[../sources/2022-01-17-yt-U7e-mcJdZok]].
 
 ## See also
 

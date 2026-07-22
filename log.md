@@ -428,3 +428,30 @@ networking + Docker Compose + SQL learn-X — the cloud-devops hub keeps growing
 now a multi-video subtopic). (d) New guest entity: John Hammond (security educator,
 interview) — add to entity debt. No inline persona edits. Debt now 10.
 >>> SYNTHESIS CHECKPOINT DUE next iteration → run Stage S (synthesis pass 2).
+
+## [2026-07-22] lint | synthesis pass 2 — @NetworkChuck P1 mid era (2020-06→2022-08, batches 9–18)
+Second synthesis pass. Drained the 10-batch debt (pages 60–126, 67 new L2) INWARD; recompiled
+the clone to v2. One agent per file (concurrency rule).
+PROMOTED:
+- NEW wiki/topics/certifications-career/free-courses.md — catalog of the SIX free full-course
+  series (FREE CCNA [15 eps], Security+ [EP1-6, EP5 gap flagged], Linux for Hackers, Python,
+  Bash, You SUCK at Subnetting), each with ingested-episode wikilinks. A defining content
+  strategy. Linked from certifications-career hub + creator-coffee-business + index.
+- persona/beliefs.md — added: no-excuses accessibility ($0.30/Pi lab), build-a-lab hands-on-
+  first pedagogy, tech-for-everyone/kids, broad cloud/tooling polyglot fluency, updated 2022
+  "hack your IT career" playbook (continuity w/ 2018), + dated ethical-hacking sub-note.
+- persona/biography.md — added: free-course series 2020–2022; the "learn X RIGHT NOW" cloud
+  era; Jan-2022 Kasm Kali-in-browser video as the documented technical precursor to the
+  NetworkChuck Cloud Browser (~2023).
+- wiki/topics/cloud-devops + cybersecurity hubs — extended with the full learn-X cloud series,
+  Docker multi-video subtopic, OSINT cluster, ethical-hacking demo catalog, build-a-lab
+  blueprint, "how X gets hacked" awareness series; refreshed source-page lists (cloud-devops
+  23 sources, cybersecurity 28).
+- wiki/entities/networkchuck-cloud-browser.md — added "Technical origin" note (Kasm precursor).
+- NEW entity john-hammond (security educator, interview guest).
+- persona/system-prompt.md — recompiled v2 (compiled_from_sources ~126, ~660-word prompt).
+State: advanced high-water mark to "2015-12 → 2022-08 (batches 1–18)"; checkpoint 2 → Done.
+Synthesis notes: none (this IS the pass; debt drained). DEFERRED: appearance.md still empty;
+father entity (chuck-keith-sr) not yet a page; networking/linux/homelab hub source-lists not
+exhaustively refreshed this pass (episodes are in youtube-index + free-courses page); ai-tools
+domain still awaits sources (none ingested yet).
