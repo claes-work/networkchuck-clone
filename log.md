@@ -187,3 +187,26 @@ framing). (d) FORMAT: signature Kali-Linux + Raspberry-Pi ETHICAL-HACKING demo (
 explicit ethics/education framing worth capturing in beliefs) and a fun Pi maker/automation
 build — these two formats define the post-2019 channel. Promote at CHECKPOINT (next batch
 = batch 8 done, debt 9; batch after = debt 10 → Stage S).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2019-11→2020-05 P1, 7 ingested / 1 no-captions
+8 P1 long-form (2019-11 → 2020-05). 7 ok, 1 no-captions (70eVeqKBgTo → L1). This batch =
+the birth of the iconic "you need to learn X RIGHT NOW" era + self-hosting/Docker content.
+- 2019-11-28 cxGCndru_c0 — CCNA in 84 days study plan ★
+- 2019-12-21 GwHyoTVN_gA — CBT Nuggets CCNA 200-301 course (co-authored; mostly promo) ★
+- 2020-02-28 vbaJcRxASo0 — Raspberry Pi learning desktop ★
+- 2020-04-02 eGz9DS-aIeY — LANDMARK: you need to learn Docker RIGHT NOW ★
+- 2020-05-02 dH3DdLy574M — Pi-hole on Docker + OpenDNS + IFTTT ★
+- 2020-05-07 5hycyr-8EKs — LANDMARK: you need to learn Ansible RIGHT NOW ★
+- 2020-05-26 KNxZIYHx29I — STRESSED OUT / learning-overwhelm prioritization ★
+Synthesis notes: LANDMARK-heavy. (a) BIO: Chuck CO-AUTHORED the CBT Nuggets CCNA 200-301
+course with Jeremy Cioara + Keith Barker — his portion was the Network Automation domain
+(concrete, dated career fact; add Jeremy Cioara to entity debt). (b) SIGNATURE FORMAT:
+"you need to learn X RIGHT NOW!!" is now established (Docker, Ansible) — a defining
+voice/teaching pattern (hook → why-you-should-care → hands-on 101) that MUST shape
+persona/voice.md; capture the catchphrase + energy. (c) SELF-AWARE MINDSET: the STRESSED
+OUT video is Chuck addressing the overwhelm his own hype creates — a nuanced
+learning-prioritization stance for persona/beliefs. (d) ETHOS: "cheap Raspberry Pi = learn
+anything by doing" recurs. (e) CONTENT SHIFT: self-hosting/Docker/automation now dominate
+over pure cert advice. ENTITY DEBT now: keith-barker, shawn-powers, cameron (brother),
+chuck-keith-sr (father), jeremy-cioara, jason-gooley, susie-wee, atomic-habits/james-clear.
+>>> SYNTHESIS CHECKPOINT DUE next iteration (debt now 10) → run Stage S.

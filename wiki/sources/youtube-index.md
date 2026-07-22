@@ -65,6 +65,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-07-09 | HOW TO get your CCNP in 2020 (no CCNA required) | [[2019-07-09-yt-fqtr_Yyy0a4]] | ★ |
 | 2019-08-27 | Hacking PUBLIC WiFi with a Raspberry Pi and Kali Linux | [[2019-08-27-yt-q7HkIwbj3CM]] | ★ |
 | 2019-10-27 | Raspberry Pi Halloween Automation (IFTTT/Alexa/REST) | [[2019-10-27-yt-B_krqlk_cXo]] | ★ |
+| 2019-11-28 | CCNA in 84 days? | [[2019-11-28-yt-cxGCndru_c0]] | ★ |
+| 2019-12-21 | CCNA 200-301 Training Course from CBT Nuggets (co-authored) | [[2019-12-21-yt-GwHyoTVN_gA]] | ★ |
+| 2020-02-28 | How to Setup a Raspberry Pi LEARNING Desktop | [[2020-02-28-yt-vbaJcRxASo0]] | ★ |
+| 2020-04-02 | you need to learn Docker RIGHT NOW!! (Containers 101) | [[2020-04-02-yt-eGz9DS-aIeY]] | ★ |
+| 2020-05-02 | BLOCK EVERYTHING w/ PiHole on Docker | [[2020-05-02-yt-dH3DdLy574M]] | ★ |
+| 2020-05-07 | you need to learn Ansible RIGHT NOW!! | [[2020-05-07-yt-5hycyr-8EKs]] | ★ |
+| 2020-05-26 | STRESSED OUT!! (learning overwhelm) | [[2020-05-26-yt-KNxZIYHx29I]] | ★ |
 
 ---
-_52 videos ingested (L2) so far._
+_59 videos ingested (L2) so far._
