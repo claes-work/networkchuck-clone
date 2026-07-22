@@ -69,3 +69,23 @@ self-studied his own certs; earned Security+ at WGU via CBT Nuggets / Keith Bark
 CCNP in progress ~3 yrs with TSHOOT outstanding (dates his own cert timeline). (d) His
 first hands-on Cisco CLI/technical tutorial (2017-11) — marks the shift from
 study-advice content toward hands-on tech. Promote at next synthesis checkpoint.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — late-2017 P1, 7 ingested / 1 skipped
+8 P1 long-form (2017-11 → 2017-12, the daily-upload late-2017 run). 7 ok, 1 skipped.
+- Skipped: qkUTB65OfAc "You CAN Learn Python - 10 WINNERS" (winner-announcement, no content).
+- Ingested L2:
+  - 2017-11-23 2vJehMLbZGw — Learning Python is HARD
+  - 2017-12-15 PxC5UMAiVZQ — Christmas giveaway w/ goal-setting anecdote ★
+  - 2017-12-16 MN0KzfzlRio — Packet Tracer vs GNS3 ★
+  - 2017-12-17 M3da0R-m_Ww — CCNP after CCNA? ★
+  - 2017-12-18 f8e-be_nMa8 — is it worth it to be a net engineer? ★
+  - 2017-12-19 TCQdJwLMqfY — learn Linux with the CCNA
+  - 2017-12-20 SlHfqJyqsmo — am I too old? ★
+Synthesis notes: New — (a) Goal-setting method + Paris-trip bio detail (late 2017; he &
+wife set a 5-year goal and achieved it; self-reported). (b) Packet Tracer vs GNS3 lab-tool
+selection framework for CCNA study. (c) Bio: he earned CCNA Voice before CCNP R&S;
+positions collaboration/voice as a personal specialty. (d) His 2017 view on network-engineer
+career longevity vs automation/SDN (DATE-SENSITIVE — likely evolves; flag for contradiction
+check against later cloud/automation content). (e) "Next-gen network engineer = networking +
+Python + Linux" skill-stack framing recurs (reinforces the "unicorn" framework). (f) "Never
+too late / you're not too old" encouragement ethos stated explicitly. Promote at checkpoint.

@@ -27,6 +27,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-08-30 | CompTIA or Cisco? (entry-cert sequencing) | [[2017-08-30-yt-EywIAz8fPnY]] | ★ |
 | 2017-10-22 | Should I Self-Study for the CCNA? | [[2017-10-22-yt-MdYhc4O3G7w]] | ★ |
 | 2017-11-06 | 3 Cisco CLI (Command-line) Hacks (CCNA) | [[2017-11-06-yt-9Vs56S95Mrs]] | ★ |
+| 2017-11-23 | Learning Python is HARD!! | [[2017-11-23-yt-2vJehMLbZGw]] |  |
+| 2017-12-15 | 10 Days of Christmas GIVEAWAY (goal-setting anecdote) | [[2017-12-15-yt-PxC5UMAiVZQ]] | ★ |
+| 2017-12-16 | CCNA Labs - Packet Tracer or GNS3? | [[2017-12-16-yt-MN0KzfzlRio]] | ★ |
+| 2017-12-17 | Should I Get the CCNP After the CCNA? | [[2017-12-17-yt-M3da0R-m_Ww]] | ★ |
+| 2017-12-18 | Is it still WORTH IT to become a Network Engineer? | [[2017-12-18-yt-f8e-be_nMa8]] | ★ |
+| 2017-12-19 | Should I Learn LINUX with the CCNA \| CCNP? | [[2017-12-19-yt-TCQdJwLMqfY]] |  |
+| 2017-12-20 | Am I Too OLD to Become a Network Engineer? | [[2017-12-20-yt-SlHfqJyqsmo]] | ★ |
 
 ---
-_14 videos ingested (L2) so far._
+_21 videos ingested (L2) so far._
