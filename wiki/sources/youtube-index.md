@@ -113,6 +113,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-11-02 | Nvidia does cybersecurity?!? and networking? | [[2021-11-02-yt-XIoHFklOcVQ]] |  |
 | 2021-11-16 | putting 5G and MEC to the test!! | [[2021-11-16-yt-4c_rKOaTquM]] | ★ |
 | 2021-12-10 | you need to create a Cryptocurrency RIGHT NOW!! (Solana) | [[2021-12-10-yt-befUVytFC80]] | ★ |
+| 2021-12-17 | KILL Linux processes!! // Linux for Hackers // EP 7 | [[2021-12-17-yt-LfC6pv8VISk]] | ★ |
+| 2021-12-22 | i'm buying everyone NFTs for Christmas | [[2021-12-22-yt-rHCwI4K7afY]] | ★ |
+| 2022-01-20 | i created a 24/7 livestream (to help you study) | [[2022-01-20-yt-0scjy6Zxzwc]] | ★ |
+| 2022-01-26 | mining crypto with your internet?!?! | [[2022-01-26-yt-El19X-zHt-c]] | ★ |
+| 2022-01-28 | i hired my replacement…kind of (future of NetworkChuck) | [[2022-01-28-yt-UiO6uFHqwbU]] | ★ |
+| 2022-02-07 | If Else Statements in Python // Python // EP 4 | [[2022-02-07-yt-5-5Mf_L0UKw]] | ★ |
+| 2022-02-09 | 2 cool (web) things to do in Linux // Linux for Hackers // EP 8 | [[2022-02-09-yt-HSRghjwTTOQ]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -258,4 +265,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_236 videos ingested (L2) so far._
+_243 videos ingested (L2) so far._

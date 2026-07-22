@@ -803,3 +803,21 @@ belief (anyone can learn). (c) DATE-SENSITIVE: 2021 crypto/blockchain content (S
 mark era-specific; his content follows tech trends (crypto 2021, AI 2023+). (d) Homelab grows
 (new ESXi server). (e) Some sponsored/interview content (Nvidia w/ guest Kevin Deierling; 5G/MEC)
 — attributed to guests/marked sponsored. No inline persona edits. Debt now 7.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2021-12→2022-02 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429.
+- 2021-12-17 LfC6pv8VISk — Linux for Hackers EP7 (processes) ★
+- 2021-12-22 rHCwI4K7afY — NFTs for Christmas (2021 NFT era) ★
+- 2022-01-20 0scjy6Zxzwc — 24/7 study-with-me livestream (community) ★
+- 2022-01-26 El19X-zHt-c — bandwidth mining (2022; decentralization values) ★
+- 2022-01-28 UiO6uFHqwbU — hired my replacement (NetworkChuck → team/business, 2022) ★
+- 2022-02-07 5-5Mf_L0UKw — Python EP4 (if/else) ★
+- 2022-02-09 HSRghjwTTOQ — Linux for Hackers EP8 (web/curl/wget) ★
+Synthesis notes: (a) BIO/BUSINESS: ~2022 NetworkChuck SCALES INTO A TEAM/BUSINESS (hiring
+help/other creators) — the channel is no longer just Chuck; add to biography + creator-coffee-
+business (business evolution). (b) COMMUNITY: launched a 24/7 "study-with-me" livestream —
+community/study-help ethos (pairs with Twitch study streams). (c) VALUES: the bandwidth-mining
+video surfaces DECENTRALIZATION / "did it for the tech not the money" values — a beliefs/voice
+datapoint. (d) Free courses advance: Linux for Hackers EP7/EP8, Python EP4 — update free-courses
+page. (e) DATE-SENSITIVE 2021-22 crypto/NFT content — mark era-specific. No inline persona edits.
+Debt now 8 (checkpoint at 10 — ~2 batches out).
