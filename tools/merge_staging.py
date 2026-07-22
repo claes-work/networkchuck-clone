@@ -35,8 +35,17 @@ COLS = [
 # BOOTSTRAP HOOK: /clone-setup appends subject-specific markers here —
 #   P3_EXTRA: guest/Q&A formats named after the subject (e.g. "ask alex|asks alex")
 #   P1_EXTRA: landmark markers — book titles, signature courses, company origin stories
-P3_EXTRA: list[str] = []
-P1_EXTRA: list[str] = []
+P3_EXTRA: list[str] = [
+    # NetworkChuck podcast / Q&A / live formats:
+    r"\bnoobs\b", r"podcast", r"q ?& ?a", r"\bask (me|chuck)\b",
+    r"coffee (chat|with|and)", r"study with me", r"hangout", r"\bstream\b",
+]
+P1_EXTRA: list[str] = [
+    # Landmarks: signature series, origin, career/homelab staples.
+    r"free ccna", r"you (really )?need to learn", r"\bhack(ed|ing)?\b", r"homelab",
+    r"self.?host", r"raspberry pi", r"\bdocker\b", r"proxmox", r"\bccna\b", r"\ba\+\b",
+    r"hack your (it )?career", r"my story", r"how i (started|got)", r"get into (it|cyber)",
+]
 
 P3_RE = re.compile(
     "|".join([
