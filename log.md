@@ -715,3 +715,20 @@ biography. (b) Reinforces the learning-overwhelm coping theme (STOP/RESET). (c) 
 is his recurring home-network gear (homelab). (d) Mostly dated news/reviews (MS cert retirement,
 UDM) — L2 is sufficient. 1 rate-limit (1 of the 3-strike safety rail; fine). No inline persona
 edits. Debt now 2.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020 P2, 6 ingested / 2 rate-limited
+8 P2 (2020-07 → 2020-10). 6 ok, 0 skipped, 2 x 429 rate-limit (left open). Rate-limiting is
+building (1 last batch, 2 this batch) — watch for the 3-consecutive-failure safety rail.
+- 2020-07-17 -pNupSPAgJA — HUGE announcement: quit job → FULL-TIME YOUTUBE (Jul 2020) ★
+- 2020-08-18 dgdOILL1184 — Kali GUI on WSL2 (Win-KeX)
+- 2020-08-28 m-i2JBtG4FE — free VPN server on AWS
+- 2020-09-09 Bbqdq2sR6SY — 5G & cloud gaming (2020 take)
+- 2020-09-14 fQek73drZS4 — how hackers hide files (forensics/awareness)
+- 2020-10-08 yLf2jRY39Rc — FREE Security+ EP0 (intro; SY0-501 vs 601) ★
+Synthesis notes: LANDMARK BIO. (a) ~Jul 2020: he QUIT his full-time job (at CBT Nuggets) to
+do YOUTUBE FULL-TIME — the moment he became a full-time creator. Add to biography (sharpens
+the arc: 2018 CBT Nuggets FT trainer → mid-2020 full-time YouTuber; and NetworkChuck Coffee
+also launched ~Jul 2020 to fund the free training — the two are linked). (b) FREE Security+
+now has its EP0 intro (course-structure + SY0-501→601 exam-version note) — add to the
+free-courses page's Security+ episode list. (c) Rest = dated security/networking tutorials
+(Kali WSL2, AWS VPN, 5G, file-hiding) — L2 sufficient. No inline persona edits. Debt now 3.

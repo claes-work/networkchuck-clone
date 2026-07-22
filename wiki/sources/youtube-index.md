@@ -81,6 +81,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-03-10 | the UniFi Dream Machine Pro | [[2020-03-10-yt-noC8t8nwji4]] |  |
 | 2020-05-09 | get started with Ansible Network Automation | [[2020-05-09-yt-OWKPxAgh9DU]] |  |
 | 2020-05-16 | IT certifications: one thing I HATE! | [[2020-05-16-yt-0fJz-xMrqFw]] |  |
+| 2020-07-17 | HUGE announcement!! (quit job → full-time YouTube) | [[2020-07-17-yt--pNupSPAgJA]] | ★ |
+| 2020-08-18 | new Kali Linux GUI on Windows 10 (WSL 2) | [[2020-08-18-yt-dgdOILL1184]] |  |
+| 2020-08-28 | setup a FREE VPN server in the cloud (AWS) | [[2020-08-28-yt-m-i2JBtG4FE]] |  |
+| 2020-09-09 | 5G will change gaming FOREVER | [[2020-09-09-yt-Bbqdq2sR6SY]] |  |
+| 2020-09-14 | How Hackers hide files on Windows 10 and Linux | [[2020-09-14-yt-fQek73drZS4]] |  |
+| 2020-10-08 | FREE CompTIA Security+ Course // EP 0 (SY0-501 vs 601) | [[2020-10-08-yt-yLf2jRY39Rc]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -226,4 +232,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_204 videos ingested (L2) so far._
+_210 videos ingested (L2) so far._
