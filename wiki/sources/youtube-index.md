@@ -74,6 +74,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-05-25 | SCHEDULED THE CCIE EXAM!! (written attempt; ⚠️ not a held cert) | [[2019-05-25-yt-lzFIm3zg_nI]] | ★ |
 | 2019-09-06 | The Most Dangerous Linux Commands | [[2019-09-06-yt-cChGFpElMEM]] | ★ |
 | 2019-09-15 | UNLIMITED Google Drive Storage (2019, obsolete) | [[2019-09-15-yt-oPrKUSizQVQ]] |  |
+| 2020-01-26 | this year....I'm going to become a HACKER!! | [[2020-01-26-yt-bTPpKxuV-CY]] | ★ |
+| 2020-02-06 | OVERWHELMED with technology (IT) | [[2020-02-06-yt-2IY1U5ljeFE]] | ★ |
+| 2020-02-16 | UniFi Dream Machine review | [[2020-02-16-yt-BezoNUflqXo]] |  |
+| 2020-02-27 | GOODBYE Microsoft certifications!! (MCSA/MCSE) | [[2020-02-27-yt-laaGuJItNCM]] |  |
+| 2020-03-10 | the UniFi Dream Machine Pro | [[2020-03-10-yt-noC8t8nwji4]] |  |
+| 2020-05-09 | get started with Ansible Network Automation | [[2020-05-09-yt-OWKPxAgh9DU]] |  |
+| 2020-05-16 | IT certifications: one thing I HATE! | [[2020-05-16-yt-0fJz-xMrqFw]] |  |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -219,4 +226,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_197 videos ingested (L2) so far._
+_204 videos ingested (L2) so far._

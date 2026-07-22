@@ -698,3 +698,20 @@ added on the source page. At synthesis, add a biography "Known uncertainties"/ti
 finally sources WHY the CCIE keeps coming up. (c) "This is IT!" show with David Bombal confirmed
 (EP1, co-hosted) — reinforces the [[david-bombal]] partnership. No inline persona edits (next
 synthesis promotes the CCNP-complete + CCIE-pursuit facts). Debt now 1.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020 P2, 7 ingested / 1 rate-limited
+8 P2 (2020). 7 ok, 0 skipped, 1 x 429 rate-limit (YOomKJdLLEo, left open for retry).
+- 2020-01-26 bTPpKxuV-CY — "going to become a HACKER" (2020 pivot into cyber content) ★
+- 2020-02-06 2IY1U5ljeFE — overwhelmed with IT (learning-overwhelm coping) ★
+- 2020-02-16 BezoNUflqXo — UniFi Dream Machine review
+- 2020-02-27 laaGuJItNCM — goodbye Microsoft certs (MCSA/MCSE retired 2020)
+- 2020-03-10 noC8t8nwji4 — UniFi Dream Machine Pro review
+- 2020-05-09 OWKPxAgh9DU — Ansible network automation (Cisco lab)
+- 2020-05-16 0fJz-xMrqFw — cert thing I hate (at-home proctoring shift)
+Synthesis notes: (a) BIO/DIRECTION: Jan-2020 "this year I'm going to become a HACKER"
+declaration — dates his deliberate pivot into the cybersecurity/ethical-hacking content that
+becomes a channel pillar (pairs with the 2020 FREE Security+ + hacking-tutorial surge). Add to
+biography. (b) Reinforces the learning-overwhelm coping theme (STOP/RESET). (c) UniFi/Ubiquiti
+is his recurring home-network gear (homelab). (d) Mostly dated news/reviews (MS cert retirement,
+UDM) — L2 is sufficient. 1 rate-limit (1 of the 3-strike safety rail; fine). No inline persona
+edits. Debt now 2.
