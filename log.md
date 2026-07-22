@@ -258,3 +258,22 @@ creator-coffee-business (free-course-as-audience-engine). (b) Cybersecurity teac
 tutorials proliferate (Google dorking, Nmap, Kali-on-WSL2) — reinforce the ethical-hacking
 teaching hub. No persona/belief changes needed yet (voice/beliefs already captured these
 patterns in pass 1). Debt now 1.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020-08→2020-09 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2020-08 → 2020-09). 7 ok, 0 skipped, 1 transient fetch error
+(re-queues). More FREE CCNA + cybersecurity tutorials + AWS learn-X + Pi homelab.
+- 2020-08-02 qsA8zREbt6g — hacking anonymity: Kali+ProxyChains+Tor (ethics) ★
+- 2020-08-06 CRdL1PcherM — FREE CCNA EP3 (TCP/IP + OSI) ★
+- 2020-08-06 3kfO61Mensg — FREE CCNA EP4 (TCP/IP+OSI real-life example) ★
+- 2020-08-15 bgPuPSPZe2U — landmark: you need to learn AWS RIGHT NOW ★
+- 2020-08-21 z4_oqTZJqCo — password cracking: Kali+HashCat (defensive) ★
+- 2020-08-27 oIRkXulqJA4 — FREE CCNA EP5 (OSI app/transport layers) ★
+- 2020-09-04 8QyFidVcoLM — Pi phone system / 3CX PBX (VoIP, ties to his collab background) ★
+Synthesis notes: (a) FREE CCNA course continues — EP 3, 4, 5 (TCP/IP + OSI). Track for the
+dedicated FREE-CCNA structure flagged last batch. (b) "you need to learn AWS RIGHT NOW"
+extends the signature learn-X format into CLOUD (AWS) — already captured as a pattern in
+pass-1 voice/beliefs; just add AWS to the cloud-devops hub next synthesis. (c) Ethical-
+hacking teaching deepens (ProxyChains/Tor anonymity + HashCat password cracking, both with
+explicit defensive/ethics framing) — reinforce cybersecurity hub. (d) Pi 3CX PBX ties back
+to his Cisco VoIP/collaboration specialty (biography). No persona changes needed this batch.
+Debt now 2.

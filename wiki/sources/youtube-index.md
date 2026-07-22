@@ -78,6 +78,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-07-09 | Nmap Tutorial to find Network Vulnerabilities | [[2020-07-09-yt-4t4kBkMsDbQ]] | ★ |
 | 2020-07-14 | What is a SWITCH? // FREE CCNA // Day 1 | [[2020-07-14-yt-9eH16Fxeb9o]] | ★ |
 | 2020-07-26 | What is a ROUTER? // FREE CCNA // EP 2 | [[2020-07-26-yt-p9ScLm9S3B4]] | ★ |
+| 2020-08-02 | learning hacking? DON'T make this mistake!! (ProxyChains) | [[2020-08-02-yt-qsA8zREbt6g]] | ★ |
+| 2020-08-06 | what is TCP/IP and OSI? // FREE CCNA // EP 3 | [[2020-08-06-yt-CRdL1PcherM]] | ★ |
+| 2020-08-06 | REAL LIFE example (TCP/IP and OSI) // FREE CCNA // EP 4 | [[2020-08-06-yt-3kfO61Mensg]] | ★ |
+| 2020-08-15 | you need to learn AWS RIGHT NOW!! | [[2020-08-15-yt-bgPuPSPZe2U]] | ★ |
+| 2020-08-21 | how to HACK a password (Kali + HashCat) | [[2020-08-21-yt-z4_oqTZJqCo]] | ★ |
+| 2020-08-27 | how the OSI model works // FREE CCNA // EP 5 | [[2020-08-27-yt-oIRkXulqJA4]] | ★ |
+| 2020-09-04 | the Raspberry Pi PHONE SYSTEM! (3CX PBX) | [[2020-09-04-yt-8QyFidVcoLM]] | ★ |
 
 ---
-_65 videos ingested (L2) so far._
+_72 videos ingested (L2) so far._
