@@ -152,6 +152,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-06-28 | you NEED to learn Windows RIGHT NOW!! | [[2023-06-28-yt-X1CM3rZwGn8]] | ★ |
 | 2023-06-30 | how to HACK a password // Windows Edition | [[2023-06-30-yt-L26Xq7m0uQ0]] | ★ |
 | 2023-07-10 | intro to cloud hacking (leaky buckets) | [[2023-07-10-yt-0kk6k-VdllM]] | ★ |
+| 2023-09-14 | Hacking the world's most popular database (Oracle) | [[2023-09-14-yt-qHe4mlhuNt4]] |  |
+| 2023-09-28 | the Raspberry Pi 5 | [[2023-09-28-yt-jsKqQvFk7Sk]] |  |
+| 2023-09-30 | How To Access the DARK WEB in 2024 (3 Levels) | [[2023-09-30-yt-U2-JPqrALsA]] |  |
+| 2023-12-30 | you need to learn tmux RIGHT NOW!! | [[2023-12-30-yt-nTqu6w2wc68]] | ★ |
+| 2024-01-08 | 3 Levels of WiFi Hacking | [[2024-01-08-yt-dZwbb42pdtg]] | ★ |
+| 2024-02-16 | I ditched my Raspberry Pi for this | [[2024-02-16-yt-5FhDrux0kCc]] |  |
+| 2024-03-12 | Run your own AI (but private) | [[2024-03-12-yt-WxYC9-hBM_g]] | ★ |
+| 2024-04-03 | 60 Hacking Commands You NEED to Know | [[2024-04-03-yt-gL4j-a-g9pA]] | ★ |
 
 ---
-_139 videos ingested (L2) so far._
+_147 videos ingested (L2) so far._

@@ -493,3 +493,22 @@ buckets)" + Windows password cracking (NTLM, full MITRE ATT&CK defensive mapping
 cybersecurity hub. (d) "build your own cloud" crystallizes a DATA-OWNERSHIP / self-hosting
 PHILOSOPHY (own your data vs Big Tech) — a value worth adding to beliefs at next synthesis.
 Debt now 2.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2023-09→2024-04 P1, 8 ingested
+8 P1 long-form (2023-09 → 2024-04). 8 ok, 0 skipped, 0 retry.
+- 2023-09-14 qHe4mlhuNt4 — hacking a database (Oracle 23c; lab/defense)
+- 2023-09-28 jsKqQvFk7Sk — the Raspberry Pi 5 (hardware overview)
+- 2023-09-30 U2-JPqrALsA — access the dark web 2024 (3 levels; safety/ethics)
+- 2023-12-30 nTqu6w2wc68 — learn tmux RIGHT NOW ★
+- 2024-01-08 dZwbb42pdtg — 3 levels of WiFi hacking (own-network/defense) ★
+- 2024-02-16 5FhDrux0kCc — ditched the Pi for an alternative SBC/mini-PC
+- 2024-03-12 WxYC9-hBM_g — run your own private AI (Ollama; self-hosted LLM) ★
+- 2024-04-03 gL4j-a-g9pA — 60 hacking commands (reference trilogy) ★
+Synthesis notes: (a) AI-TOOLS grows: "Run your own AI (but private)" (Ollama/self-hosted
+LLM, Mar 2024) merges his AI + self-hosting + data-ownership threads. Seed the ai-tools hub
+with BOTH this + the ML video at next synthesis; note the private/self-hosted-AI stance as a
+belief (extends "own your data"). (b) REFERENCE TRILOGY complete: 60 Linux + 30 Windows + 60
+Hacking commands — a recognizable "command reference" content format. (c) tmux learn-X. (d)
+WiFi (own-network) + Oracle DB + dark-web-explained extend the ethical-hacking catalog (all
+defensive/safety framed). (e) Hardware thread: Pi 5 + "ditched the Pi for [alt]". No inline
+persona edits. Debt now 3. P1 tier almost drained (~20 left on main).

@@ -72,20 +72,20 @@ yt--2yzXSIuC8o,video,monitor all your stuff RIGHT NOW!!,@NetworkChuck,https://ww
 yt-Wjrdr0NU4Sk,video,host ALL your AI locally,@NetworkChuck,https://www.youtube.com/watch?v=Wjrdr0NU4Sk,2024-05-03,2026-07-22,L0-discovered,1,,views=2590167
 yt-aEuMRZzqFH8,video,White House says NO DEGREE!!,@NetworkChuck,https://www.youtube.com/watch?v=aEuMRZzqFH8,2024-05-01,2026-07-22,L0-discovered,2,,views=218862
 yt-EXfFBEuCAr0,video,"you STILL need a website RIGHT NOW!! (yes, even in 2025)",@NetworkChuck,https://www.youtube.com/watch?v=EXfFBEuCAr0,2024-04-26,2026-07-22,L0-discovered,2,,views=621673
-yt-gL4j-a-g9pA,video,60 Hacking Commands You NEED to Know,@NetworkChuck,https://www.youtube.com/watch?v=gL4j-a-g9pA,2024-04-03,2026-07-22,L0-discovered,1,,views=799322
-yt-WxYC9-hBM_g,video,Run your own AI (but private),@NetworkChuck,https://www.youtube.com/watch?v=WxYC9-hBM_g,2024-03-12,2026-07-22,L0-discovered,1,,views=2500577
-yt-5FhDrux0kCc,video,I ditched my Raspberry Pi for this,@NetworkChuck,https://www.youtube.com/watch?v=5FhDrux0kCc,2024-02-16,2026-07-22,L0-discovered,1,,views=648861
+yt-gL4j-a-g9pA,video,60 Hacking Commands You NEED to Know,@NetworkChuck,https://www.youtube.com/watch?v=gL4j-a-g9pA,2024-04-03,2026-07-22,L2,1,cybersecurity;linux-terminal,60 hacking commands (reference trilogy)
+yt-WxYC9-hBM_g,video,Run your own AI (but private),@NetworkChuck,https://www.youtube.com/watch?v=WxYC9-hBM_g,2024-03-12,2026-07-22,L2,1,ai-tools;homelab-selfhosting,run your own private AI (Ollama; self-hosted LLM)
+yt-5FhDrux0kCc,video,I ditched my Raspberry Pi for this,@NetworkChuck,https://www.youtube.com/watch?v=5FhDrux0kCc,2024-02-16,2026-07-22,L2,1,homelab-selfhosting,ditched the Pi for an alternative SBC/mini-PC
 yt-fb69FyW2KLk,video,AI Networking is CRAZY!! (but is it fast enough?),@NetworkChuck,https://www.youtube.com/watch?v=fb69FyW2KLk,2024-02-09,2026-07-22,L0-discovered,2,,views=334386
-yt-dZwbb42pdtg,video,3 Levels of WiFi Hacking,@NetworkChuck,https://www.youtube.com/watch?v=dZwbb42pdtg,2024-01-08,2026-07-22,L0-discovered,1,,views=3900066
-yt-nTqu6w2wc68,video,you need to learn tmux RIGHT NOW!!,@NetworkChuck,https://www.youtube.com/watch?v=nTqu6w2wc68,2023-12-30,2026-07-22,L0-discovered,1,,views=814003
+yt-dZwbb42pdtg,video,3 Levels of WiFi Hacking,@NetworkChuck,https://www.youtube.com/watch?v=dZwbb42pdtg,2024-01-08,2026-07-22,L2,1,cybersecurity;networking,3 levels of WiFi hacking (own-network/defense)
+yt-nTqu6w2wc68,video,you need to learn tmux RIGHT NOW!!,@NetworkChuck,https://www.youtube.com/watch?v=nTqu6w2wc68,2023-12-30,2026-07-22,L2,1,linux-terminal,learn tmux RIGHT NOW
 yt-i3sRSS6fN0g,video,the most secure OS in the world.....I hate it,@NetworkChuck,https://www.youtube.com/watch?v=i3sRSS6fN0g,2023-12-23,2026-07-22,L0-discovered,2,,views=883754
 yt-JJ0St6OmTp0,video,Google is forcing you to use their proxy (build your own instead),@NetworkChuck,https://www.youtube.com/watch?v=JJ0St6OmTp0,2023-11-22,2026-07-22,L0-discovered,2,,views=742368
 yt-CurcakgurRE,video,Put your website on the Dark Web,@NetworkChuck,https://www.youtube.com/watch?v=CurcakgurRE,2023-11-01,2026-07-22,L0-discovered,2,,views=311596
 yt-tBnJRraXDc0,video,The Dark Web NEEDS You!,@NetworkChuck,https://www.youtube.com/watch?v=tBnJRraXDc0,2023-10-30,2026-07-22,L0-discovered,2,,views=506701
 yt-083-46NVMd8,video,My SECRET Server Room Project,@NetworkChuck,https://www.youtube.com/watch?v=083-46NVMd8,2023-10-02,2026-07-22,L0-discovered,2,,views=570897
-yt-U2-JPqrALsA,video,How To Access the DARK WEB in 2024 (3 Levels),@NetworkChuck,https://www.youtube.com/watch?v=U2-JPqrALsA,2023-09-30,2026-07-22,L0-discovered,1,,views=7588931
-yt-jsKqQvFk7Sk,video,the Raspberry Pi 5,@NetworkChuck,https://www.youtube.com/watch?v=jsKqQvFk7Sk,2023-09-28,2026-07-22,L0-discovered,1,,views=1449556
-yt-qHe4mlhuNt4,video,Hacking the world’s most popular database,@NetworkChuck,https://www.youtube.com/watch?v=qHe4mlhuNt4,2023-09-14,2026-07-22,L0-discovered,1,,views=171768
+yt-U2-JPqrALsA,video,How To Access the DARK WEB in 2024 (3 Levels),@NetworkChuck,https://www.youtube.com/watch?v=U2-JPqrALsA,2023-09-30,2026-07-22,L2,1,cybersecurity;linux-terminal,access the dark web 2024 (3 levels; safety/ethics)
+yt-jsKqQvFk7Sk,video,the Raspberry Pi 5,@NetworkChuck,https://www.youtube.com/watch?v=jsKqQvFk7Sk,2023-09-28,2026-07-22,L2,1,homelab-selfhosting,the Raspberry Pi 5 (hardware overview)
+yt-qHe4mlhuNt4,video,Hacking the world’s most popular database,@NetworkChuck,https://www.youtube.com/watch?v=qHe4mlhuNt4,2023-09-14,2026-07-22,L2,1,cybersecurity;cloud-devops,hacking a database (Oracle 23c; lab/defense)
 yt-SWyXQfiN_Vo,video,the BIGGEST server project they've ever done!! (45Drives),@NetworkChuck,https://www.youtube.com/watch?v=SWyXQfiN_Vo,2023-09-07,2026-07-22,L0-discovered,2,,views=164341
 yt-poDIT2ruQ9M,video,how did I NOT know about this?,@NetworkChuck,https://www.youtube.com/watch?v=poDIT2ruQ9M,2023-08-30,2026-07-22,L0-discovered,2,,views=1017230
 yt-OD2vG5st4zI,video,Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9,@NetworkChuck,https://www.youtube.com/watch?v=OD2vG5st4zI,2023-08-23,2026-07-22,L0-discovered,2,,views=337417
