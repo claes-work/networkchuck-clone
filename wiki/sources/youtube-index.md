@@ -85,6 +85,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-08-21 | how to HACK a password (Kali + HashCat) | [[2020-08-21-yt-z4_oqTZJqCo]] | ★ |
 | 2020-08-27 | how the OSI model works // FREE CCNA // EP 5 | [[2020-08-27-yt-oIRkXulqJA4]] | ★ |
 | 2020-09-04 | the Raspberry Pi PHONE SYSTEM! (3CX PBX) | [[2020-09-04-yt-8QyFidVcoLM]] | ★ |
+| 2020-09-09 | you need to learn Kubernetes RIGHT NOW!! | [[2020-09-09-yt-7bA0gTroJjw]] | ★ |
+| 2020-09-18 | DO NOT design your network like this!! // FREE CCNA // EP 6 | [[2020-09-18-yt-wwwAXlE4OtU]] | ★ |
+| 2020-10-03 | i bought a DDoS attack on the DARK WEB (don't do this) | [[2020-10-03-yt-eZYtnzODpW4]] | ★ |
+| 2020-10-11 | Data Center NETWORKS // FREE CCNA // EP 7 | [[2020-10-11-yt-6-66D9J5PkY]] | ★ |
+| 2020-10-19 | 3 Hacking Skills EVERYONE has // FREE Security+ // EP 1 | [[2020-10-19-yt-vyqSdJLVQgg]] | ★ |
+| 2020-10-24 | VMware on a Raspberry Pi!?!?! (ESXi Install) | [[2020-10-24-yt-6aLyZisehCU]] |  |
+| 2020-10-28 | Phishing attacks // FREE Security+ // EP 2 | [[2020-10-28-yt-u9dBGWVwMMA]] | ★ |
 
 ---
-_72 videos ingested (L2) so far._
+_79 videos ingested (L2) so far._

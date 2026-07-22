@@ -277,3 +277,22 @@ hacking teaching deepens (ProxyChains/Tor anonymity + HashCat password cracking,
 explicit defensive/ethics framing) — reinforce cybersecurity hub. (d) Pi 3CX PBX ties back
 to his Cisco VoIP/collaboration specialty (biography). No persona changes needed this batch.
 Debt now 2.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020-09→2020-10 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2020-09 → 2020-10). 7 ok, 0 skipped, 1 transient fetch error.
+- 2020-09-09 7bA0gTroJjw — landmark: you need to learn Kubernetes RIGHT NOW ★
+- 2020-09-18 wwwAXlE4OtU — FREE CCNA EP6 (network design) ★
+- 2020-10-03 eZYtnzODpW4 — dark-web DDoS demo against own infra (ethics/education) ★
+- 2020-10-11 6-66D9J5PkY — FREE CCNA EP7 (data center networks) ★
+- 2020-10-19 vyqSdJLVQgg — FREE Security+ EP1 (course kickoff) ★
+- 2020-10-24 6aLyZisehCU — VMware ESXi on a Raspberry Pi
+- 2020-10-28 u9dBGWVwMMA — FREE Security+ EP2 (phishing awareness) ★
+Synthesis notes: (a) SECOND flagship free course launches — "FREE Security+" (EP 1 kickoff,
+EP 2 phishing). Alongside FREE CCNA, this establishes a "free full-course series" pattern —
+at synthesis, give BOTH courses dedicated structure (certifications-career + their domains)
+and note the free-course-as-audience-engine playbook in creator-coffee-business. (b) FREE
+CCNA continues (EP 6 design, EP 7 data center). (c) "learn Kubernetes RIGHT NOW" extends the
+learn-X format to container orchestration. (d) "i bought a DDoS on the dark web" = the
+stunt-education format (dramatic real-world demo against his OWN infra + heavy ethics
+framing) — a notable content archetype worth a beliefs/voice note next synthesis (how he
+uses shock + ethics to teach security). No inline persona edits this batch. Debt now 3.
