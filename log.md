@@ -554,3 +554,26 @@ AI) and AI+SELF-HOSTING (own your AI) are his two signature 2025 angles. (c) "ze
 human" personal-security philosophy (2025 threats) — good beliefs/voice material. (d) MILESTONE:
 main-channel P1 tier is DONE. Next: continue with P2 (183 rows) or @networkchuck_v2 P1 (17).
 No inline persona edits. Debt now 5.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — P1 tail + earliest era, 7 ingested / 1 retry
+Mixed batch: last main P1 (recent 2025-10→2026-03) + first P2s (the EARLIEST 2014-2016
+videos). 7 ok, 0 skipped, 1 transient fetch error.
+- 2014-10-04 ZR7_D1V3zD0 — CHANNEL ORIGIN / first video ★
+- 2014-10-19 8rVzrPzhXnA — CUCM hunt group (Cisco VoIP/collab origin) ★
+- 2014-12-01 yn_qCnOh9xk — Cisco ASA license (firewall origin era) ★
+- 2016-03-14 8pbu-uJlJ9E — Cisco phone hunt-group button (VoIP/collab)
+- 2025-10-03 budTmdQfXYU — n8n runs my entire homelab (AI automation) ★
+- 2025-10-28 MsQACpcuTkU — using AI the hard way: his terminal-AI/Claude Code workflow ★
+- 2026-03-31 eGSsoSEppNU — the WORST hack of 2026 (supply-chain); MOST RECENT ★
+Synthesis notes: BIG bio + persona finds. (a) CHANNEL ORIGIN (2014-10-04): confirms/ dates
+the earliest bio — filming quietly in the back room at his job, a NETWORK ADMIN in DALLAS TX
+surrounded by switches/routers/ASAs, channel started "to solidify everything I'm learning"
+(learning-in-public origin). Promote to biography (2014 entry) — corroborates the dossier
+with his own words. (b) EARLIEST CONTENT = Cisco COLLABORATION/VOICE (CUCM hunt groups, IP
+phones) + ASA firewalls — confirms his origin specialty was Cisco voice/collab + security,
+matching CCNA Voice. Seed a "Cisco VoIP/collaboration origin" note in networking hub +
+biography. (c) PERSONA-CURRENT: he now uses a TERMINAL-AI workflow — Claude Code as daily
+driver, sub-agents, synced context files, GitHub-tracked projects, "AI as critic not writer"
+(2025-10). Notable current-day voice/beliefs material (how he actually works with AI now). (d)
+Corpus temporal span is now COMPLETE: 2014-10 → 2026-03. No inline persona edits. Debt now 6.
+Main P1 fully drained; now flowing into main P2 (long tail).

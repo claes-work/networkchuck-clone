@@ -13,7 +13,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Title | Page | ★ |
 |------|-------|------|---|
+| 2014-10-04 | Network Chuck (CHANNEL ORIGIN / first video) | [[2014-10-04-yt-ZR7_D1V3zD0]] | ★ |
+| 2014-10-19 | How to Create a Hunt Group - CUCM 8/9/10 | [[2014-10-19-yt-8rVzrPzhXnA]] | ★ |
+| 2014-12-01 | Upgrade/Activate a License on a Cisco ASA | [[2014-12-01-yt-yn_qCnOh9xk]] | ★ |
 | 2015-12-23 | Should I Use a Brain Dump on my CCNA/CCNP/MCSA Exam? | [[2015-12-23-yt-6Kms924WLeg]] | ★ |
+| 2016-03-14 | Add a Hunt Group Login/Logout Button to a Cisco Phone | [[2016-03-14-yt-8pbu-uJlJ9E]] |  |
 | 2017-01-02 | 7 CCNA CCNP Study Tips for the New Year - 2017!! | [[2017-01-02-yt-dfEWw95coak]] | ★ |
 | 2017-02-24 | CCNA or COLLEGE? - Become a Network Engineer | [[2017-02-24-yt-dmthwYTEL0M]] | ★ |
 | 2017-03-14 | Trying to Study for my CCNA CCNP with KIDS!! | [[2017-03-14-yt-_h4ioMa7rOs]] | ★ |
@@ -176,6 +180,9 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-16 | You NEED to Use n8n RIGHT NOW!! | [[2025-07-16-yt-ONgECvZNI3o]] | ★ |
 | 2025-08-12 | Hacking AI is TOO EASY | [[2025-08-12-yt-Qvx2sVgQ-u0]] | ★ |
 | 2025-09-12 | you need to learn MCP RIGHT NOW!! | [[2025-09-12-yt-GuTcle5edjk]] | ★ |
+| 2025-10-03 | n8n Now Runs My ENTIRE Homelab | [[2025-10-03-yt-budTmdQfXYU]] | ★ |
+| 2025-10-28 | You've Been Using AI the Hard Way (his terminal-AI workflow) | [[2025-10-28-yt-MsQACpcuTkU]] | ★ |
+| 2026-03-31 | the WORST hack of 2026 (supply-chain) | [[2026-03-31-yt-eGSsoSEppNU]] | ★ |
 
 ---
-_163 videos ingested (L2) so far._
+_170 videos ingested (L2) so far._
