@@ -409,3 +409,22 @@ demo) + kids (build a hacking PC) appear as recurring context — reinforces the
 even kids, into tech" ethos (belief) while keeping family self-reported/unnamed. (d) Python
 now feeds security (malware-in-Python, lab/ethics) — the coding+security convergence. No
 inline persona edits. Debt now 9. >>> CHECKPOINT next batch (debt → 10) → Stage S.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-05→2022-08 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2022-05 → 2022-08). 7 ok, 0 skipped, 1 transient fetch error.
+- 2022-05-27 ACM36qtHIEg — hack faster: Linux terminal tips
+- 2022-06-03 4xJDDUt4Wq8 — $0.30 hacking lab (AWS; no-excuses accessibility ethos) ★
+- 2022-08-06 bKFMS5C4CG0 — Docker networking (bridge/macvlan) ★
+- 2022-08-08 e2h_BreIxaQ — HACK your way into an IT job (2022 playbook) ★
+- 2022-08-17 xiUTqnI6xk8 — learn SQL RIGHT NOW ★
+- 2022-08-30 u2M_V5LtzpQ — how YouTubers get hacked (John Hammond interview)
+- 2022-08-31 DM65_JyGxCo — Docker Compose tutorial
+Synthesis notes: (a) UPDATED CANONICAL "hack your way into an IT job" playbook (2022) —
+promote alongside the 2018 [[2018-12-12-yt-Azm4woyCNBA]] job playbook; note evolution/
+continuity in certifications-career + beliefs. (b) "$0.30 hacking lab" crystallizes the
+no-excuses ACCESSIBILITY ethos (cheap cloud/hardware = anyone can learn) — a core value for
+persona/beliefs; pairs with the Pi-as-learning-lab thread. (c) DevOps deepens: Docker
+networking + Docker Compose + SQL learn-X — the cloud-devops hub keeps growing (Docker is
+now a multi-video subtopic). (d) New guest entity: John Hammond (security educator,
+interview) — add to entity debt. No inline persona edits. Debt now 10.
+>>> SYNTHESIS CHECKPOINT DUE next iteration → run Stage S (synthesis pass 2).

@@ -132,6 +132,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-04-05 | what is an IP Address? // You SUCK at Subnetting // EP 1 | [[2022-04-05-yt-5WfiTHiU4x8]] | ★ |
 | 2022-04-07 | we ran OUT of IP Addresses!! | [[2022-04-07-yt-tcae4TSSMo8]] |  |
 | 2022-05-16 | i created malware with Python | [[2022-05-16-yt-UtMMjXOlRQc]] | ★ |
+| 2022-05-27 | you need to HACK faster!! (Linux Terminal hacks) | [[2022-05-27-yt-ACM36qtHIEg]] |  |
+| 2022-06-03 | the $0.30 Hacking Lab | [[2022-06-03-yt-4xJDDUt4Wq8]] | ★ |
+| 2022-08-06 | Docker networking is CRAZY!! | [[2022-08-06-yt-bKFMS5C4CG0]] | ★ |
+| 2022-08-08 | HACK your way into a job (no experience required) | [[2022-08-08-yt-e2h_BreIxaQ]] | ★ |
+| 2022-08-17 | you need to learn SQL RIGHT NOW!! | [[2022-08-17-yt-xiUTqnI6xk8]] | ★ |
+| 2022-08-30 | How YouTubers Get Hacked | [[2022-08-30-yt-u2M_V5LtzpQ]] |  |
+| 2022-08-31 | Docker Compose will BLOW your MIND!! | [[2022-08-31-yt-DM65_JyGxCo]] |  |
 
 ---
-_119 videos ingested (L2) so far._
+_126 videos ingested (L2) so far._
