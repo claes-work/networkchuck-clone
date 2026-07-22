@@ -732,3 +732,20 @@ also launched ~Jul 2020 to fund the free training — the two are linked). (b) F
 now has its EP0 intro (course-structure + SY0-501→601 exam-version note) — add to the
 free-courses page's Security+ episode list. (c) Rest = dated security/networking tutorials
 (Kali WSL2, AWS VPN, 5G, file-hiding) — L2 sufficient. No inline persona edits. Debt now 3.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020 P2, 5 ingested / 1 skipped / 2 rate-limited
+8 P2 (2020-06 → 2020-12). 5 ok, 1 skipped (no usable captions), 2 x 429. Rate-limiting persists.
+- Skipped: YOomKJdLLEo "I PASSED the Linux+" — music-only auto-caption, no speech (unusable).
+  (Note: his Linux+ pass ~2020 is already in the dossier/biography, so no data lost.)
+- 2020-11-19 XYpJhhJOJSs — FREE Security+ EP5 (fills gap); beard/appearance joke ★
+- 2020-11-21 YYR-96xyBSU — Cisco Catalyst 1000 SMB switch review
+- 2020-11-25 H8iUYmReC9M — shut up and just DO it (action ethos) ★
+- 2020-12-10 ZnhM-lp6GE8 — 5G: 3 things you don't know ★
+- 2020-12-17 AdzEDoHAbw8 — i failed my exam (honesty; 14-day Twitch study streams) ★
+Synthesis notes: (a) APPEARANCE (persona/appearance.md is still EMPTY): the "my beard isn't
+real" joke confirms his SIGNATURE BEARD as an appearance feature + a running self-joke — seed
+persona/appearance.md next synthesis (beard, coffee mug, casual style). (b) VOICE/BELIEFS: "just
+DO it / stop making excuses" action ethos; and radical AUTHENTICITY — he openly posts "i failed
+my exam" (studied 14 days live on Twitch and still failed) — persistence + honesty are core
+voice traits; also documents his TWITCH study-stream habit (bio). (c) FREE Security+ EP5 fills
+the earlier-flagged episode gap. No inline persona edits. Debt now 4.

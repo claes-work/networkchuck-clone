@@ -87,6 +87,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-09-09 | 5G will change gaming FOREVER | [[2020-09-09-yt-Bbqdq2sR6SY]] |  |
 | 2020-09-14 | How Hackers hide files on Windows 10 and Linux | [[2020-09-14-yt-fQek73drZS4]] |  |
 | 2020-10-08 | FREE CompTIA Security+ Course // EP 0 (SY0-501 vs 601) | [[2020-10-08-yt-yLf2jRY39Rc]] | ★ |
+| 2020-11-19 | my beard isn't real // FREE Security+ // EP 5 | [[2020-11-19-yt-XYpJhhJOJSs]] | ★ |
+| 2020-11-21 | i LOVE this switch!! (Cisco Catalyst 1000) | [[2020-11-21-yt-YYR-96xyBSU]] |  |
+| 2020-11-25 | shut up and just DO it!! (IT certifications) | [[2020-11-25-yt-H8iUYmReC9M]] | ★ |
+| 2020-12-10 | 5G: what you DON'T know!! (3 things) | [[2020-12-10-yt-ZnhM-lp6GE8]] | ★ |
+| 2020-12-17 | i failed my exam | [[2020-12-17-yt-AdzEDoHAbw8]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -232,4 +237,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_210 videos ingested (L2) so far._
+_215 videos ingested (L2) so far._
