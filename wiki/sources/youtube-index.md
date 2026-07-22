@@ -18,6 +18,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2014-12-01 | Upgrade/Activate a License on a Cisco ASA | [[2014-12-01-yt-yn_qCnOh9xk]] | ★ |
 | 2015-12-23 | Should I Use a Brain Dump on my CCNA/CCNP/MCSA Exam? | [[2015-12-23-yt-6Kms924WLeg]] | ★ |
 | 2016-03-14 | Add a Hunt Group Login/Logout Button to a Cisco Phone | [[2016-03-14-yt-8pbu-uJlJ9E]] |  |
+| 2017-01-24 | CUCM Calling Search Spaces & Partitions (Star Wars) | [[2017-01-24-yt-eTdHGjC0U08]] | ★ |
+| 2017-08-11 | CUCM Route Groups/Lists/Patterns - Part 1 | [[2017-08-11-yt-dQsaSdzfUAM]] |  |
+| 2017-08-15 | CUCM Route Groups/Lists/Patterns - Part 2 | [[2017-08-15-yt-FR1Jx9z7x-w]] |  |
+| 2017-09-20 | Voice VLANs - what & why | [[2017-09-20-yt-O1aNuVYjXNM]] |  |
+| 2017-10-01 | I PASSED THE CCENT EXAM!! (brother Cameron; ICND1 tips) | [[2017-10-01-yt-FUw_Ctrp5EM]] |  |
 | 2017-01-02 | 7 CCNA CCNP Study Tips for the New Year - 2017!! | [[2017-01-02-yt-dfEWw95coak]] | ★ |
 | 2017-02-24 | CCNA or COLLEGE? - Become a Network Engineer | [[2017-02-24-yt-dmthwYTEL0M]] | ★ |
 | 2017-03-14 | Trying to Study for my CCNA CCNP with KIDS!! | [[2017-03-14-yt-_h4ioMa7rOs]] | ★ |
@@ -185,4 +190,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-03-31 | the WORST hack of 2026 (supply-chain) | [[2026-03-31-yt-eGSsoSEppNU]] | ★ |
 
 ---
-_170 videos ingested (L2) so far._
+_175 videos ingested (L2) so far._

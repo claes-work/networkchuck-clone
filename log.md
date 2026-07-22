@@ -577,3 +577,20 @@ driver, sub-agents, synced context files, GitHub-tracked projects, "AI as critic
 (2025-10). Notable current-day voice/beliefs material (how he actually works with AI now). (d)
 Corpus temporal span is now COMPLETE: 2014-10 → 2026-03. No inline persona edits. Debt now 6.
 Main P1 fully drained; now flowing into main P2 (long tail).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2017 P2 (Cisco VoIP era), 5 ingested / 2 skipped / 1 retry
+8 selected (2017 P2 — early Cisco collaboration/VoIP + CCNP era). 5 ok, 2 skipped, 1 retry.
+- Skipped: 8HeAIXGQMA4 (INE CCNP giveaway promo); lbHASiYwGHo (42-line pointer to a
+  SimpleProgrammer cross-channel collab — substance on the other channel).
+- 2017-01-24 eTdHGjC0U08 — CUCM CSS/partitions via Star Wars analogy ★
+- 2017-08-11 dQsaSdzfUAM — CUCM route groups/lists/patterns Pt1
+- 2017-08-15 FR1Jx9z7x-w — CUCM route groups/lists/patterns Pt2
+- 2017-09-20 O1aNuVYjXNM — Voice VLANs explained
+- 2017-10-01 FUw_Ctrp5EM — CCENT/ICND1 pass (brother Cameron; not Chuck)
+Synthesis notes: (a) PEDAGOGY: the Star Wars analogy CUCM video is early evidence of his
+signature ANALOGY-BASED teaching (making hard IT approachable via pop-culture analogies) —
+add to voice.md as a teaching-style trait. (b) BIO: Chuck references his OWN earlier CCENT
+(~2012-13) as context in Cameron's pass video — a datapoint for the pre-2014 timeline. (c)
+Confirms the deep Cisco COLLABORATION/VOICE origin specialty (CUCM call routing, voice
+VLANs) — reinforces the networking-hub "Cisco VoIP origin" note flagged last batch. Long-tail
+P2 draining. No inline persona edits. Debt now 7.
