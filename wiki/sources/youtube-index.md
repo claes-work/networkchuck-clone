@@ -120,6 +120,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-01-28 | i hired my replacement…kind of (future of NetworkChuck) | [[2022-01-28-yt-UiO6uFHqwbU]] | ★ |
 | 2022-02-07 | If Else Statements in Python // Python // EP 4 | [[2022-02-07-yt-5-5Mf_L0UKw]] | ★ |
 | 2022-02-09 | 2 cool (web) things to do in Linux // Linux for Hackers // EP 8 | [[2022-02-09-yt-HSRghjwTTOQ]] | ★ |
+| 2022-02-17 | if if if if if....elif (Python) | [[2022-02-17-yt-Ec9WQGw4lW0]] |  |
+| 2022-02-25 | make CRAZY money in tech (top 5 Entry-Level Certs) | [[2022-02-25-yt-W2tTsjkX76o]] | ★ |
+| 2022-03-04 | Kali Linux APPS on Windows in 5min (WSLg) | [[2022-03-04-yt-27Wn921q_BQ]] |  |
+| 2022-03-07 | forcing my wife to learn Linux in 24hrs | [[2022-03-07-yt-1KEN1P7qyLM]] | ★ |
+| 2022-03-12 | Python Logical Operators | [[2022-03-12-yt-nD1REhS6e3Y]] |  |
+| 2022-03-23 | If His First PC Boots, He Wins $10,000 | [[2022-03-23-yt-2MS5wnYnxPc]] | ★ |
+| 2022-04-12 | BASH scripting will change your life | [[2022-04-12-yt-7qd5sqazD7k]] |  |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -265,4 +272,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_243 videos ingested (L2) so far._
+_250 videos ingested (L2) so far._

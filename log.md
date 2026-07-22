@@ -821,3 +821,21 @@ video surfaces DECENTRALIZATION / "did it for the tech not the money" values —
 datapoint. (d) Free courses advance: Linux for Hackers EP7/EP8, Python EP4 — update free-courses
 page. (e) DATE-SENSITIVE 2021-22 crypto/NFT content — mark era-specific. No inline persona edits.
 Debt now 8 (checkpoint at 10 — ~2 batches out).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-02→2022-04 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429. CROSSED 250 L2.
+- 2022-02-17 Ec9WQGw4lW0 — Python nested if/elif
+- 2022-02-25 W2tTsjkX76o — top 5 entry certs for money (2022 picks) ★
+- 2022-03-04 27Wn921q_BQ — Kali GUI apps on Windows (WSLg)
+- 2022-03-07 1KEN1P7qyLM — taught wife Linux in 24h (anyone-can-learn) ★
+- 2022-03-12 nD1REhS6e3Y — Python logical operators
+- 2022-03-23 2MS5wnYnxPc — $10k PC challenge (entertainment style; editor Austin) ★
+- 2022-04-12 7qd5sqazD7k — Bash scripting will change your life
+Synthesis notes: (a) DATED CERT PICKS: his 2022 top-5 entry-level certs = A+, Security+, CCNA,
+AWS Cloud Practitioner, PenTest+ — a concrete dated recommendation for certifications-career. (b)
+"ANYONE CAN LEARN": he teaches his WIFE Linux in 24h to prove anyone can learn tech — strongly
+reinforces the accessibility/anyone-can-do-it ethos (wife = context, self-reported). (c)
+CONTENT-STYLE + TEAM: the $10k PC challenge shows the ENTERTAINMENT/CHALLENGE content style
+(~2022, MrBeast-influenced) and names a TEAM MEMBER, video editor AUSTIN (context) — pairs with
+the "hired my replacement" team-growth note; consider an austin/team note at synthesis. (d) Python
++ Bash courses continue. No inline persona edits. Debt now 9. >>> CHECKPOINT next batch → Stage S (pass 4).
