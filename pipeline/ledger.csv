@@ -547,16 +547,16 @@ yt-An4IapvutzM,video,Home Assistant made their own Alexa!!,@networkchuck_v2,http
 yt-neROHgRzhNA,video,How to get a job in IT (according to the experts),@networkchuck_v2,https://www.youtube.com/watch?v=neROHgRzhNA,2022-08-08,2026-07-22,L0-discovered,2,,views=7340
 yt-4585YGGF_ps,video,talking with HakLuke (Hacker and creator of Hakrawler and other tools),@networkchuck_v2,https://www.youtube.com/watch?v=4585YGGF_ps,2022-07-26,2026-07-22,L0-discovered,2,,views=2349
 yt-surLiBtVoaU,video,Cheating is okay (As long as you are learning),@networkchuck_v2,https://www.youtube.com/watch?v=surLiBtVoaU,2022-04-04,2026-07-22,L0-discovered,2,,views=3999
-yt-Muyp8_dlwwY,video,The first thing to do when learning hacking,@networkchuck_v2,https://www.youtube.com/watch?v=Muyp8_dlwwY,2022-04-04,2026-07-22,L0-discovered,1,,views=10024
-yt-eAJc6IVmSRg,video,Do CTFs prepare you to be hacker?,@networkchuck_v2,https://www.youtube.com/watch?v=eAJc6IVmSRg,2022-03-29,2026-07-22,L0-discovered,1,,views=97022
+yt-Muyp8_dlwwY,video,The first thing to do when learning hacking,@networkchuck_v2,https://www.youtube.com/watch?v=Muyp8_dlwwY,2022-04-04,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
+yt-eAJc6IVmSRg,video,Do CTFs prepare you to be hacker?,@networkchuck_v2,https://www.youtube.com/watch?v=eAJc6IVmSRg,2022-03-29,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
 yt-spyROTCQ3oM,video,What does a threat analyst do?,@networkchuck_v2,https://www.youtube.com/watch?v=spyROTCQ3oM,2022-03-25,2026-07-22,L0-discovered,2,,views=7029
-yt-qNTsMJD5NcA,video,What is a hacking CTF?,@networkchuck_v2,https://www.youtube.com/watch?v=qNTsMJD5NcA,2022-03-24,2026-07-22,L0-discovered,1,,views=2998
-yt-jDMwHbNBZyc,video,Does knowing networking make hacking easier??,@networkchuck_v2,https://www.youtube.com/watch?v=jDMwHbNBZyc,2022-03-24,2026-07-22,L0-discovered,1,,views=3780
-yt-pzgw3hJ-IEM,video,What skills do I need to start hacking??,@networkchuck_v2,https://www.youtube.com/watch?v=pzgw3hJ-IEM,2022-03-23,2026-07-22,L0-discovered,1,,views=7611
-yt-cANWGEKNAwU,video,The best Linux distro to learn to become a hacker,@networkchuck_v2,https://www.youtube.com/watch?v=cANWGEKNAwU,2022-03-21,2026-07-22,L0-discovered,1,,views=88904
-yt-nQ_2dyfJYxs,video,Do I need to learn coding to be a Hacker?,@networkchuck_v2,https://www.youtube.com/watch?v=nQ_2dyfJYxs,2022-03-18,2026-07-22,L0-discovered,1,,views=22440
+yt-qNTsMJD5NcA,video,What is a hacking CTF?,@networkchuck_v2,https://www.youtube.com/watch?v=qNTsMJD5NcA,2022-03-24,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
+yt-jDMwHbNBZyc,video,Does knowing networking make hacking easier??,@networkchuck_v2,https://www.youtube.com/watch?v=jDMwHbNBZyc,2022-03-24,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
+yt-pzgw3hJ-IEM,video,What skills do I need to start hacking??,@networkchuck_v2,https://www.youtube.com/watch?v=pzgw3hJ-IEM,2022-03-23,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
+yt-cANWGEKNAwU,video,The best Linux distro to learn to become a hacker,@networkchuck_v2,https://www.youtube.com/watch?v=cANWGEKNAwU,2022-03-21,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
+yt-nQ_2dyfJYxs,video,Do I need to learn coding to be a Hacker?,@networkchuck_v2,https://www.youtube.com/watch?v=nQ_2dyfJYxs,2022-03-18,2026-07-22,skipped,1,,dup-of:tWAkJw3_l2s (clip from David Bombal noobs podcast ep4; guest-dominated)
 yt-tf8Ed15IzXs,video,LINUX saved his life! // ft. Shawn Powers,@networkchuck_v2,https://www.youtube.com/watch?v=tf8Ed15IzXs,2022-03-14,2026-07-22,L0-discovered,3,,views=6972
-yt-tWAkJw3_l2s,video,why David Bombal became a hacker,@networkchuck_v2,https://www.youtube.com/watch?v=tWAkJw3_l2s,2022-02-21,2026-07-22,L0-discovered,1,,views=38962
+yt-tWAkJw3_l2s,video,why David Bombal became a hacker,@networkchuck_v2,https://www.youtube.com/watch?v=tWAkJw3_l2s,2022-02-21,2026-07-22,L2,1,cybersecurity;certifications-career,noobs podcast ep4 w/ David Bombal (guest); 7 v2 clips dup to this
 yt-5ZVuh-EzZzc,video,He put all his money in NFTs and crypto // ft. Knox Hutchinson,@networkchuck_v2,https://www.youtube.com/watch?v=5ZVuh-EzZzc,2022-02-14,2026-07-22,L0-discovered,3,,views=3455
 yt-T7AaBcNj-mA,video,how to NOT be a hacking noob in 2022 // ft. John Hammond,@networkchuck_v2,https://www.youtube.com/watch?v=T7AaBcNj-mA,2022-02-03,2026-07-22,L0-discovered,3,,views=44123
 yt-q3-cBwVEVIc,short,I crashed David Bombal's booth at Cisco Live,@networkchuck_v2,https://www.youtube.com/watch?v=q3-cBwVEVIc,NA,2026-07-22,L0-discovered,3,,views=5800

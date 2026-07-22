@@ -594,3 +594,18 @@ add to voice.md as a teaching-style trait. (b) BIO: Chuck references his OWN ear
 Confirms the deep Cisco COLLABORATION/VOICE origin specialty (CUCM call routing, voice
 VLANs) — reinforces the networking-hub "Cisco VoIP origin" note flagged last batch. Long-tail
 P2 draining. No inline persona edits. Debt now 7.
+
+## [2026-07-22] ingest | yt batch (@networkchuck_v2, 8) — first v2 ingest: noobs podcast, 1 ingested / 7 dup
+First @networkchuck_v2 (overflow channel) ingest. 8 P1 selected; all were the David Bombal
+"become a hacker" cluster. 1 ingested, 7 skipped as dup-of.
+- 2022-02-21 tWAkJw3_l2s — noobs podcast ep4 w/ David Bombal (full 3667-line episode) ★
+- Skipped as dup-of tWAkJw3_l2s (short excerpt clips, guest-dominated): nQ_2dyfJYxs,
+  cANWGEKNAwU, pzgw3hJ-IEM, qNTsMJD5NcA, jDMwHbNBZyc, eAJc6IVmSRg, Muyp8_dlwwY.
+Synthesis notes: (a) The @networkchuck_v2 channel appears to be largely a CLIP/OVERFLOW
+channel — short excerpts of main podcast/videos. Apply the shorts-dedup discipline here too
+(dedupe clips against the long-form source before ingesting). (b) The "noobs" podcast (Chuck
++ brother Cameron) is confirmed with a real episode; David Bombal guest — per-speaker
+attribution applied (David Bombal's hacking journey/advice = context, NOT Chuck's persona).
+Reinforces [[david-bombal]] + [[cameron-keith]] entities and the podcast format. (c) LOOP
+NOTE for v2: expect many more dup clips; check each v2 item against main long-form. No inline
+persona edits. Debt now 8 (checkpoint at 10 — 2 batches out).

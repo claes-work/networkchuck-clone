@@ -189,5 +189,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-10-28 | You've Been Using AI the Hard Way (his terminal-AI workflow) | [[2025-10-28-yt-MsQACpcuTkU]] | ★ |
 | 2026-03-31 | the WORST hack of 2026 (supply-chain) | [[2026-03-31-yt-eGSsoSEppNU]] | ★ |
 
+## @networkchuck_v2
+
+| Date | Title | Page | ★ |
+|------|-------|------|---|
+| 2022-02-21 | why David Bombal became a hacker (noobs podcast ep. 4) | [[2022-02-21-yt-tWAkJw3_l2s]] | ★ |
+
+_(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of this episode.)_
+
 ---
-_175 videos ingested (L2) so far._
+_176 videos ingested (L2) so far._
