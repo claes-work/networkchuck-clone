@@ -127,6 +127,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-03-12 | Python Logical Operators | [[2022-03-12-yt-nD1REhS6e3Y]] |  |
 | 2022-03-23 | If His First PC Boots, He Wins $10,000 | [[2022-03-23-yt-2MS5wnYnxPc]] | ★ |
 | 2022-04-12 | BASH scripting will change your life | [[2022-04-12-yt-7qd5sqazD7k]] |  |
+| 2022-04-15 | what is a List in Python? | [[2022-04-15-yt-1KLgcBcWCsE]] |  |
+| 2022-04-18 | we're out of IP Addresses (Private IPs) | [[2022-04-18-yt-8bhvn9tQk8o]] |  |
+| 2022-04-29 | Adding stuff to a Python List | [[2022-04-29-yt-rW5sCgSSpI8]] |  |
+| 2022-05-06 | this BASH script will make you a MILLIONAIRE | [[2022-05-06-yt-19nN9vgcgmU]] |  |
+| 2022-05-09 | deleting stuff from Python Lists // Python // EP 9 | [[2022-05-09-yt-jdTwCSxNINA]] | ★ |
+| 2022-05-13 | this BASH script will KILL you. | [[2022-05-13-yt-Fq6gqi9Ubog]] |  |
+| 2022-05-23 | i bet you can't do this (You SUCK at Subnetting) | [[2022-05-23-yt-2-i5x8KCfII]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -272,4 +279,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_250 videos ingested (L2) so far._
+_257 videos ingested (L2) so far._

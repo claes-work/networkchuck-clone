@@ -839,3 +839,17 @@ CONTENT-STYLE + TEAM: the $10k PC challenge shows the ENTERTAINMENT/CHALLENGE co
 (~2022, MrBeast-influenced) and names a TEAM MEMBER, video editor AUSTIN (context) — pairs with
 the "hired my replacement" team-growth note; consider an austin/team note at synthesis. (d) Python
 + Bash courses continue. No inline persona edits. Debt now 9. >>> CHECKPOINT next batch → Stage S (pass 4).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-04→2022-05 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429. Mostly course content (Python + Bash + subnetting).
+- 2022-04-15 1KLgcBcWCsE — Python lists (intro)
+- 2022-04-18 8bhvn9tQk8o — private IP addresses / NAT (subnetting)
+- 2022-04-29 rW5sCgSSpI8 — Python list add
+- 2022-05-06 19nN9vgcgmU — Bash script "millionaire" (automation project)
+- 2022-05-09 jdTwCSxNINA — Python EP9 (list deletion) ★
+- 2022-05-13 Fq6gqi9Ubog — Bash script "kill you" (automation project)
+- 2022-05-23 2-i5x8KCfII — You SUCK at Subnetting (VLSM practice) ★
+Synthesis notes: Course-heavy batch — Python course fills out (lists, EP9), Bash scripting
+series, and the "You SUCK at Subnetting" series continues. Update the free-courses page episode
+lists (Python + Subnetting). Little new persona material this batch (steady teaching content).
+No inline persona edits. Debt now 10. >>> SYNTHESIS CHECKPOINT DUE next iteration → Stage S (pass 4).
