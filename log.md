@@ -367,3 +367,22 @@ creator-coffee-business/Cloud Browser entity at synthesis. (d) Ethical-hacking t
 deepens (reverse shells w/ netcat, Tor hidden service on Pi — both with lab-only/ethics
 framing). Reinforces the cybersecurity hub + the ethical-hacking ethos already in beliefs.
 No inline persona edits. Debt now 7 (checkpoint at 10 — ~3 batches out).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2021-08→2021-11 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2021-08 → 2021-11). 7 ok, 0 skipped, 1 transient fetch error.
+- 2021-08-14 mRMmlo_Uqcs — learn Python RIGHT NOW EP1 (Python course kickoff) ★
+- 2021-08-20 e_f9p-_JWZw — BadUSB on $8 Pi Pico (hardware-hacking awareness) ★
+- 2021-09-24 2rVzRoF7vQw — ARP poisoning/MITM demo on own network ★
+- 2021-10-02 gyMpI8csWis — build a Raspberry Pi NAS (OMV)
+- 2021-11-04 YJwhQowT84A — learn Google Cloud RIGHT NOW ★
+- 2021-11-05 jlHWnKVpygw — Pi VPN travel router
+- 2021-11-12 hHtGN_JzoP8 — crypto mining on a Pi (fun/learning)
+Synthesis notes: (a) FOURTH free-course thread — a Python course begins (EP 1), again via
+the learn-X format. Free-course roster now: CCNA, Security+, Linux for Hackers, Python. (b)
+The "learn X RIGHT NOW" cloud series now covers AWS + hybrid-cloud + Kubernetes + Google
+Cloud — a clear cloud-fluency push; group in cloud-devops hub. (c) HARDWARE-HACKING +
+Raspberry-Pi maker cluster intensifies (BadUSB Pi Pico, ARP/MITM, Pi NAS, Pi VPN travel
+router, Pi crypto mining) — the "cheap Pi can do anything" ethos is now a defining channel
+signature; strengthen homelab hub + the Pi-as-learning-lab belief. (d) BadUSB/ARP both
+carry defensive-awareness framing (consistent ethical-hacking ethos). No inline persona
+edits. Debt now 8 (checkpoint at 10 — ~2 batches out).

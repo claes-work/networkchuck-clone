@@ -118,6 +118,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-07-08 | reverse shells with netcat | [[2021-07-08-yt-bXCeFPNWjsM]] | ★ |
 | 2021-07-27 | access EVERYTHING from your browser (Guacamole) | [[2021-07-27-yt-gsvS2M5knOw]] | ★ |
 | 2021-07-30 | you NEED to learn Port Security // FREE CCNA // EP 14 | [[2021-07-30-yt-0W4JZIWtjLQ]] | ★ |
+| 2021-08-14 | you need to learn Python RIGHT NOW!! // EP 1 | [[2021-08-14-yt-mRMmlo_Uqcs]] | ★ |
+| 2021-08-20 | bad USBs are SCARY!! (Raspberry Pi Pico for $8) | [[2021-08-20-yt-e_f9p-_JWZw]] | ★ |
+| 2021-09-24 | this device is HACKING my network!! (ARP/MITM) | [[2021-09-24-yt-2rVzRoF7vQw]] | ★ |
+| 2021-10-02 | how to build a Raspberry Pi NAS | [[2021-10-02-yt-gyMpI8csWis]] |  |
+| 2021-11-04 | you need to learn Google Cloud RIGHT NOW!! | [[2021-11-04-yt-YJwhQowT84A]] | ★ |
+| 2021-11-05 | my SUPER secure Raspberry Pi Router (VPN travel router) | [[2021-11-05-yt-jlHWnKVpygw]] |  |
+| 2021-11-12 | Cryptocurrency Mining on a Raspberry Pi | [[2021-11-12-yt-hHtGN_JzoP8]] |  |
 
 ---
-_105 videos ingested (L2) so far._
+_112 videos ingested (L2) so far._
