@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-22 (ingest)_
+_Last updated: 2026-07-22 (synthesis pass 1 — persona compiled v1, topic hubs populated)_
 
 ## Sources
 
@@ -29,14 +29,18 @@ _Last updated: 2026-07-22 (ingest)_
 - [wiki/entities/cbt-nuggets.md](wiki/entities/cbt-nuggets.md) — CONTEXT: IT-training company he's trained for since 2017.
 - [wiki/entities/david-bombal.md](wiki/entities/david-bombal.md) — CONTEXT: fellow IT-educator collaborator.
 - [wiki/entities/abbey-keith.md](wiki/entities/abbey-keith.md) — CONTEXT: wife (self-disclosed only).
+- [wiki/entities/keith-barker.md](wiki/entities/keith-barker.md) — CONTEXT: CCIE, CBT Nuggets trainer, CCNA-course co-author & collaborator.
+- [wiki/entities/jeremy-cioara.md](wiki/entities/jeremy-cioara.md) — CONTEXT: CBT Nuggets Cisco trainer, CCNA 200-301 co-author.
+- [wiki/entities/cameron-keith.md](wiki/entities/cameron-keith.md) — CONTEXT: Chuck's brother, "noobs" podcast co-host.
+- [wiki/entities/shawn-powers.md](wiki/entities/shawn-powers.md) — CONTEXT: Linux educator, interview collaborator.
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, v1 (bootstrap; cites the biography dossier).
-- [persona/voice.md](persona/voice.md) — how they talk (empty skeleton).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (empty skeleton).
+- [persona/biography.md](persona/biography.md) — dated life timeline (bootstrap + synthesis pass 1; 2015–2020 cited entries).
+- [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt (not compiled yet).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v1** (synthesis pass 1).
 
 ## Other
 

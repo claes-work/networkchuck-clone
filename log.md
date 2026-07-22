@@ -210,3 +210,32 @@ anything by doing" recurs. (e) CONTENT SHIFT: self-hosting/Docker/automation now
 over pure cert advice. ENTITY DEBT now: keith-barker, shawn-powers, cameron (brother),
 chuck-keith-sr (father), jeremy-cioara, jason-gooley, susie-wee, atomic-habits/james-clear.
 >>> SYNTHESIS CHECKPOINT DUE next iteration (debt now 10) → run Stage S.
+
+## [2026-07-22] lint | synthesis pass 1 — @NetworkChuck P1 early era (2015-12→2020-05, batches 1–10)
+First synthesis pass. Drained the 10-batch debt (59 L2 source pages) INWARD into topics +
+persona; recompiled the clone. One agent per file (concurrency rule).
+PROMOTED:
+- persona/biography.md — added dated/cited 2015–2020 timeline entries (self-taught WGU-not-
+  finished cert path; helpdesk→admin→engineer; CCNP journey via INE; CCNA Voice; 2017
+  quit-job-to-travel/letsjustgo.family; late-2017 Paris goal; late-2018 automation pivot;
+  Dec-2019 co-authored CBT Nuggets CCNA 200-301; 2020 learn-X era). CORRECTION captured: the
+  Aug-2018 "I PASSED THE CCNA" video is BROTHER CAMERON's pass (Chuck mentoring), not Chuck
+  recertifying. Confirmed Cameron = brother + podcast co-host; father = Chuck Keith, VMware
+  engineer (context). Canonical wife spelling = Abbey.
+- persona/voice.md — populated: signature "you need to learn X RIGHT NOW!!", "you CAN do
+  this", coffee-cue, hook→why→hands-on→big-why arc, register/humor — cited verbatim banks.
+- persona/beliefs.md — populated: unicorn stack, certs>degree, self-study, video+labs>books,
+  study systems (Pomodoro/Atomic Habits/84-day), find-your-why, never-too-late,
+  generalist>specialist, job-hop, learning-overwhelm, ethical-hacking ethos. FLAGGED the
+  2017→2019 CompTIA-vs-Cisco cert-sequencing POSITION EVOLUTION (contradiction callout).
+- All 7 tech-domain topic hubs (networking, cybersecurity, linux-terminal, cloud-devops,
+  homelab-selfhosting, certifications-career, creator-coffee-business) built from stubs into
+  real hubs: dated/cited "Key ideas" + date-ordered "Source pages" lists + cross-links.
+  (ai-tools hub left as stub — no ai-tools sources ingested yet.)
+- NEW entities: keith-barker, jeremy-cioara, cameron-keith, shawn-powers (context pages).
+- persona/system-prompt.md — COMPILED v1 (compiled_from_sources: 59, ~640-word prompt).
+  Persona mode (/networkchuck, /chuck) is now usable.
+State: advanced high-water mark to "early era 2015-12→2020-05"; checkpoint 1 → Done.
+Synthesis notes: none (this IS the synthesis pass; debt drained). DEFERRED to a later pass:
+appearance.md still empty; father entity (chuck-keith-sr) not yet a page; atomic-habits/
+james-clear reference note; reconcile children-count softness; ai-tools domain awaits sources.
