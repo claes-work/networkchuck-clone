@@ -853,3 +853,29 @@ Synthesis notes: Course-heavy batch — Python course fills out (lists, EP9), Ba
 series, and the "You SUCK at Subnetting" series continues. Update the free-courses page episode
 lists (Python + Subnetting). Little new persona material this batch (steady teaching content).
 No inline persona edits. Debt now 10. >>> SYNTHESIS CHECKPOINT DUE next iteration → Stage S (pass 4).
+
+## [2026-07-22] lint | synthesis pass 4 — P2 long tail (batches 29–38, 2018-2022)
+Fourth synthesis pass. Drained the 10-batch debt (~66 new L2 from the 2018-2022 P2 tail);
+recompiled clone to v4. One agent per file.
+PROMOTED:
+- SEEDED persona/appearance.md (the last empty persona file): signature full beard (running
+  "not real" joke), ever-present coffee mug/ritual, casual high-energy presenter in a homelab/
+  RGB home-studio. ALL 5 persona files now populated.
+- persona/biography.md +6 dated entries: completed CCNP (passed TSHOOT Feb 2019, failed-first);
+  PURSUED the CCIE written 2019 (⚠️ not passed/held — uncertainty note strengthened); went
+  FULL-TIME YouTube ~Jul 2020; NetworkChuck scales into a TEAM/BUSINESS ~2022; hybrid-cloud
+  business infra; father Chuck Keith Sr (IT infra engineer) linked. (Linux+ 2020 already present.)
+- persona/beliefs.md +6: anyone-can-learn (taught wife Linux in 24h), radical authenticity/
+  normalize-failure, "just DO it", decentralization/own-your-data, 2022 top-5 entry certs
+  (A+/Sec+/CCNA/AWS-CP/PenTest+), security-is-offense-AND-defense.
+- persona/voice.md +4: warm community-gratitude tone, radical-authenticity register,
+  ~2022 entertainment/challenge (MrBeast-style) energy, phone-hating-introvert quirk.
+- free-courses.md — updated episode lists (Linux for Hackers EP3-8, Python EP2-4/EP9 + lessons,
+  Security+ EP0+EP5 [gap filled], Subnetting VLSM, Bash extras).
+- NEW entity chuck-keith-sr (father, IT infra engineer).
+- persona/system-prompt.md — recompiled v4 (~890 words, compiled_from_sources ~257).
+State: high-water mark advanced to batches 1–38; checkpoint 4 → Done. ALL persona files
+populated; all 8 topic hubs populated.
+Synthesis notes: none (this IS the pass; debt drained). DEFERRED: a possible "austin/team" note
+(editor mentioned); minor collab entities still not pages (Jason Gooley, Susie Wee, Kevin
+Wallace, etc.). Remaining open ingest: main P2 (~95) + P3 + v2 P2/P3 + 153 shorts.

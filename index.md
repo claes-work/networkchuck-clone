@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-22 (synthesis pass 3 — persona v3, ai-tools hub built)_
+_Last updated: 2026-07-22 (synthesis pass 4 — persona v4, appearance seeded)_
 
 ## Sources
 
@@ -37,14 +37,15 @@ _Last updated: 2026-07-22 (synthesis pass 3 — persona v3, ai-tools hub built)_
 - [wiki/entities/john-hammond.md](wiki/entities/john-hammond.md) — CONTEXT: cybersecurity educator, interview guest.
 - [wiki/entities/ryan-rose.md](wiki/entities/ryan-rose.md) — CONTEXT: Cisco's Certification Director (CCNA-future interview).
 - [wiki/entities/tyler-ramsey.md](wiki/entities/tyler-ramsey.md) — CONTEXT: pentester (HackSmarter) who tested Chuck's sites.
+- [wiki/entities/chuck-keith-sr.md](wiki/entities/chuck-keith-sr.md) — CONTEXT: Chuck's father, a traditional IT infrastructure engineer.
 
 ## Persona (THE PRODUCT)
 
 - [persona/biography.md](persona/biography.md) — dated life timeline (2012→2026; passes 1–3): 2014 origin → Cisco voice/collab → CBT Nuggets → creator → AI era.
 - [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v3** (synthesis pass 3).
+- [persona/appearance.md](persona/appearance.md) — how he looks/presents: signature beard, coffee, homelab studio (seeded pass 4).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v4** (synthesis pass 4).
 
 ## Other
 

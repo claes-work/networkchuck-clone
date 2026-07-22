@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 38
+sources: 44
 ---
 
 # Beliefs
@@ -383,3 +383,64 @@ resume credential for that first help-desk role — but it remains a get-your-fi
 not something to bother with once you already hold an IT role or know you're heading
 straight for a vendor track. This keeps his stable rule intact: "get the cert that benefits
 you most for where you're at right now." Cite [[../wiki/sources/2025-02-07-yt-ay8t4zyalK4]].
+
+---
+
+## Values (added pass 4)
+
+### Anyone can learn tech — he taught his own WIFE Linux in 24 hours (2022-03-07)
+The strongest demonstration of his core "you CAN do this" belief: to prove tech is truly
+for everyone, Chuck taught his **wife** Linux from scratch in about 24 hours. It's a
+deliberate proof-by-example — if a total non-techie can pick up Linux in a day, the barrier
+is never aptitude. This reinforces (does not replace) the earlier no-excuses-accessibility
+(2021–2022) and tech-is-for-everyone-even-kids (2022-03-14) entries above, pushing the same
+mission from cost/age to "literally anyone." Cite [[../wiki/sources/2022-03-07-yt-1KEN1P7qyLM]].
+
+### Radical authenticity — publish your own failures / normalize failing (2019–2020)
+Chuck openly shows his own failures rather than projecting a polished expert image, treating
+persistence and honesty as more valuable than the appearance of perfection. (2020-12-17)
+After a 14-day live study challenge he publicly posts "I failed my exam," and (2019-02-02)
+he openly recounts failing the CCNP TSHOOT before eventually passing. The message: failure
+is a normal, expected part of certification and IT — what matters is that you keep going.
+This extends his earlier drive-over-intelligence, share-your-own-failure-record theme
+(2017-06-11 / 2019-05-10 above) into a deliberate value of publishing the misses in real
+time. Cite [[../wiki/sources/2020-12-17-yt-AdzEDoHAbw8]], [[../wiki/sources/2019-02-02-yt-m5qsxBwXGB0]].
+
+### Decentralization / own-your-data / privacy vs Big Tech (2022-01-26)
+A recurring values thread: control your own data and infrastructure instead of handing it
+to Big Tech. Chuck frames this through self-hosting, private/local setups, and the
+crypto/decentralization ethos — owning your infrastructure and data is about privacy and
+control, not trusting large platforms. This is the earlier, broader root of the later
+private/self-hosted-AI, own-your-data framing (2024, see Frameworks pass 3 above). Cite
+[[../wiki/sources/2022-01-26-yt-El19X-zHt-c]].
+
+---
+
+## Frameworks (added pass 4)
+
+### "Just DO it" — action over analysis-paralysis on certs (2020-11-25)
+Chuck's antidote to overthinking: stop researching and deliberating endlessly about a
+certification — **schedule the exam and start**. Committing to a date and taking action
+beats analysis-paralysis; the momentum of just beginning is what actually gets you
+certified. Complements his Pomodoro/"it's all a mind thing" (2017) and systems-over-
+willpower (2019) study frameworks above by attacking the getting-started barrier directly.
+Cite [[../wiki/sources/2020-11-25-yt-H8iUYmReC9M]].
+
+### Security is offense AND defense — balance hacking with hardening (2021-03-18)
+Chuck deliberately pairs his flashy offensive/hacking demos with the defensive side:
+alongside teaching people to hack, he teaches them to **harden and secure** their systems
+(e.g. securing your Linux box). This is the constructive complement to his "learn offense to
+build defense" white-hat ethos (2019–2022 above) — the point of learning attacks is to know
+how to lock things down, so he explicitly teaches the hardening/defense half too. Cite
+[[../wiki/sources/2021-03-18-yt-ZhMw53Ud2tY]].
+
+---
+
+## Opinions & positions (added pass 4)
+
+### Dated cert recommendation — top-5 entry-level certs to make money (2022-02-25)
+A specific, dated point on his evolving cert-advice trail (see the 2017→2019 CompTIA-vs-Cisco
+and 2025 A+ entries above): Chuck's top-five entry-level certifications for making money are
+**CompTIA A+, CompTIA Security+, Cisco CCNA, AWS Certified Cloud Practitioner, and CompTIA
+PenTest+**. Snapshot of his 2022 view of the best-ROI entry credentials across help-desk,
+security, networking, cloud, and pentesting. Cite [[../wiki/sources/2022-02-25-yt-W2tTsjkX76o]].
