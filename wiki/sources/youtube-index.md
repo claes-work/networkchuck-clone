@@ -72,6 +72,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-05-02 | BLOCK EVERYTHING w/ PiHole on Docker | [[2020-05-02-yt-dH3DdLy574M]] | ★ |
 | 2020-05-07 | you need to learn Ansible RIGHT NOW!! | [[2020-05-07-yt-5hycyr-8EKs]] | ★ |
 | 2020-05-26 | STRESSED OUT!! (learning overwhelm) | [[2020-05-26-yt-KNxZIYHx29I]] | ★ |
+| 2020-06-28 | Google HACKING (Google dorking / OSINT) | [[2020-06-28-yt-hrVa_dhD-iA]] | ★ |
+| 2020-07-01 | Kali Linux on Windows in 5min (WSL 2 GUI) | [[2020-07-01-yt-AfVH54edAHU]] |  |
+| 2020-07-04 | FREE CCNA // What is a Network? // Day 0 | [[2020-07-04-yt-S7MNX_UD7vY]] | ★ |
+| 2020-07-09 | Nmap Tutorial to find Network Vulnerabilities | [[2020-07-09-yt-4t4kBkMsDbQ]] | ★ |
+| 2020-07-14 | What is a SWITCH? // FREE CCNA // Day 1 | [[2020-07-14-yt-9eH16Fxeb9o]] | ★ |
+| 2020-07-26 | What is a ROUTER? // FREE CCNA // EP 2 | [[2020-07-26-yt-p9ScLm9S3B4]] | ★ |
 
 ---
-_59 videos ingested (L2) so far._
+_65 videos ingested (L2) so far._

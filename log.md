@@ -239,3 +239,22 @@ State: advanced high-water mark to "early era 2015-12→2020-05"; checkpoint 1 �
 Synthesis notes: none (this IS the synthesis pass; debt drained). DEFERRED to a later pass:
 appearance.md still empty; father entity (chuck-keith-sr) not yet a page; atomic-habits/
 james-clear reference note; reconcile children-count softness; ai-tools domain awaits sources.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020-06→2020-07 P1, 6 ingested / 1 no-captions / 1 retry
+8 P1 long-form selected (2020-06 → 2020-07). 6 ok, 0 skipped, 1 no-captions (croxobxz1bU
+→ L1), 1 transient fetch error (will re-appear next batch). Post-synthesis, resumed P1.
+This batch launches the FLAGSHIP FREE CCNA course.
+- 2020-06-28 hrVa_dhD-iA — Google hacking / dorking (OSINT) ★
+- 2020-07-01 AfVH54edAHU — Kali on Windows via WSL2 GUI
+- 2020-07-04 S7MNX_UD7vY — FREE CCNA Day 0 (course kickoff) ★
+- 2020-07-09 4t4kBkMsDbQ — Nmap tutorial ★
+- 2020-07-14 9eH16Fxeb9o — FREE CCNA Day 1 (switches) ★
+- 2020-07-26 p9ScLm9S3B4 — FREE CCNA EP2 (routers) ★
+Synthesis notes: (a) LANDMARK — the "FREE CCNA" multi-episode course begins (Day 0 / Day 1
+switches / EP 2 routers). This is a flagship free-education series and a canonical teaching
+artifact; at the next synthesis, give it a dedicated structure under
+certifications-career + networking (track episodes as they ingest) and note it in
+creator-coffee-business (free-course-as-audience-engine). (b) Cybersecurity teaching
+tutorials proliferate (Google dorking, Nmap, Kali-on-WSL2) — reinforce the ethical-hacking
+teaching hub. No persona/belief changes needed yet (voice/beliefs already captured these
+patterns in pass 1). Debt now 1.
