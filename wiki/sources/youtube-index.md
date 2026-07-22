@@ -112,6 +112,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-04-09 | the Linux File System // Linux for Hackers // EP 2 | [[2021-04-09-yt-A3G-3hp88mo]] | ★ |
 | 2021-04-27 | Virtual Machines Pt. 2 (Proxmox install) | [[2021-04-27-yt-_u8qTN3cCnQ]] | ★ |
 | 2021-04-29 | Twitter OSiNT (Ethical Hacking) | [[2021-04-29-yt-SvO_FDa8AIs]] |  |
+| 2021-05-08 | i put a DARK WEB website on a Raspberry Pi!! | [[2021-05-08-yt-bllS9tkCkaM]] | ★ |
+| 2021-05-30 | fiber optic cables // FREE CCNA // EP 13 | [[2021-05-30-yt-E3DEJ7odWq0]] | ★ |
+| 2021-06-18 | you need to learn Load Balancing RIGHT NOW!! | [[2021-06-18-yt-LlbTSfc4biw]] | ★ |
+| 2021-07-08 | reverse shells with netcat | [[2021-07-08-yt-bXCeFPNWjsM]] | ★ |
+| 2021-07-27 | access EVERYTHING from your browser (Guacamole) | [[2021-07-27-yt-gsvS2M5knOw]] | ★ |
+| 2021-07-30 | you NEED to learn Port Security // FREE CCNA // EP 14 | [[2021-07-30-yt-0W4JZIWtjLQ]] | ★ |
 
 ---
-_99 videos ingested (L2) so far._
+_105 videos ingested (L2) so far._

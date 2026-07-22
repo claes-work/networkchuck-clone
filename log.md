@@ -349,3 +349,21 @@ episodes. (b) FREE CCNA now through EP 12 (PoE). (c) An OSINT tool-tutorial clus
 sub-topic at synthesis. (d) Proxmox introduced as the recurring homelab hypervisor (pairs
 with the VM + hacking-lab content) — reinforce homelab hub. No persona changes. Debt now 6.
 CROSSED 99 L2 pages.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2021-05→2021-07 P1, 6 ingested / 1 no-captions / 1 retry
+8 P1 long-form selected (2021-05 → 2021-07). 6 ok, 0 skipped, 1 no-captions (rI-XxnyWFnM
+→ L1), 1 transient fetch error. CROSSED 100 L2 pages this batch (now 105).
+- 2021-05-08 bllS9tkCkaM — dark web (Tor hidden service) on a Pi ★
+- 2021-05-30 E3DEJ7odWq0 — FREE CCNA EP13 (fiber optic) ★
+- 2021-06-18 LlbTSfc4biw — landmark: learn Load Balancing RIGHT NOW (homelab, Kemp) ★
+- 2021-07-08 bXCeFPNWjsM — reverse shells with netcat (lab/ethics) ★
+- 2021-07-27 gsvS2M5knOw — Guacamole browser remote access ★
+- 2021-07-30 0W4JZIWtjLQ — FREE CCNA EP14 (port security) ★
+Synthesis notes: (a) FREE CCNA now through EP 14 (fiber, port security). (b) Load Balancing
+extends the learn-X format + a homelab build (Kemp LoadMaster). (c) NOTABLE PRECURSOR:
+the Guacamole "access everything from your browser" video (2021-07) foreshadows his later
+NetworkChuck Cloud Browser product (browser-based access) — worth a cross-link in
+creator-coffee-business/Cloud Browser entity at synthesis. (d) Ethical-hacking teaching
+deepens (reverse shells w/ netcat, Tor hidden service on Pi — both with lab-only/ethics
+framing). Reinforces the cybersecurity hub + the ethical-hacking ethos already in beliefs.
+No inline persona edits. Debt now 7 (checkpoint at 10 — ~3 batches out).
