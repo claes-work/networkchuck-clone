@@ -194,8 +194,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | Date | Title | Page | ★ |
 |------|-------|------|---|
 | 2022-02-21 | why David Bombal became a hacker (noobs podcast ep. 4) | [[2022-02-21-yt-tWAkJw3_l2s]] | ★ |
+| 2024-12-19 | Home Assistant made their own Alexa!! | [[2024-12-19-yt-An4IapvutzM]] |  |
+| 2025-02-07 | Is the NEW CompTIA A+ Exam Worth It? (220-1201/1202) | [[2025-02-07-yt-ay8t4zyalK4]] | ★ |
+| 2025-03-05 | How I handle multiple Python Versions (pyenv) | [[2025-03-05-yt-MVyb-nI4KyI]] | ★ |
+| 2025-03-13 | how to host Open WebUI locally (self-hosted AI Hub) | [[2025-03-13-yt-JJ_0-pAOIEk]] |  |
+| 2025-03-13 | Turn Open WebUI into a real website (Domain + SSL) | [[2025-03-13-yt-BdH_yR_J3FQ]] |  |
+| 2025-03-28 | Create Your Own Raspberry Pi File Server (SMB) | [[2025-03-28-yt-vrELBV-r4Aw]] |  |
+| 2025-07-16 | How to Run n8n Locally (On-Premise Setup) | [[2025-07-16-yt--ErfsM2TYsM]] |  |
+| 2025-09-10 | Cisco's Certification Director Explains the Future of CCNA | [[2025-09-10-yt-1tw3O2iOt1U]] | ★ |
 
-_(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of this episode.)_
+_(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_176 videos ingested (L2) so far._
+_184 videos ingested (L2) so far._

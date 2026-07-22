@@ -609,3 +609,24 @@ attribution applied (David Bombal's hacking journey/advice = context, NOT Chuck'
 Reinforces [[david-bombal]] + [[cameron-keith]] entities and the podcast format. (c) LOOP
 NOTE for v2: expect many more dup clips; check each v2 item against main long-form. No inline
 persona edits. Debt now 8 (checkpoint at 10 — 2 batches out).
+
+## [2026-07-22] ingest | yt batch (@networkchuck_v2, 8) — 2024-25 standalone tutorials, 8 ingested
+8 @networkchuck_v2 items (2024-12 → 2025-09). 8 ok, 0 skipped, 0 retry. Unlike the earlier
+v2 clip cluster, these are GENUINE standalone tutorials (v2 hosts original content too).
+- 2024-12-19 An4IapvutzM — Home Assistant Voice (private local Alexa)
+- 2025-02-07 ay8t4zyalK4 — is the new CompTIA A+ (220-1201/02) worth it? ★
+- 2025-03-05 MVyb-nI4KyI — pyenv multiple Python versions ★
+- 2025-03-13 JJ_0-pAOIEk — host Open WebUI locally (self-hosted AI hub)
+- 2025-03-13 BdH_yR_J3FQ — Open WebUI as a real website (domain+SSL)
+- 2025-03-28 vrELBV-r4Aw — Raspberry Pi SMB file server
+- 2025-07-16 -ErfsM2TYsM — run n8n locally (on-premise)
+- 2025-09-10 1tw3O2iOt1U — Cisco cert-director (Ryan Rose) on future of CCNA ★ (guest)
+Synthesis notes: (a) v2 is a MIX: some clip excerpts (dedupe) + original standalone
+tutorials (ingest) — triage per item. (b) CURRENT CERT STANCE: his 2025 take on the new
+CompTIA A+ (220-1201/1202) — add to certifications-career as the latest dated cert-advice
+datapoint (compare to his earlier A+/CompTIA positions for the evolving-position trail). (c)
+Cisco's official cert-director (Ryan Rose) interviewed on the FUTURE OF CCNA — authoritative
+context (attributed to guest, not Chuck); note in networking/cert hubs + add ryan-rose to
+entity debt. (d) Self-hosted-AI tooling deepens (Open WebUI local + public, n8n on-prem) —
+reinforces the private/self-hosted-AI thread for the ai-tools hub. No inline persona edits.
+Debt now 9. >>> CHECKPOINT next batch → Stage S (synthesis pass 3).
