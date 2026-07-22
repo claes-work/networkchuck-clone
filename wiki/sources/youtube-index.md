@@ -106,6 +106,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-06-25 | You need a NAS RIGHT NOW!! (his hybrid-cloud business) | [[2021-06-25-yt-ZMsHCCyBqEQ]] | ★ |
 | 2021-08-06 | start/stop/restart Linux services // Linux for Hackers // EP 6 | [[2021-08-06-yt-wOWhfNB_r-0]] | ★ |
 | 2021-09-17 | i hate talking on the phone….. | [[2021-09-17-yt-zV8KQNJMKS8]] | ★ |
+| 2021-09-21 | let's go deeper into Python!! // Python // EP 2 | [[2021-09-21-yt-IXr0-J5XXMA]] | ★ |
+| 2021-10-12 | i bought a new SERVER!! (VMware ESXi) | [[2021-10-12-yt-apC1bOLbzbY]] |  |
+| 2021-10-16 | FREE Kali Linux in the Cloud (AWS) | [[2021-10-16-yt-QWQ-LQL1owE]] | ★ |
+| 2021-10-26 | do you need MATH to learn Python? // Python // EP 3 | [[2021-10-26-yt-T6OLDHAWjjA]] | ★ |
+| 2021-11-02 | Nvidia does cybersecurity?!? and networking? | [[2021-11-02-yt-XIoHFklOcVQ]] |  |
+| 2021-11-16 | putting 5G and MEC to the test!! | [[2021-11-16-yt-4c_rKOaTquM]] | ★ |
+| 2021-12-10 | you need to create a Cryptocurrency RIGHT NOW!! (Solana) | [[2021-12-10-yt-befUVytFC80]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -251,4 +258,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_229 videos ingested (L2) so far._
+_236 videos ingested (L2) so far._

@@ -787,3 +787,19 @@ cloud) — add to creator-coffee-business + biography (his production stack). (d
 he openly says he HATES talking on the phone / prefers texting — a genuine personal-trait
 datapoint (mild introversion) for persona (pairs with his people-skills-via-service belief).
 No inline persona edits. Debt now 6.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2021 P2, 7 ingested / 1 rate-limited
+8 P2 (2021-09 → 2021-12). 7 ok, 0 skipped, 1 x 429.
+- 2021-09-21 IXr0-J5XXMA — Python course EP2 ★
+- 2021-10-12 apC1bOLbzbY — bought a new server (VMware ESXi; homelab growth)
+- 2021-10-16 QWQ-LQL1owE — free Kali in the cloud (AWS) ★
+- 2021-10-26 T6OLDHAWjjA — Python EP3 (you don't need math; accessibility) ★
+- 2021-11-02 XIoHFklOcVQ — Nvidia security/networking DPU (interview, guest K. Deierling)
+- 2021-11-16 4c_rKOaTquM — 5G + MEC edge latency test ★
+- 2021-12-10 befUVytFC80 — create a Solana crypto token (2021 blockchain; era-specific) ★
+Synthesis notes: (a) Python course extends (EP2, EP3) — update free-courses page. (b) The
+Python EP3 "you don't need to be good at math" message reinforces his NO-EXCUSES ACCESSIBILITY
+belief (anyone can learn). (c) DATE-SENSITIVE: 2021 crypto/blockchain content (Solana token) —
+mark era-specific; his content follows tech trends (crypto 2021, AI 2023+). (d) Homelab grows
+(new ESXi server). (e) Some sponsored/interview content (Nvidia w/ guest Kevin Deierling; 5G/MEC)
+— attributed to guests/marked sponsored. No inline persona edits. Debt now 7.
