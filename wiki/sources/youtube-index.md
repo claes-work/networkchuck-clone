@@ -160,6 +160,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-02-16 | I ditched my Raspberry Pi for this | [[2024-02-16-yt-5FhDrux0kCc]] |  |
 | 2024-03-12 | Run your own AI (but private) | [[2024-03-12-yt-WxYC9-hBM_g]] | ★ |
 | 2024-04-03 | 60 Hacking Commands You NEED to Know | [[2024-04-03-yt-gL4j-a-g9pA]] | ★ |
+| 2024-05-03 | host ALL your AI locally | [[2024-05-03-yt-Wjrdr0NU4Sk]] | ★ |
+| 2024-06-11 | RetroPie: A Raspberry Pi Gaming Machine | [[2024-06-11-yt-AaseHnf0k2o]] |  |
+| 2024-07-26 | the FrankeNAS // a CEPH Tutorial | [[2024-07-26-yt-jJrnJ9rj6fs]] | ★ |
+| 2024-08-30 | IPv6 keeps getting hacked on Windows | [[2024-08-30-yt-Z_QlUyYlUCg]] |  |
+| 2024-09-18 | he hacked my websites (guest pentester) | [[2024-09-18-yt-AxMWywGFSfs]] | ★ |
+| 2024-09-25 | 18 Weird and Wonderful ways I use Docker | [[2024-09-25-yt-RUqGlWr5LBA]] | ★ |
+| 2024-10-08 | so...I put a Time Server in my HomeLab | [[2024-10-08-yt-6YHqVbvfMYI]] |  |
+| 2024-10-25 | your home automation SUCKS!! (Home Assistant) | [[2024-10-25-yt-k02P5nghmfs]] | ★ |
 
 ---
-_147 videos ingested (L2) so far._
+_155 videos ingested (L2) so far._

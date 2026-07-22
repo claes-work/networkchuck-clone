@@ -512,3 +512,23 @@ Hacking commands — a recognizable "command reference" content format. (c) tmux
 WiFi (own-network) + Oracle DB + dark-web-explained extend the ethical-hacking catalog (all
 defensive/safety framed). (e) Hardware thread: Pi 5 + "ditched the Pi for [alt]". No inline
 persona edits. Debt now 3. P1 tier almost drained (~20 left on main).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2024-05→2024-10 P1, 8 ingested
+8 P1 long-form (2024-05 → 2024-10). 8 ok, 0 skipped, 0 retry.
+- 2024-05-03 Wjrdr0NU4Sk — host ALL your AI locally (full self-hosted AI stack) ★
+- 2024-06-11 AaseHnf0k2o — RetroPie gaming machine (fun/maker)
+- 2024-07-26 jJrnJ9rj6fs — FrankeNAS CEPH cluster (mixed hardware) ★
+- 2024-08-30 Z_QlUyYlUCg — IPv6 hacking on Windows (mitm6; defense)
+- 2024-09-18 AxMWywGFSfs — he hacked my websites (guest Tyler Ramsey/HackSmarter) ★
+- 2024-09-25 RUqGlWr5LBA — 18 ways I use Docker (self-host everything) ★
+- 2024-10-08 6YHqVbvfMYI — stratum-1 time server in homelab (NTP/GPS)
+- 2024-10-25 k02P5nghmfs — self-hosted home automation (Home Assistant; local-control) ★
+Synthesis notes: (a) 2024 is HOMELAB/SELF-HOSTING HEAVY: FrankeNAS/CEPH, 18-Docker-services
+showcase, stratum-1 time server, Home Assistant, RetroPie — his homelab identity is now a
+dominant channel pillar; the "self-host everything / own your data / local-control" thread
+runs through AI (host all AI locally), storage, and home automation → promote a unified
+"self-hosting & data-ownership" framing to beliefs + homelab hub at next synthesis. (b)
+AI-tools deepens again (full local AI stack, May 2024) — 3 AI videos now (ML, private AI,
+host-all-AI); enough to seed the ai-tools hub properly. (c) New guest entity: Tyler Ramsey
+(HackSmarter, pentester) — entity debt. (d) Security continues (IPv6/mitm6, web pentest).
+No inline persona edits. Debt now 4. P1 down to ~12 on main.
