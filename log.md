@@ -472,3 +472,24 @@ linux-terminal. (b) Web-app security enters (SQL injection, steganography) — e
 cybersecurity ethical-hacking catalog. (c) The Pi maker/"tech is fun" ethos continues
 (haunted house). (d) Crossed into 2023 content. No inline persona edits (patterns already in
 v2 persona). Debt now 1.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2023 P1, 7 ingested / 1 skipped
+8 P1 long-form (one 2020 straggler + 2023-03 → 2023-07). 7 ok, 1 skipped, 0 retry.
+- Skipped: yFC8pb2TPdc "learn HACKING/CEH" (2020) — garbled/junk captions, unusable.
+- 2023-03-01 JJCq21Dc-Us — learn Machine Learning (FIRST AI/ML video) ★
+- 2023-03-10 km81ph7pZz8 — 3 Pi hacking-gadget builds
+- 2023-03-27 prVHU1fLR20 — 30 Windows commands (reference) ★
+- 2023-06-19 xBIowQ0WaR8 — build your own cloud (self-hosting/data-ownership) ★
+- 2023-06-28 X1CM3rZwGn8 — learn Windows / AD (learn-X) ★
+- 2023-06-30 L26Xq7m0uQ0 — hack a password: Windows edition (NTLM; defense) ★
+- 2023-07-10 0kk6k-VdllM — intro to cloud hacking (leaky buckets/S3) ★
+Synthesis notes: MAJOR. (a) THE AI-TOOLS DOMAIN OPENS: "learn Machine Learning RIGHT NOW"
+(Mar 2023) is his first AI/ML video — the ai-tools hub (empty since bootstrap) now has its
+first source; at synthesis, seed the ai-tools hub + note the 2023 AI-content pivot in
+biography (guests Santiago/Nacho = context). (b) The learn-X format extends to WINDOWS/AD +
+Machine Learning; the command-reference genre gets a Windows companion (30 Windows cmds) to
+the 60-Linux-cmds. (c) CLOUD+SECURITY CONVERGENCE deepens: "intro to cloud hacking (leaky
+buckets)" + Windows password cracking (NTLM, full MITRE ATT&CK defensive mapping) — extend
+cybersecurity hub. (d) "build your own cloud" crystallizes a DATA-OWNERSHIP / self-hosting
+PHILOSOPHY (own your data vs Big Tech) — a value worth adding to beliefs at next synthesis.
+Debt now 2.

@@ -145,6 +145,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-10-31 | I Built a HAUNTED HOUSE with Raspberry Pi | [[2022-10-31-yt-X2YH-XyqyXE]] | ★ |
 | 2022-11-16 | 60 Linux Commands you NEED to know | [[2022-11-16-yt-gd7BXuUQ91w]] | ★ |
 | 2023-01-05 | the hacker's roadmap (get started in IT in 2023) | [[2023-01-05-yt-uTAaFExLgwQ]] | ★ |
+| 2023-03-01 | You NEED to learn Machine Learning, RIGHT NOW!! | [[2023-03-01-yt-JJCq21Dc-Us]] | ★ |
+| 2023-03-10 | 3 HACKING gadgets you have to TRY!! | [[2023-03-10-yt-km81ph7pZz8]] |  |
+| 2023-03-27 | 30 Windows Commands you CAN'T live without | [[2023-03-27-yt-prVHU1fLR20]] | ★ |
+| 2023-06-19 | build your own cloud | [[2023-06-19-yt-xBIowQ0WaR8]] | ★ |
+| 2023-06-28 | you NEED to learn Windows RIGHT NOW!! | [[2023-06-28-yt-X1CM3rZwGn8]] | ★ |
+| 2023-06-30 | how to HACK a password // Windows Edition | [[2023-06-30-yt-L26Xq7m0uQ0]] | ★ |
+| 2023-07-10 | intro to cloud hacking (leaky buckets) | [[2023-07-10-yt-0kk6k-VdllM]] | ★ |
 
 ---
-_132 videos ingested (L2) so far._
+_139 videos ingested (L2) so far._
