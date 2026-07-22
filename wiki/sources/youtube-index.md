@@ -41,6 +41,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-04-17 | Hack a Cisco Switch with a Raspberry Pi | [[2018-04-17-yt-lTlTjeCjXYM]] | ★ |
 | 2018-04-25 | STOP Buying IT Certification Books | [[2018-04-25-yt-6HsgCor5I28]] | ★ |
 | 2018-07-16 | Moving my HOME NETWORK to a DATA CENTER w/ DMVPN | [[2018-07-16-yt-G5HucqXioBY]] | ★ |
+| 2018-08-11 | I PASSED THE CCNA EXAM!! (ICND2) — w/ brother Cameron | [[2018-08-11-yt-NBgRLL8mkUI]] | ★ |
+| 2018-10-25 | What's next for NetworkChuck? *UPDATE* (automation pivot) | [[2018-10-25-yt-O8HDIRtMvwI]] | ★ |
+| 2018-10-30 | HOW to Start Coding as a Network Engineer | [[2018-10-30-yt-eAdrnTOcPOg]] | ★ |
+| 2018-11-23 | Re-Learning IT after MEMORY LOSS (w/ Shawn Powers) | [[2018-11-23-yt-rPjtZUBBPEU]] | ★ |
+| 2018-12-12 | How To get a JOB with a CCNA | [[2018-12-12-yt-Azm4woyCNBA]] | ★ |
+| 2018-12-16 | Fighting IMPOSTER SYNDROME in IT | [[2018-12-16-yt-iP9kuR2U8-o]] | ★ |
+| 2018-12-16 | Arduino + Raspberry Pi + Python to Monitor Cisco Router (DevNet) | [[2018-12-16-yt-7UkkrNoZUwU]] | ★ |
+| 2018-12-17 | Planning for 2019 - IT Goals | [[2018-12-17-yt-KTOQHVui0fM]] | ★ |
 
 ---
-_28 videos ingested (L2) so far._
+_36 videos ingested (L2) so far._

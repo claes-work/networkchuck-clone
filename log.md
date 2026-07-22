@@ -112,3 +112,27 @@ first Raspberry-Pi hacking demo (2018-04) and first personal-infrastructure/home
 (2018-07, reveals a Dallas colo + DMVPN traveling-branch pattern — bio). These mark the
 pivot toward the hands-on hack/build content the channel is known for. Promote at
 checkpoint (~2 batches away).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2018 P1 (transition to automation), 8 ingested
+8 P1 long-form (2018-08 → 2018-12). 8 ok, 0 skipped. Late-2018 = clear pivot toward
+network automation / coding / DevNet.
+- 2018-08-11 NBgRLL8mkUI — I PASSED THE CCNA (ICND2); interview w/ brother Cameron ★
+- 2018-10-25 O8HDIRtMvwI — channel update: automation pivot ★
+- 2018-10-30 eAdrnTOcPOg — start coding as a net engineer; intent-based networking ★
+- 2018-11-23 rPjtZUBBPEU — memory-loss interview w/ Shawn Powers (guest) ★
+- 2018-12-12 Azm4woyCNBA — canonical get-a-job-with-a-CCNA playbook ★
+- 2018-12-16 iP9kuR2U8-o — fighting imposter syndrome (family interview) ★
+- 2018-12-16 7UkkrNoZUwU — Arduino+Pi+Python monitor Cisco router (DevNet) ★
+- 2018-12-17 KTOQHVui0fM — planning 2019 IT goals (AWS/cloud interest) ★
+Synthesis notes: VERY RICH. New — (a) BIO: Cameron (the "noobs" podcast co-host) is
+confirmed Chuck's BROTHER (appears in the CCNA-pass interview); their father also appears
+in the imposter-syndrome video — both are context people, NOT the subject; attribution
+applied. (b) BIO milestone: passed/recertified CCNA via ICND2 (Aug 2018). (c) SHIFT: an
+explicit late-2018 channel pivot toward network automation / "start coding" / intent-based
+networking (DNA Center, SDN) — dates the automation era; and a maker/DevNet build
+(Arduino+Pi+Python). (d) Canonical "how to get a job with a CCNA" job-hunting playbook —
+core certifications-career content. (e) Emerging AWS/cloud interest in his 2019 goals —
+foreshadows the cloud era. (f) Shawn Powers confirmed as a recurring collaborator (Linux
+educator) → CREATE wiki/entities/shawn-powers.md at synthesis (alongside keith-barker.md).
+ENTITY DEBT: keith-barker, shawn-powers, cameron (brother/co-host). Promote at checkpoint
+(~2 batches away).
