@@ -89,3 +89,26 @@ career longevity vs automation/SDN (DATE-SENSITIVE — likely evolves; flag for 
 check against later cloud/automation content). (e) "Next-gen network engineer = networking +
 Python + Linux" skill-stack framing recurs (reinforces the "unicorn" framework). (f) "Never
 too late / you're not too old" encouragement ethos stated explicitly. Promote at checkpoint.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — late-2017→2018 P1, 7 ingested / 1 no-captions
+8 P1 long-form (2017-12 → 2018-07). 7 ok, 0 skipped, 1 no-captions (uyGVNqZ1KMU → L1).
+Notable shift: the corpus starts moving from pure study-advice into hands-on tech.
+- 2017-12-21 dVXHibpRmaA — net engineer salary (2017 figures) ★
+- 2017-12-22 Zlc12P4F51c — how long to become a net engineer ★
+- 2017-12-23 vN5a-ZjiFmI — network vs systems engineer
+- 2018-02-13 BsH0SMDJdD4 — 7 study tips 2018 w/ Keith Barker CCIE ★ (GUEST collab)
+- 2018-04-17 lTlTjeCjXYM — hack a Cisco switch w/ Raspberry Pi ★ (early hacking demo)
+- 2018-04-25 6HsgCor5I28 — stop buying cert books ★
+- 2018-07-16 G5HucqXioBY — home network → data center w/ DMVPN ★ (early homelab)
+Synthesis notes: RICH. New — (a) First-person salary history + a "job-hop beats
+stagnation" career/money framework (dated 2017 figures — mark time-sensitive). (b) His
+personal "how I broke into networking" timeline/framework (biography material). (c)
+Chuck<->Keith Barker relationship confirmed (fellow CBT Nuggets trainer, CCIE) → CREATE
+wiki/entities/keith-barker.md context page at next synthesis; this collab needs
+per-speaker attribution (done on the source page: 6 tips Chuck, tip 2 + CCIE anecdotes
+Keith). (d) His study-resource stance: video course + lab + book, subscription training
+(CBT Nuggets) > a single book — note his CBT Nuggets self-interest. (e) FORMAT EVOLUTION:
+first Raspberry-Pi hacking demo (2018-04) and first personal-infrastructure/homelab video
+(2018-07, reveals a Dallas colo + DMVPN traveling-branch pattern — bio). These mark the
+pivot toward the hands-on hack/build content the channel is known for. Promote at
+checkpoint (~2 batches away).

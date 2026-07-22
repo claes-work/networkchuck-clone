@@ -34,6 +34,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-12-18 | Is it still WORTH IT to become a Network Engineer? | [[2017-12-18-yt-f8e-be_nMa8]] | ★ |
 | 2017-12-19 | Should I Learn LINUX with the CCNA \| CCNP? | [[2017-12-19-yt-TCQdJwLMqfY]] |  |
 | 2017-12-20 | Am I Too OLD to Become a Network Engineer? | [[2017-12-20-yt-SlHfqJyqsmo]] | ★ |
+| 2017-12-21 | How Much Money Do Network Engineers Make? | [[2017-12-21-yt-dVXHibpRmaA]] | ★ |
+| 2017-12-22 | How Long Does It Take to Become a Network Engineer? | [[2017-12-22-yt-Zlc12P4F51c]] | ★ |
+| 2017-12-23 | Network Engineer or Systems Engineer? | [[2017-12-23-yt-vN5a-ZjiFmI]] |  |
+| 2018-02-13 | 7 CCNA CCNP Study Tips 2018 (w/ Keith Barker CCIE) | [[2018-02-13-yt-BsH0SMDJdD4]] | ★ |
+| 2018-04-17 | Hack a Cisco Switch with a Raspberry Pi | [[2018-04-17-yt-lTlTjeCjXYM]] | ★ |
+| 2018-04-25 | STOP Buying IT Certification Books | [[2018-04-25-yt-6HsgCor5I28]] | ★ |
+| 2018-07-16 | Moving my HOME NETWORK to a DATA CENTER w/ DMVPN | [[2018-07-16-yt-G5HucqXioBY]] | ★ |
 
 ---
-_21 videos ingested (L2) so far._
+_28 videos ingested (L2) so far._
