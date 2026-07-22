@@ -879,3 +879,20 @@ populated; all 8 topic hubs populated.
 Synthesis notes: none (this IS the pass; debt drained). DEFERRED: a possible "austin/team" note
 (editor mentioned); minor collab entities still not pages (Jason Gooley, Susie Wee, Kevin
 Wallace, etc.). Remaining open ingest: main P2 (~95) + P3 + v2 P2/P3 + 153 shorts.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-06→2022-08 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429.
+- 2022-06-01 3ytqP1QvhUc — Follina zero-day (CVE-2022-30190; topical) ★
+- 2022-06-29 ugt3PBeqHIo — killed my Linux computer (learn-by-breaking) ★
+- 2022-07-01 ifT6npY39Dw — private search engine (SearXNG; own-your-data) ★
+- 2022-07-19 oZGZRtaGyG8 — what is a subnet mask
+- 2022-08-10 NeIrWXIj1m4 — 30 Day Cert Challenge (community/accountability) ★
+- 2022-08-24 nW9M0MQinfg — Bash pushup counter (fun project)
+- 2022-08-29 5aYpkLfkgRE — Flask meme website (Python web dev)
+Synthesis notes: (a) TEACHING STYLE: "learn by BREAKING then fixing" (intentionally kills a
+Linux box to teach recovery) — a signature pedagogy datapoint (pairs with analogy-teaching +
+build-a-lab). (b) OWN-YOUR-DATA: self-hosted private search engine (SearXNG, ditch Google) —
+reinforces the decentralization/privacy belief. (c) COMMUNITY/ACCOUNTABILITY: the "30 Day Cert
+Challenge" is another community-accountability format (pairs w/ 24-7 study stream). (d) Topical
+security (Follina 2022 zero-day) shows he covers current threats. (e) Python extends into web
+(Flask). Mostly reinforces existing persona threads. No inline persona edits. Debt now 1.

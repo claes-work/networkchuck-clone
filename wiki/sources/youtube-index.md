@@ -134,6 +134,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-05-09 | deleting stuff from Python Lists // Python // EP 9 | [[2022-05-09-yt-jdTwCSxNINA]] | ★ |
 | 2022-05-13 | this BASH script will KILL you. | [[2022-05-13-yt-Fq6gqi9Ubog]] |  |
 | 2022-05-23 | i bet you can't do this (You SUCK at Subnetting) | [[2022-05-23-yt-2-i5x8KCfII]] | ★ |
+| 2022-06-01 | let's play with a ZERO-DAY (Follina) | [[2022-06-01-yt-3ytqP1QvhUc]] | ★ |
+| 2022-06-29 | i KILLED my Linux computer!! | [[2022-06-29-yt-ugt3PBeqHIo]] | ★ |
+| 2022-07-01 | ditch Google!! (private search engine) | [[2022-07-01-yt-ifT6npY39Dw]] | ★ |
+| 2022-07-19 | What is a Subnet Mask??? | [[2022-07-19-yt-oZGZRtaGyG8]] |  |
+| 2022-08-10 | the 30 Day Cert Challenge | [[2022-08-10-yt-NeIrWXIj1m4]] | ★ |
+| 2022-08-24 | a BASH script PUSH-UP counter | [[2022-08-24-yt-nW9M0MQinfg]] |  |
+| 2022-08-29 | build a meme Python website (Flask) | [[2022-08-29-yt-5aYpkLfkgRE]] |  |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -279,4 +286,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_257 videos ingested (L2) so far._
+_264 videos ingested (L2) so far._
