@@ -532,3 +532,25 @@ AI-tools deepens again (full local AI stack, May 2024) — 3 AI videos now (ML, 
 host-all-AI); enough to seed the ai-tools hub properly. (c) New guest entity: Tyler Ramsey
 (HackSmarter, pentester) — entity debt. (d) Security continues (IPv6/mitm6, web pentest).
 No inline persona edits. Debt now 4. P1 down to ~12 on main.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2024-12→2025-09 P1 (FINAL P1), 8 ingested
+8 P1 long-form (2024-12 → 2025-09). 8 ok, 0 skipped, 0 retry. THIS DRAINS THE MAIN-CHANNEL
+P1 TIER (landmark/top-by-views). Corpus now reaches the current era (Sept 2025).
+- 2024-12-10 -49KVplIGDo — Raspberry Pi 500 review
+- 2025-02-04 EXL8mMUXs88 — self-hosted remote desktop (RustDesk)
+- 2025-02-17 Ju0ndy2kwlw — AI supercomputer w/ 5 Mac Studios (local LLM at scale) ★
+- 2025-02-28 CxTMHw-M0Yg — you're going to get hacked 2025 (zero-trust-human) ★
+- 2025-04-23 6WYBvbn-mgQ — Zima Board 2 homelab review
+- 2025-07-16 ONgECvZNI3o — use n8n RIGHT NOW (self-hosted AI automation) ★
+- 2025-08-12 Qvx2sVgQ-u0 — hacking AI (prompt injection; AI+security) ★
+- 2025-09-12 GuTcle5edjk — learn MCP RIGHT NOW (Model Context Protocol) ★
+Synthesis notes: MAJOR — the CURRENT ERA. (a) AI is now a DOMINANT pillar: local AI at
+scale (5 Mac Studios), self-hosted AI automation (n8n), AI security (prompt injection), and
+the AI-agent frontier (MCP, Sept 2025). The ai-tools domain now has ~7 sources spanning
+ML→private-AI→local-stack→supercomputer→automation→AI-hacking→MCP — a clear 2023→2025 AI
+pivot; at synthesis, fully build the ai-tools hub + add a biography "AI era" arc + a belief
+about self-hosted/private AI + AI-as-the-new-frontier. (b) AI+SECURITY CONVERGENCE (hacking
+AI) and AI+SELF-HOSTING (own your AI) are his two signature 2025 angles. (c) "zero trust
+human" personal-security philosophy (2025 threats) — good beliefs/voice material. (d) MILESTONE:
+main-channel P1 tier is DONE. Next: continue with P2 (183 rows) or @networkchuck_v2 P1 (17).
+No inline persona edits. Debt now 5.

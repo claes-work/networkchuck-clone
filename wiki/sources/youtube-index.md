@@ -168,6 +168,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-09-25 | 18 Weird and Wonderful ways I use Docker | [[2024-09-25-yt-RUqGlWr5LBA]] | ★ |
 | 2024-10-08 | so...I put a Time Server in my HomeLab | [[2024-10-08-yt-6YHqVbvfMYI]] |  |
 | 2024-10-25 | your home automation SUCKS!! (Home Assistant) | [[2024-10-25-yt-k02P5nghmfs]] | ★ |
+| 2024-12-10 | who is this even for?? (Raspberry Pi 500) | [[2024-12-10-yt--49KVplIGDo]] |  |
+| 2025-02-04 | Your Remote Desktop SUCKS!! (RustDesk) | [[2025-02-04-yt-EXL8mMUXs88]] |  |
+| 2025-02-17 | I built an AI supercomputer with 5 Mac Studios | [[2025-02-17-yt-Ju0ndy2kwlw]] | ★ |
+| 2025-02-28 | You're going to get Hacked in 2025 | [[2025-02-28-yt-CxTMHw-M0Yg]] | ★ |
+| 2025-04-23 | Zima Board 2 (replace your homelab?) | [[2025-04-23-yt-6WYBvbn-mgQ]] |  |
+| 2025-07-16 | You NEED to Use n8n RIGHT NOW!! | [[2025-07-16-yt-ONgECvZNI3o]] | ★ |
+| 2025-08-12 | Hacking AI is TOO EASY | [[2025-08-12-yt-Qvx2sVgQ-u0]] | ★ |
+| 2025-09-12 | you need to learn MCP RIGHT NOW!! | [[2025-09-12-yt-GuTcle5edjk]] | ★ |
 
 ---
-_155 videos ingested (L2) so far._
+_163 videos ingested (L2) so far._
