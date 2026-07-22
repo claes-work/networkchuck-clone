@@ -99,6 +99,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-03-30 | my favorite IT study tool - Notion | [[2021-03-30-yt-9Zj3Z4KkcQA]] | ★ |
 | 2021-04-15 | you need a website RIGHT NOW!! | [[2021-04-15-yt-gwUz3E9AW0w]] | ★ |
 | 2021-04-16 | HELP!! // Linux for Hackers // EP3 | [[2021-04-16-yt-Y17KTiJLcyQ]] | ★ |
+| 2021-04-22 | installing my "FREE" cloud phone system (AWS + 3CX) | [[2021-04-22-yt-n_1wX7kKx7k]] |  |
+| 2021-05-21 | sudo = POWER!! // Linux for Hackers // EP4 | [[2021-05-21-yt-jwnvKOjmtEA]] | ★ |
+| 2021-06-03 | will my dad LOSE his job? (dad = trad IT infra eng) | [[2021-06-03-yt-HwSZe00ZSuU]] | ★ |
+| 2021-06-04 | apt/dpkg/git/pip // Linux for Hackers // EP 5 | [[2021-06-04-yt-vX3krP6JmOY]] | ★ |
+| 2021-06-25 | You need a NAS RIGHT NOW!! (his hybrid-cloud business) | [[2021-06-25-yt-ZMsHCCyBqEQ]] | ★ |
+| 2021-08-06 | start/stop/restart Linux services // Linux for Hackers // EP 6 | [[2021-08-06-yt-wOWhfNB_r-0]] | ★ |
+| 2021-09-17 | i hate talking on the phone….. | [[2021-09-17-yt-zV8KQNJMKS8]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -244,4 +251,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_222 videos ingested (L2) so far._
+_229 videos ingested (L2) so far._

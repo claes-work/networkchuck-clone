@@ -768,3 +768,22 @@ content isn't only offensive; capture the offense+defense balance in cybersecuri
 Career tactic: build a portfolio WEBSITE to get hired (extends the job playbooks). (e) Linux
 for Hackers EP3 extends that free course. (f) Agents caught several title-vs-content mismatches
 (WordPress not GitHub Pages; no fail2ban/tldr) — fidelity held. No inline persona edits. Debt now 5.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2021 P2, 7 ingested / 1 rate-limited
+8 P2 (2021-04 → 2021-09). 7 ok, 0 skipped, 1 x 429.
+- 2021-04-22 n_1wX7kKx7k — cloud phone system on AWS (3CX PBX)
+- 2021-05-21 jwnvKOjmtEA — Linux for Hackers EP4 (sudo/users) ★
+- 2021-06-03 HwSZe00ZSuU — will dad lose his job? (dad = trad IT infra eng) ★
+- 2021-06-04 vX3krP6JmOY — Linux for Hackers EP5 (package mgmt) ★
+- 2021-06-25 ZMsHCCyBqEQ — you need a NAS; his hybrid-cloud YouTube business (bio) ★
+- 2021-08-06 wOWhfNB_r-0 — Linux for Hackers EP6 (services/systemctl) ★
+- 2021-09-17 zV8KQNJMKS8 — i hate talking on the phone (personal trait) ★
+Synthesis notes: (a) LINUX FOR HACKERS course fills out — EP4/5/6 now ingested (course now
+EP1-6 + file-system); update the free-courses page episode list. (b) BIO/ENTITY: his DAD is
+confirmed as Chuck Keith Sr., a TRADITIONAL IT INFRASTRUCTURE ENGINEER (reportedly at Supreme
+Lending) — a datapoint for a future chuck-keith-sr entity page + biography (father-in-IT origin
+detail). (c) BIO/CREATOR-INFRA: how he runs his OWN YOUTUBE BUSINESS = hybrid-cloud (NAS +
+cloud) — add to creator-coffee-business + biography (his production stack). (d) PERSONALITY:
+he openly says he HATES talking on the phone / prefers texting — a genuine personal-trait
+datapoint (mild introversion) for persona (pairs with his people-skills-via-service belief).
+No inline persona edits. Debt now 6.
