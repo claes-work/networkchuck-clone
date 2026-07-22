@@ -98,6 +98,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-11-20 | you're about to get hacked (7 reasons) // FREE Security+ // EP 6 | [[2020-11-20-yt-Q2ErfVPomFQ]] | ★ |
 | 2020-12-06 | let's hack your home network // FREE CCNA // EP 9 | [[2020-12-06-yt-80vIin4xGp8]] | ★ |
 | 2020-12-18 | hack like Mr. Robot | [[2020-12-18-yt-nnAQ8SYzAnE]] | ★ |
+| 2020-12-19 | your first Hacking certification (PenTest+) | [[2020-12-19-yt-EY-Scg1z6zA]] | ★ |
+| 2021-01-18 | you need to learn Virtual Machines RIGHT NOW!! | [[2021-01-18-yt-wX75Z-4MEoM]] | ★ |
+| 2021-02-05 | you need to learn Hybrid-Cloud RIGHT NOW!! // FREE CCNA // EP 10 | [[2021-02-05-yt-37tyxaQbtN4]] | ★ |
+| 2021-02-09 | How Big Companies Get Hacked | [[2021-02-09-yt-bsCsuoIzyTg]] | ★ |
+| 2021-02-27 | forcing my kids to make Ethernet cables // FREE CCNA // EP 11 | [[2021-02-27-yt-y8h5qY3zwic]] | ★ |
+| 2021-03-05 | how to build a HACKING lab | [[2021-03-05-yt-mvsiuLzpx2E]] | ★ |
+| 2021-03-06 | find social media accounts with Sherlock | [[2021-03-06-yt-KdZvxxLsN3E]] |  |
 
 ---
-_85 videos ingested (L2) so far._
+_92 videos ingested (L2) so far._

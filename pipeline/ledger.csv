@@ -211,15 +211,15 @@ yt-VbEx7B_PTOE,video,Linux for Hackers // EP 1 (FREE Linux course for beginners)
 yt-ZhMw53Ud2tY,video,5 Steps to Secure Linux (protect from hackers),@NetworkChuck,https://www.youtube.com/watch?v=ZhMw53Ud2tY,2021-03-18,2026-07-22,L0-discovered,2,,views=879145
 yt-MLxgmkRzgIQ,video,why Power over Ethernet (PoE) is amazing!! // FREE CCNA // EP 12,@NetworkChuck,https://www.youtube.com/watch?v=MLxgmkRzgIQ,2021-03-14,2026-07-22,L0-discovered,1,,views=526175
 yt-6CnDdXVTxhU,video,find info on phone numbers with PhoneInfoga,@NetworkChuck,https://www.youtube.com/watch?v=6CnDdXVTxhU,2021-03-13,2026-07-22,L0-discovered,1,,views=5396211
-yt-KdZvxxLsN3E,video,find social media accounts with Sherlock (in 5 MIN),@NetworkChuck,https://www.youtube.com/watch?v=KdZvxxLsN3E,2021-03-06,2026-07-22,L0-discovered,1,,views=5115488
-yt-mvsiuLzpx2E,video,how to build a HACKING lab (to become a hacker),@NetworkChuck,https://www.youtube.com/watch?v=mvsiuLzpx2E,2021-03-05,2026-07-22,L0-discovered,1,,views=1428031
-yt-y8h5qY3zwic,video,forcing my kids to make Ethernet cables // FREE CCNA // EP 11,@NetworkChuck,https://www.youtube.com/watch?v=y8h5qY3zwic,2021-02-27,2026-07-22,L0-discovered,1,,views=686667
-yt-bsCsuoIzyTg,video,How Big Companies Get Hacked,@NetworkChuck,https://www.youtube.com/watch?v=bsCsuoIzyTg,2021-02-09,2026-07-22,L0-discovered,1,,views=204184
-yt-37tyxaQbtN4,video,you need to learn Hybrid-Cloud RIGHT NOW!! // FREE CCNA // EP 10,@NetworkChuck,https://www.youtube.com/watch?v=37tyxaQbtN4,2021-02-05,2026-07-22,L0-discovered,1,,views=465437
-yt-wX75Z-4MEoM,video,"you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)",@NetworkChuck,https://www.youtube.com/watch?v=wX75Z-4MEoM,2021-01-18,2026-07-22,L0-discovered,1,,views=11601185
+yt-KdZvxxLsN3E,video,find social media accounts with Sherlock (in 5 MIN),@NetworkChuck,https://www.youtube.com/watch?v=KdZvxxLsN3E,2021-03-06,2026-07-22,L2,1,cybersecurity;linux-terminal,Sherlock OSINT username search
+yt-mvsiuLzpx2E,video,how to build a HACKING lab (to become a hacker),@NetworkChuck,https://www.youtube.com/watch?v=mvsiuLzpx2E,2021-03-05,2026-07-22,L2,1,cybersecurity;homelab-selfhosting,build a hacking lab (blueprint)
+yt-y8h5qY3zwic,video,forcing my kids to make Ethernet cables // FREE CCNA // EP 11,@NetworkChuck,https://www.youtube.com/watch?v=y8h5qY3zwic,2021-02-27,2026-07-22,L2,1,networking;certifications-career,FREE CCNA EP11 (ethernet cabling; kids cameo)
+yt-bsCsuoIzyTg,video,How Big Companies Get Hacked,@NetworkChuck,https://www.youtube.com/watch?v=bsCsuoIzyTg,2021-02-09,2026-07-22,L2,1,cybersecurity,how big companies get hacked (attack chain)
+yt-37tyxaQbtN4,video,you need to learn Hybrid-Cloud RIGHT NOW!! // FREE CCNA // EP 10,@NetworkChuck,https://www.youtube.com/watch?v=37tyxaQbtN4,2021-02-05,2026-07-22,L2,1,cloud-devops;networking;certifications-career,FREE CCNA EP10 (hybrid cloud)
+yt-wX75Z-4MEoM,video,"you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)",@NetworkChuck,https://www.youtube.com/watch?v=wX75Z-4MEoM,2021-01-18,2026-07-22,L2,1,linux-terminal;cloud-devops,landmark: learn Virtual Machines RIGHT NOW
 yt-W-wdGEz4f5A,video,thank you,@NetworkChuck,https://www.youtube.com/watch?v=W-wdGEz4f5A,2020-12-31,2026-07-22,L0-discovered,2,,views=38854
 yt-3Ay2Vk4jySI,video,Python......when should you learn it?,@NetworkChuck,https://www.youtube.com/watch?v=3Ay2Vk4jySI,2020-12-24,2026-07-22,L0-discovered,2,,views=167450
-yt-EY-Scg1z6zA,video,your first Hacking certification (PenTest+),@NetworkChuck,https://www.youtube.com/watch?v=EY-Scg1z6zA,2020-12-19,2026-07-22,L0-discovered,1,,views=229952
+yt-EY-Scg1z6zA,video,your first Hacking certification (PenTest+),@NetworkChuck,https://www.youtube.com/watch?v=EY-Scg1z6zA,2020-12-19,2026-07-22,L2,1,cybersecurity;certifications-career,first hacking cert (PenTest+)
 yt-nnAQ8SYzAnE,video,hack like Mr. Robot,@NetworkChuck,https://www.youtube.com/watch?v=nnAQ8SYzAnE,2020-12-18,2026-07-22,L2,1,cybersecurity;linux-terminal,hack like Mr. Robot (pop-culture hacking)
 yt-AdzEDoHAbw8,video,i failed my exam,@NetworkChuck,https://www.youtube.com/watch?v=AdzEDoHAbw8,2020-12-17,2026-07-22,L0-discovered,2,,views=174072
 yt-ZnhM-lp6GE8,video,5G: what you DON'T know!! (3 things),@NetworkChuck,https://www.youtube.com/watch?v=ZnhM-lp6GE8,2020-12-10,2026-07-22,L0-discovered,2,,views=123841

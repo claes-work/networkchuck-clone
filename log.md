@@ -312,3 +312,21 @@ Security+ not yet ingested (will surface later; the free-course structure at syn
 should list episodes by number and flag gaps). "hack like Mr. Robot" adds a pop-culture
 hacking-education archetype (reinforces the stunt/pop-culture teaching pattern). No new
 persona/beliefs beyond what pass 1 captured. Debt now 4.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020-12→2021-03 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2020-12 → 2021-03). 7 ok, 0 skipped, 1 transient fetch error.
+- 2020-12-19 EY-Scg1z6zA — first hacking cert (PenTest+) ★
+- 2021-01-18 wX75Z-4MEoM — landmark: learn Virtual Machines RIGHT NOW ★
+- 2021-02-05 37tyxaQbtN4 — FREE CCNA EP10 (hybrid cloud) ★
+- 2021-02-09 bsCsuoIzyTg — how big companies get hacked (attack chain) ★
+- 2021-02-27 y8h5qY3zwic — FREE CCNA EP11 (ethernet cabling; kids cameo, self-reported) ★
+- 2021-03-05 mvsiuLzpx2E — build a hacking lab (blueprint) ★
+- 2021-03-06 KdZvxxLsN3E — Sherlock OSINT username search
+Synthesis notes: (a) FREE CCNA now through EP 11 (hybrid cloud, ethernet cabling). (b)
+"learn Virtual Machines RIGHT NOW" extends the learn-X format (VMs = the foundation for the
+hacking-lab content). (c) CANONICAL "build a hacking lab" blueprint (VMs + Kali +
+vulnerable targets, isolated/legal) — a core learn-by-doing security artifact; pairs with
+the VM video + PenTest+ cert as a coherent "become a hacker" path worth a cybersecurity
+sub-structure at synthesis. (d) PenTest+ positioned as the entry hacking cert (add to the
+certifications-career cert map). (e) EP11 has a kids cameo — kept unnamed/self-reported.
+No inline persona edits. Debt now 5 (checkpoint at 10 — ~5 batches out).
