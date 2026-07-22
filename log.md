@@ -677,3 +677,24 @@ networking-hub Cisco-VoIP-origin section note (captured in biography + sources f
 entity (chuck-keith-sr) still not a standalone page; minor collab entities (Kevin Wallace, Kris
 Bryant, Jason Gooley, Susie Wee, Santiago/Nacho) not yet pages. Remaining open ingest: main P2
 (~164) + P3 + v2 P2/P3 + 153 shorts.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2019 P2 (bio-critical), 7 ingested / 1 no-captions
+8 P2 (2019). 7 ok, 1 no-captions (BJFxMDxG_KY → L1). (Driver crashed on a cp1252 console
+print of a unicode title; re-ran with PYTHONUTF8=1 — a Windows-console quirk, not a data issue.)
+- 2019-02-02 m5qsxBwXGB0 — PASSED TSHOOT → COMPLETED CCNP (Feb 2019) ★
+- 2019-02-19 QpqzG931JbU — This is IT! show EP1 (co-host David Bombal) ★
+- 2019-03-16 8cmmVEoftEM — WiFi 6 / 802.11ax
+- 2019-05-15 _8OMN08VQ6A — Synology + CrashPlan backup (3-2-1; 2019) ★
+- 2019-05-25 lzFIm3zg_nI — SCHEDULED CCIE R&S written (2019 attempt) ★
+- 2019-09-06 cChGFpElMEM — most dangerous Linux commands (awareness) ★
+- 2019-09-15 oPrKUSizQVQ — unlimited Google Drive (2019, obsolete)
+Synthesis notes: TWO FIDELITY-CRITICAL BIO ITEMS. (a) He COMPLETED his CCNP — passed the
+TSHOOT (300-135) Feb 2019, and is openly honest about FAILING it before passing (persistence/
+authenticity trait for voice/beliefs). Add "completed CCNP (Feb 2019)" to biography. (b) CCIE
+RESOLVED: he SCHEDULED the CCIE R&S WRITTEN exam (June 2019) as an opportunistic free-voucher
+attempt — he PURSUED it, but there is NO source he PASSED or holds a CCIE. Fidelity callout
+added on the source page. At synthesis, add a biography "Known uncertainties"/timeline note:
+"pursued/scheduled the CCIE written (2019); no evidence of passing — do NOT claim a CCIE." This
+finally sources WHY the CCIE keeps coming up. (c) "This is IT!" show with David Bombal confirmed
+(EP1, co-hosted) — reinforces the [[david-bombal]] partnership. No inline persona edits (next
+synthesis promotes the CCNP-complete + CCIE-pursuit facts). Debt now 1.

@@ -67,6 +67,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-12-19 | 5 Reasons You Shouldn't Become a Network Engineer | [[2018-12-19-yt-C4OxzOPGWnI]] | ★ |
 | 2018-12-19 | CompTIA or Cisco? Revisiting CCENT vs Network+ (2019) | [[2018-12-19-yt-7CP4__3t8go]] | ★ |
 | 2018-12-22 | What is a VMware Engineer? (interview w/ father) | [[2018-12-22-yt-FpsW-1Zuhp8]] |  |
+| 2019-02-02 | I PASSED THE TSHOOT EXAM!! (completed CCNP) | [[2019-02-02-yt-m5qsxBwXGB0]] | ★ |
+| 2019-02-19 | This is IT! EP 1 (w/ David Bombal) | [[2019-02-19-yt-QpqzG931JbU]] | ★ |
+| 2019-03-16 | WI-FI 6 (802.11ax) explained | [[2019-03-16-yt-8cmmVEoftEM]] |  |
+| 2019-05-15 | UNLIMITED CLOUD STORAGE - Synology + Crashplan | [[2019-05-15-yt-_8OMN08VQ6A]] | ★ |
+| 2019-05-25 | SCHEDULED THE CCIE EXAM!! (written attempt; ⚠️ not a held cert) | [[2019-05-25-yt-lzFIm3zg_nI]] | ★ |
+| 2019-09-06 | The Most Dangerous Linux Commands | [[2019-09-06-yt-cChGFpElMEM]] | ★ |
+| 2019-09-15 | UNLIMITED Google Drive Storage (2019, obsolete) | [[2019-09-15-yt-oPrKUSizQVQ]] |  |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -212,4 +219,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_190 videos ingested (L2) so far._
+_197 videos ingested (L2) so far._
