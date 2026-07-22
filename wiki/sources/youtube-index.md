@@ -105,6 +105,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-02-27 | forcing my kids to make Ethernet cables // FREE CCNA // EP 11 | [[2021-02-27-yt-y8h5qY3zwic]] | ★ |
 | 2021-03-05 | how to build a HACKING lab | [[2021-03-05-yt-mvsiuLzpx2E]] | ★ |
 | 2021-03-06 | find social media accounts with Sherlock | [[2021-03-06-yt-KdZvxxLsN3E]] |  |
+| 2021-03-13 | find info on phone numbers with PhoneInfoga | [[2021-03-13-yt-6CnDdXVTxhU]] |  |
+| 2021-03-14 | why Power over Ethernet (PoE) is amazing!! // FREE CCNA // EP 12 | [[2021-03-14-yt-MLxgmkRzgIQ]] | ★ |
+| 2021-03-19 | Linux for Hackers // EP 1 (FREE Linux course) | [[2021-03-19-yt-VbEx7B_PTOE]] | ★ |
+| 2021-03-28 | Instagram OSiNT | [[2021-03-28-yt-NWyqSbnsvGU]] |  |
+| 2021-04-09 | the Linux File System // Linux for Hackers // EP 2 | [[2021-04-09-yt-A3G-3hp88mo]] | ★ |
+| 2021-04-27 | Virtual Machines Pt. 2 (Proxmox install) | [[2021-04-27-yt-_u8qTN3cCnQ]] | ★ |
+| 2021-04-29 | Twitter OSiNT (Ethical Hacking) | [[2021-04-29-yt-SvO_FDa8AIs]] |  |
 
 ---
-_92 videos ingested (L2) so far._
+_99 videos ingested (L2) so far._

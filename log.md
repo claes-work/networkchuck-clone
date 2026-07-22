@@ -330,3 +330,22 @@ the VM video + PenTest+ cert as a coherent "become a hacker" path worth a cybers
 sub-structure at synthesis. (d) PenTest+ positioned as the entry hacking cert (add to the
 certifications-career cert map). (e) EP11 has a kids cameo — kept unnamed/self-reported.
 No inline persona edits. Debt now 5 (checkpoint at 10 — ~5 batches out).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2021-03→2021-04 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2021-03 → 2021-04). 7 ok, 0 skipped, 1 transient fetch error.
+- 2021-03-13 6CnDdXVTxhU — PhoneInfoga phone-number OSINT
+- 2021-03-14 MLxgmkRzgIQ — FREE CCNA EP12 (PoE) ★
+- 2021-03-19 VbEx7B_PTOE — Linux for Hackers EP1 (course kickoff) ★
+- 2021-03-28 NWyqSbnsvGU — Instagram OSINT
+- 2021-04-09 A3G-3hp88mo — Linux for Hackers EP2 (file system) ★
+- 2021-04-27 _u8qTN3cCnQ — VMs Pt2: Proxmox install (homelab hypervisor) ★
+- 2021-04-29 SvO_FDa8AIs — Twitter OSINT
+Synthesis notes: (a) THIRD flagship free course launches — "Linux for Hackers" (EP 1
+kickoff, EP 2 file system). The clone now has THREE named free courses (FREE CCNA, FREE
+Security+, Linux for Hackers) — at synthesis, create a dedicated "free courses" structure
+(likely a certifications-career/education sub-page or entity) listing all three with their
+episodes. (b) FREE CCNA now through EP 12 (PoE). (c) An OSINT tool-tutorial cluster
+(PhoneInfoga, Instagram, Twitter, + earlier Sherlock) — group into a cybersecurity OSINT
+sub-topic at synthesis. (d) Proxmox introduced as the recurring homelab hypervisor (pairs
+with the VM + hacking-lab content) — reinforce homelab hub. No persona changes. Debt now 6.
+CROSSED 99 L2 pages.
