@@ -125,6 +125,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-11-04 | you need to learn Google Cloud RIGHT NOW!! | [[2021-11-04-yt-YJwhQowT84A]] | ★ |
 | 2021-11-05 | my SUPER secure Raspberry Pi Router (VPN travel router) | [[2021-11-05-yt-jlHWnKVpygw]] |  |
 | 2021-11-12 | Cryptocurrency Mining on a Raspberry Pi | [[2021-11-12-yt-hHtGN_JzoP8]] |  |
+| 2022-01-17 | create the ULTIMATE hacking lab (Kasm Kali-in-browser) | [[2022-01-17-yt-U7e-mcJdZok]] | ★ |
+| 2022-02-15 | i HACKED my wife's web browser | [[2022-02-15-yt-3ogyS4KOlXc]] |  |
+| 2022-03-14 | my kids built a HACKING computer!! | [[2022-03-14-yt-GMOoXz20VZU]] | ★ |
+| 2022-03-25 | you need to learn BASH Scripting RIGHT NOW!! // EP 1 | [[2022-03-25-yt-SPwyp2NG-bE]] | ★ |
+| 2022-04-05 | what is an IP Address? // You SUCK at Subnetting // EP 1 | [[2022-04-05-yt-5WfiTHiU4x8]] | ★ |
+| 2022-04-07 | we ran OUT of IP Addresses!! | [[2022-04-07-yt-tcae4TSSMo8]] |  |
+| 2022-05-16 | i created malware with Python | [[2022-05-16-yt-UtMMjXOlRQc]] | ★ |
 
 ---
-_112 videos ingested (L2) so far._
+_119 videos ingested (L2) so far._

@@ -386,3 +386,26 @@ router, Pi crypto mining) — the "cheap Pi can do anything" ethos is now a defi
 signature; strengthen homelab hub + the Pi-as-learning-lab belief. (d) BadUSB/ARP both
 carry defensive-awareness framing (consistent ethical-hacking ethos). No inline persona
 edits. Debt now 8 (checkpoint at 10 — ~2 batches out).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-01→2022-05 P1, 7 ingested / 1 retry
+8 P1 long-form selected (2022-01 → 2022-05). 7 ok, 0 skipped, 1 transient fetch error.
+- 2022-01-17 U7e-mcJdZok — Kasm Kali-in-browser hacking lab (Cloud Browser precursor) ★
+- 2022-02-15 3ogyS4KOlXc — hacked wife's browser (BeEF; consent/awareness)
+- 2022-03-14 GMOoXz20VZU — kids build a Pi hacking computer (kids-into-tech ethos) ★
+- 2022-03-25 SPwyp2NG-bE — learn Bash Scripting EP1 (course kickoff) ★
+- 2022-04-05 5WfiTHiU4x8 — You SUCK at Subnetting EP1 (course kickoff) ★
+- 2022-04-07 tcae4TSSMo8 — we ran out of IP addresses (IPv4 exhaustion/IPv6)
+- 2022-05-16 UtMMjXOlRQc — malware with Python (lab/ethics) ★
+Synthesis notes: BIG ones. (a) DIRECT CLOUD-BROWSER PRECURSOR: the Kasm "stream Kali to your
+browser" lab (2022-01) uses the SAME Kasm container-streaming tech as the later NetworkChuck
+Cloud Browser (~2023) product — at synthesis, cross-link this source from the
+[[networkchuck-cloud-browser]] entity + biography (documents the product's technical origin
+in his own content). Brother Cameron co-hosts (context). (b) TWO MORE free-course threads —
+"Bash Scripting" (EP1) and "You SUCK at Subnetting" (EP1). Free-course roster now SIX: CCNA,
+Security+, Linux for Hackers, Python, Bash, Subnetting — this is clearly a deliberate
+"free full course" content strategy (promote to creator-coffee-business as a defining
+playbook, + a dedicated free-courses index). (c) FAMILY-AS-CONTENT pattern: wife (consent
+demo) + kids (build a hacking PC) appear as recurring context — reinforces the "get anyone,
+even kids, into tech" ethos (belief) while keeping family self-reported/unnamed. (d) Python
+now feeds security (malware-in-Python, lab/ethics) — the coding+security convergence. No
+inline persona edits. Debt now 9. >>> CHECKPOINT next batch (debt → 10) → Stage S.
