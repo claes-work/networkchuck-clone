@@ -455,3 +455,20 @@ Synthesis notes: none (this IS the pass; debt drained). DEFERRED: appearance.md 
 father entity (chuck-keith-sr) not yet a page; networking/linux/homelab hub source-lists not
 exhaustively refreshed this pass (episodes are in youtube-index + free-courses page); ai-tools
 domain still awaits sources (none ingested yet).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-09→2023-01 P1, 6 ingested / 1 skipped / 1 retry
+8 P1 long-form selected (2022-09 → 2023-01). 6 ok, 1 skipped, 1 transient fetch error.
+- Skipped: tHBUxYGthYg "top Black Friday deals" (affiliate deals roundup, no content).
+- 2022-09-23 iX0HbrfRyvc — learning Docker made easy (Portainer)
+- 2022-10-05 2OPVViV-GQk — SQL injection tutorial (lab/defense)
+- 2022-10-21 sLkdtjJc6mc — i hacked this photo (steganography/EXIF)
+- 2022-10-31 X2YH-XyqyXE — Pi haunted house (maker/home automation) ★
+- 2022-11-16 gd7BXuUQ91w — 60 Linux commands (canonical reference) ★
+- 2023-01-05 uTAaFExLgwQ — hacker's roadmap / get started in IT 2023 ★
+Synthesis notes: (a) CANONICAL "60 Linux Commands" reference + the 2023 "hacker's roadmap /
+how to get started in IT" — both core teaching artifacts; at synthesis add the roadmap to
+certifications-career (a dated companion to the job playbooks) and the Linux-commands ref to
+linux-terminal. (b) Web-app security enters (SQL injection, steganography) — extend the
+cybersecurity ethical-hacking catalog. (c) The Pi maker/"tech is fun" ethos continues
+(haunted house). (d) Crossed into 2023 content. No inline persona edits (patterns already in
+v2 persona). Debt now 1.

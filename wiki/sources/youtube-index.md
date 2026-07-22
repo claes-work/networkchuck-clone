@@ -139,6 +139,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-08-17 | you need to learn SQL RIGHT NOW!! | [[2022-08-17-yt-xiUTqnI6xk8]] | ★ |
 | 2022-08-30 | How YouTubers Get Hacked | [[2022-08-30-yt-u2M_V5LtzpQ]] |  |
 | 2022-08-31 | Docker Compose will BLOW your MIND!! | [[2022-08-31-yt-DM65_JyGxCo]] |  |
+| 2022-09-23 | learning Docker is HARD!! (Portainer) | [[2022-09-23-yt-iX0HbrfRyvc]] |  |
+| 2022-10-05 | SQL Injections are scary!! | [[2022-10-05-yt-2OPVViV-GQk]] |  |
+| 2022-10-21 | i hacked this photo (steganography) | [[2022-10-21-yt-sLkdtjJc6mc]] |  |
+| 2022-10-31 | I Built a HAUNTED HOUSE with Raspberry Pi | [[2022-10-31-yt-X2YH-XyqyXE]] | ★ |
+| 2022-11-16 | 60 Linux Commands you NEED to know | [[2022-11-16-yt-gd7BXuUQ91w]] | ★ |
+| 2023-01-05 | the hacker's roadmap (get started in IT in 2023) | [[2023-01-05-yt-uTAaFExLgwQ]] | ★ |
 
 ---
-_126 videos ingested (L2) so far._
+_132 videos ingested (L2) so far._
