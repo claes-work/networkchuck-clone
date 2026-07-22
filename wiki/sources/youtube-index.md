@@ -21,6 +21,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2017-04-24 | I QUIT MY JOB TO TRAVEL - CCNA CCNP Success Story!! | [[2017-04-24-yt-nsi008avBfo]] | ★ |
 | 2017-05-29 | 5 Tips for Studying at Social Gatherings - CCNA CCNP Study | [[2017-05-29-yt-bQVrGvGqCQ0]] |  |
 | 2017-06-11 | Am I Smart Enough to Be a Network Engineer? | [[2017-06-11-yt-18m2lUoNygo]] | ★ |
+| 2017-06-29 | CCNA or Python? \| Network Engineer or Programmer? | [[2017-06-29-yt-woJX0eBOdnA]] | ★ |
+| 2017-07-23 | 3 Ways to Get Out of a Study Slump | [[2017-07-23-yt-pSB6xNpqtGI]] |  |
+| 2017-08-02 | How Does Cisco Create Exams? | [[2017-08-02-yt-UYlKgcRkiqA]] |  |
+| 2017-08-30 | CompTIA or Cisco? (entry-cert sequencing) | [[2017-08-30-yt-EywIAz8fPnY]] | ★ |
+| 2017-10-22 | Should I Self-Study for the CCNA? | [[2017-10-22-yt-MdYhc4O3G7w]] | ★ |
+| 2017-11-06 | 3 Cisco CLI (Command-line) Hacks (CCNA) | [[2017-11-06-yt-9Vs56S95Mrs]] | ★ |
 
 ---
-_8 videos ingested (L2) so far._
+_14 videos ingested (L2) so far._

@@ -48,3 +48,24 @@ do not claim one). (d) Signature "you CAN do this / you're smart enough" self-be
 framing stated explicitly. (e) Family markers self-reported only (children's ages given
 2017 — keep unnamed). Promote at next synthesis checkpoint into certifications-career +
 persona/beliefs + persona/biography + voice.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — mid-2017 P1, 6 ingested / 2 skipped
+8 P1 long-form (2017-06 → 2017-11). 6 ok, 2 skipped, 0 no-captions.
+- Skipped: epgVJT9Wa-k "WHO WON?" (promo/winner-announcement, no content);
+  qCx5q3BnaFc "CBT Nuggets GIVEAWAY" (garbled non-English auto-captions, unusable).
+- Ingested L2:
+  - 2017-06-29 woJX0eBOdnA — CCNA or Python? ★ ("unicorn" networking+programming)
+  - 2017-07-23 pSB6xNpqtGI — 3 ways out of a study slump
+  - 2017-08-02 UYlKgcRkiqA — how Cisco creates exams
+  - 2017-08-30 EywIAz8fPnY — CompTIA or Cisco? cert sequencing ★
+  - 2017-10-22 MdYhc4O3G7w — self-study certs philosophy ★
+  - 2017-11-06 9Vs56S95Mrs — 3 Cisco CLI hacks ★ (first hands-on technical tutorial)
+Synthesis notes: New for a future pass — (a) "unicorn" career framework: the rare
+network engineer who ALSO programs (Python) is uniquely valuable. (b) Canonical
+entry-cert sequencing opinion: for anyone aiming above helpdesk, skip CompTIA
+A+/Network+ and go vendor-specific (Cisco CCENT/CCNA or Microsoft MCSA); A+ only to land
+a first zero-experience IT job. (c) Self-study-first cert philosophy + bio: he
+self-studied his own certs; earned Security+ at WGU via CBT Nuggets / Keith Barker;
+CCNP in progress ~3 yrs with TSHOOT outstanding (dates his own cert timeline). (d) His
+first hands-on Cisco CLI/technical tutorial (2017-11) — marks the shift from
+study-advice content toward hands-on tech. Promote at next synthesis checkpoint.
