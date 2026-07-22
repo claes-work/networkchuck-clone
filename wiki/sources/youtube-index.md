@@ -49,6 +49,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-12-16 | Fighting IMPOSTER SYNDROME in IT | [[2018-12-16-yt-iP9kuR2U8-o]] | ★ |
 | 2018-12-16 | Arduino + Raspberry Pi + Python to Monitor Cisco Router (DevNet) | [[2018-12-16-yt-7UkkrNoZUwU]] | ★ |
 | 2018-12-17 | Planning for 2019 - IT Goals | [[2018-12-17-yt-KTOQHVui0fM]] | ★ |
+| 2018-12-19 | 5 Reasons You Shouldn't Become a Network Engineer | [[2018-12-19-yt-C4OxzOPGWnI]] | ★ |
+| 2018-12-19 | CompTIA or Cisco? Revisiting CCENT vs Network+ (2019) | [[2018-12-19-yt-7CP4__3t8go]] | ★ |
+| 2018-12-22 | What is a VMware Engineer? (interview w/ father) | [[2018-12-22-yt-FpsW-1Zuhp8]] |  |
+| 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
+| 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
+| 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
+| 2019-04-24 | HACK your IT Study Habits (Atomic Habits) | [[2019-04-24-yt-bbkBJxOo4gg]] | ★ |
+| 2019-05-10 | Do you REALLY want it? (find your why) | [[2019-05-10-yt-LfoJEZNX4DA]] | ★ |
 
 ---
-_36 videos ingested (L2) so far._
+_44 videos ingested (L2) so far._

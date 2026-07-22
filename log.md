@@ -136,3 +136,30 @@ foreshadows the cloud era. (f) Shawn Powers confirmed as a recurring collaborato
 educator) → CREATE wiki/entities/shawn-powers.md at synthesis (alongside keith-barker.md).
 ENTITY DEBT: keith-barker, shawn-powers, cameron (brother/co-host). Promote at checkpoint
 (~2 batches away).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2018-12→2019-05 P1, 8 ingested
+8 P1 long-form (2018-12 → 2019-05). 8 ok, 0 skipped.
+- 2018-12-19 C4OxzOPGWnI — 5 reasons NOT to become a net engineer ★ (family on camera)
+- 2018-12-19 7CP4__3t8go — CompTIA vs Cisco, 2019 REVISIT ★ (position evolved)
+- 2018-12-22 FpsW-1Zuhp8 — what is a VMware engineer (interview w/ father)
+- 2019-03-02 FfJXcoqTvrs — CCNA lab in Azure / GNS3 ★ (cloud era begins)
+- 2019-03-05 F9j2aiqK0tw — get your CCNA in 2019 roadmap ★
+- 2019-03-12 PusUAu9gGiI — CCNA Cyber Ops vs CCNA Security
+- 2019-04-24 bbkBJxOo4gg — hack study habits via Atomic Habits ★ (book influence)
+- 2019-05-10 LfoJEZNX4DA — do you really want it / find-your-why ★
+Synthesis notes: RICH + CONTRADICTIONS to reconcile.
+- POSITION EVOLVED (already flagged on-page w/ callout + wikilink): his CompTIA-vs-Cisco
+  cert advice SOFTENED from 2017 ([[2017-08-30-yt-EywIAz8fPnY]]) to 2019 — 2017 = skip
+  Network+; 2019 = Network+ OK for path-undecided/cloud-bound learners. Reconcile in the
+  certifications-career topic page and DATE both positions.
+- BIO/ENTITIES: his FATHER is also named Chuck Keith and is a VMware engineer (appears in
+  FpsW-1Zuhp8) — context person, NOT the subject; add to entity debt. Wife appears on
+  camera in C4OxzOPGWnI — name rendered "Abby" by captions vs SUBJECT.md "Abbey";
+  RECONCILE spelling at synthesis (keep self-reported, children unnamed).
+- FRAMEWORKS: study-habits framework built on James Clear's "Atomic Habits" (a BOOK
+  INFLUENCE worth an entity/reference note); "find your why" motivational framework;
+  honest "downsides of IT" take.
+- ERA: cloud content begins (Azure/GNS3 tutorial, Mar 2019) — reinforces the automation→
+  cloud trajectory. CCNA roadmap is pre-2020-overhaul (version-date it).
+ENTITY DEBT now: keith-barker, shawn-powers, cameron (brother), chuck-keith-sr (father),
+james-clear/atomic-habits (book). CHECKPOINT next batch (batch 9 → debt 9; then batch 10).
