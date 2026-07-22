@@ -240,6 +240,50 @@ Cameron):
   throughline across the whole domain: hustle, keep learning, and "let's get certified
   together."
 
+### The dated "how to get started in IT / hacker's roadmap" (2023)
+
+- **The 2023 "how to get started in IT" roadmap** is Chuck's refreshed, dated
+  step-by-step on-ramp into IT/cybersecurity — the next point on the same trail as the
+  2018 and 2022 job playbooks (2023-01-05,
+  [[../../sources/2023-01-05-yt-uTAaFExLgwQ]]). Treat it as a dated companion to, not a
+  replacement of, the canonical 2018 CCNA job playbook
+  ([[../../sources/2018-12-12-yt-Azm4woyCNBA]]) and the 2022 job playbook
+  ([[../../sources/2022-08-08-yt-e2h_BreIxaQ]]); the roadmap keeps evolving, so present
+  the latest dated version as current.
+
+### Current cert stance (2025): the new CompTIA A+ and CCNA's future
+
+> ⚠️ POSITION EVOLVES: Chuck's cert advice is a moving target — anchor any recommendation
+> to its date and prefer the most recent.
+
+- **The new CompTIA A+ (220-1201 / 220-1202)** is the latest point on Chuck's evolving
+  A+/entry-cert advice trail — his take on the refreshed A+ objectives for people
+  breaking in (2025-02-07, [[../../sources/2025-02-07-yt-ay8t4zyalK4]]). This supersedes,
+  by date, the older A+ positioning in the 2017/2019 CompTIA-vs-Cisco material above.
+- **The future of the CCNA (2025)** — in an interview with Cisco's certification
+  director **Ryan Rose**, Chuck surfaces authoritative Cisco context on where the CCNA is
+  headed (2025-09-10, [[../../sources/2025-09-10-yt-1tw3O2iOt1U]]).
+  > ⚠️ SPEAKER ATTRIBUTION: Statements about Cisco's roadmap/intentions here are **Ryan
+  > Rose's (guest, Cisco)**, not Chuck's own positions — treat them as authoritative
+  > Cisco context, not as Chuck-attributed opinion for persona training.
+
+### The command-reference genre (rapid canonical references)
+
+- A recurring content format: **fast, canonical "N commands" references** meant as
+  bookmarkable cheat-sheets for people studying/working in IT — **60 Linux commands**
+  (2022-11-16, [[../../sources/2022-11-16-yt-gd7BXuUQ91w]]), **30 Windows commands**
+  (2023-03-27, [[../../sources/2023-03-27-yt-prVHU1fLR20]]), and **60 hacking commands**
+  (2024-04-03, [[../../sources/2024-04-03-yt-gL4j-a-g9pA]]). See also
+  [[../linux-terminal/linux-terminal]].
+
+### The ONE skill in IT = people / customer-service skills
+
+- **If there's a single most-important skill in IT, it's people / customer-service
+  skills** — not a technical one. The soft skills of communicating, being pleasant to
+  work with, and serving the customer are what actually differentiate a career, echoing
+  his "X-factor" / soft-skills throughline elsewhere in this domain (2018-12-14,
+  [[../../sources/2018-12-14-yt-T1-r_feNNnw]]).
+
 ## Source pages
 
 Date-ordered certifications-career source pages (all L2; ★ where flagged L3-candidate).
@@ -276,6 +320,7 @@ Pipeline state per video is in [[../../pipeline/ledger.csv]]; full channel list 
 - 2018-10-30 — HOW to Start Coding as a Network Engineer — [[../../sources/2018-10-30-yt-eAdrnTOcPOg]]
 - 2018-11-23 — Re-Learning IT after MEMORY LOSS — [[../../sources/2018-11-23-yt-rPjtZUBBPEU]]
 - 2018-12-12 — How To get a JOB with a CCNA (job-hunting playbook) — [[../../sources/2018-12-12-yt-Azm4woyCNBA]]
+- 2018-12-14 — The ONE Skill You NEED in IT (people/customer-service skills) — [[../../sources/2018-12-14-yt-T1-r_feNNnw]]
 - 2018-12-16 — Fighting IMPOSTER SYNDROME in IT — [[../../sources/2018-12-16-yt-iP9kuR2U8-o]]
 - 2018-12-17 — Planning for 2019 — IT Goals — [[../../sources/2018-12-17-yt-KTOQHVui0fM]]
 - 2018-12-19 — 5 Reasons You Shouldn't Become a Network Engineer — [[../../sources/2018-12-19-yt-C4OxzOPGWnI]]
@@ -293,3 +338,13 @@ Pipeline state per video is in [[../../pipeline/ledger.csv]]; full channel list 
 - 2019-07-09 — HOW TO get your CCNP in 2020 (no CCNA required) — [[../../sources/2019-07-09-yt-fqtr_Yyy0a4]]
 - 2019-11-28 — CCNA in 84 days? — [[../../sources/2019-11-28-yt-cxGCndru_c0]]
 - 2019-12-21 — CCNA 200-301 Training Course from CBT Nuggets — [[../../sources/2019-12-21-yt-GwHyoTVN_gA]]
+
+### Recent additions (2022–2026)
+
+- 2022-08-08 — How to get an IT job (2022 job playbook) — [[../../sources/2022-08-08-yt-e2h_BreIxaQ]]
+- 2022-11-16 — 60 Linux Commands you NEED to know — [[../../sources/2022-11-16-yt-gd7BXuUQ91w]]
+- 2023-01-05 — How to get started in IT (2023 hacker's roadmap) — [[../../sources/2023-01-05-yt-uTAaFExLgwQ]]
+- 2023-03-27 — 30 Windows Commands you CAN'T live without — [[../../sources/2023-03-27-yt-prVHU1fLR20]]
+- 2024-04-03 — 60 Hacking Commands you NEED to know — [[../../sources/2024-04-03-yt-gL4j-a-g9pA]]
+- 2025-02-07 — The NEW CompTIA A+ (220-1201/1202) — [[../../sources/2025-02-07-yt-ay8t4zyalK4]]
+- 2025-09-10 — The FUTURE of the CCNA (interview w/ Cisco's Ryan Rose) — [[../../sources/2025-09-10-yt-1tw3O2iOt1U]]

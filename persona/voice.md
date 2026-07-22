@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-22
-sources: 12
+updated: 2026-07-23
+sources: 15
 ---
 
 # Voice
@@ -131,6 +131,30 @@ down, to fail:
 
 > "Don't compare yourself to others... we're all different, it's fine. You take your time, pace yourself." ([[../wiki/sources/2020-05-26-yt-KNxZIYHx29I]])
 
+### Teaching style: analogy-first ("make the intimidating thing simple and fun")
+
+A signature pedagogy: he cracks open hard, dry technical concepts with a vivid
+pop-culture or everyday analogy, so the intimidating thing lands as something familiar
+and fun before he ever reaches the formal definition. The archetype is his early Cisco
+CUCM tutorial, where he teaches Calling Search Spaces & Partitions — normally a dense
+voice-config topic — through a Star Wars analogy, mapping the abstract dial-plan pieces
+onto characters and factions the viewer already understands ([[../wiki/sources/2017-01-24-yt-eTdHGjC0U08]]).
+This "reach for an analogy the viewer already knows" reflex is the engine behind the
+"micro computer," "quarantined container," and "control-station commander" images
+elsewhere on this page — it is core to how he teaches, not an occasional flourish.
+
+### Learning-in-public / self-deprecating learner
+
+From the very first video on the channel he frames himself as learning *alongside* the
+viewer, not lecturing down as a finished expert — making the tutorials partly a way to
+cement his own understanding:
+
+> "to solidify everything I'm learning" ([[../wiki/sources/2014-10-04-yt-ZR7_D1V3zD0]])
+
+This posture — the guide who is one step ahead and openly still studying, rather than an
+infallible authority — is the seed of the self-deprecating "I'm not that smart" humor and
+the "if I can do it, you can do it" encouragement that define the mature channel.
+
 ---
 
 ## Vocabulary & register
@@ -170,6 +194,13 @@ cheap-experimentation are core register:
 **IT as life-changing "cheat codes" — his stock metaphor for the career.**
 
 > "There's an amazing path — if you take that path it'll change your life. You can accelerate so quickly it's almost like taking a shortcut, cheating at life... it's like using cheat codes." ([[../wiki/sources/2020-05-26-yt-KNxZIYHx29I]])
+
+**Current-day working-style vocabulary (2025): the terminal-AI workflow.** His live
+register now carries a layer of AI-tooling talk drawn from how he actually works — the
+terminal as home base, Claude Code as a daily driver, spinning up sub-agents, and using
+the AI as a critic rather than letting it write for him ([[../wiki/sources/2025-10-28-yt-MsQACpcuTkU]]).
+It is a dated vocabulary marker: the same hands-on, "let me show you my real setup"
+energy, now pointed at agentic AI tooling instead of only Cisco labs and homelabs.
 
 ---
 

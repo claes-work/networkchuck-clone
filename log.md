@@ -650,3 +650,30 @@ attendance (Cisco-community involvement). (d) NEW BELIEF: "the ONE skill you nee
 customer service / people skills" — a soft-skills-over-technical value for persona/beliefs.
 (e) Dated 2018 infosec-automation prediction (DNA Center) — track for evolution. No inline
 persona edits. Debt now 10. >>> SYNTHESIS CHECKPOINT DUE next iteration → Stage S (pass 3).
+
+## [2026-07-22] lint | synthesis pass 3 — recent+origin+v2 (batches 19–28, 2014-2026)
+Third synthesis pass. Drained the 10-batch debt (~64 new L2, spanning the earliest 2014-2018
+origin, the 2022-2026 recent/AI era, and the @networkchuck_v2 channel); recompiled clone to v3.
+PROMOTED (one agent per file):
+- BUILT wiki/topics/ai-tools/ai-tools.md from stub — the 2023 AI pivot → private/self-hosted
+  AI (Ollama, Open WebUI, Home Assistant Voice) → local-at-scale (5 Mac Studios) → automation/
+  agents (n8n, MCP, his Claude-Code terminal workflow) → AI security (prompt injection); dated
+  arc + 13-source list + cross-links.
+- persona/biography.md — +8 dated entries: ~2012-13 own CCENT; Oct-2014 CHANNEL ORIGIN
+  (network admin in Dallas, learning-in-public); 2014-17 Cisco voice/collaboration + ASA origin
+  specialty; Jan-1-2018 full-time CBT Nuggets (quit engineering job); Cisco Live 2018; Dec-2018
+  CCNP TSHOOT; 2023 AI pivot; 2024-26 self-hosted-AI era.
+- persona/beliefs.md — +people/soft-skills-are-THE-skill, learn-in-public, private/self-hosted
+  AI (own your data), AI-as-must-learn-frontier + attack-surface, 2025 CompTIA A+ stance.
+- persona/voice.md — +analogy-based teaching (Star Wars→CUCM), learning-in-public/humble-learner
+  framing, 2025 terminal-AI (Claude Code) vocabulary.
+- wiki/topics/certifications-career — +2023 hacker's roadmap, 2025 A+, CCNA-future (Ryan Rose
+  interview, guest-attributed), command-reference trilogy, ONE-skill=people-skills.
+- NEW entities ryan-rose (Cisco cert director), tyler-ramsey (HackSmarter pentester).
+- persona/system-prompt.md — recompiled v3 (compiled_from_sources ~190).
+State: high-water mark advanced to full span 2014-10→2026-03 (batches 1–28); checkpoint 3 → Done.
+Synthesis notes: none (this IS the pass; debt drained). DEFERRED: appearance.md still empty;
+networking-hub Cisco-VoIP-origin section note (captured in biography + sources for now); father
+entity (chuck-keith-sr) still not a standalone page; minor collab entities (Kevin Wallace, Kris
+Bryant, Jason Gooley, Susie Wee, Santiago/Nacho) not yet pages. Remaining open ingest: main P2
+(~164) + P3 + v2 P2/P3 + 153 shorts.

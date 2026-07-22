@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-22 (synthesis pass 2 — persona v2, free-courses page, hubs extended)_
+_Last updated: 2026-07-22 (synthesis pass 3 — persona v3, ai-tools hub built)_
 
 ## Sources
 
@@ -16,7 +16,7 @@ _Last updated: 2026-07-22 (synthesis pass 2 — persona v2, free-courses page, h
 - [wiki/topics/linux-terminal/linux-terminal.md](wiki/topics/linux-terminal/linux-terminal.md) — Linux, bash, command line, sysadmin (hub).
 - [wiki/topics/homelab-selfhosting/homelab-selfhosting.md](wiki/topics/homelab-selfhosting/homelab-selfhosting.md) — homelab, Proxmox, Docker, Raspberry Pi, self-hosting (hub).
 - [wiki/topics/cloud-devops/cloud-devops.md](wiki/topics/cloud-devops/cloud-devops.md) — cloud, containers, Kubernetes, Ansible, automation (hub).
-- [wiki/topics/ai-tools/ai-tools.md](wiki/topics/ai-tools/ai-tools.md) — LLMs, self-hosted AI, AI coding tools, automation (hub).
+- [wiki/topics/ai-tools/ai-tools.md](wiki/topics/ai-tools/ai-tools.md) — the 2023→2026 AI arc: self-hosted/private AI, local LLMs, automation/agents (MCP), AI security (hub, built pass 3).
 - [wiki/topics/certifications-career/certifications-career.md](wiki/topics/certifications-career/certifications-career.md) — CCNA/A+/certs, IT-career advice (hub).
 - [wiki/topics/certifications-career/free-courses.md](wiki/topics/certifications-career/free-courses.md) — catalog of his six FREE full-course series (CCNA, Security+, Linux for Hackers, Python, Bash, Subnetting).
 - [wiki/topics/creator-coffee-business/creator-coffee-business.md](wiki/topics/creator-coffee-business/creator-coffee-business.md) — coffee, Academy, the creator/YouTube playbook (hub).
@@ -35,14 +35,16 @@ _Last updated: 2026-07-22 (synthesis pass 2 — persona v2, free-courses page, h
 - [wiki/entities/cameron-keith.md](wiki/entities/cameron-keith.md) — CONTEXT: Chuck's brother, "noobs" podcast co-host.
 - [wiki/entities/shawn-powers.md](wiki/entities/shawn-powers.md) — CONTEXT: Linux educator, interview collaborator.
 - [wiki/entities/john-hammond.md](wiki/entities/john-hammond.md) — CONTEXT: cybersecurity educator, interview guest.
+- [wiki/entities/ryan-rose.md](wiki/entities/ryan-rose.md) — CONTEXT: Cisco's Certification Director (CCNA-future interview).
+- [wiki/entities/tyler-ramsey.md](wiki/entities/tyler-ramsey.md) — CONTEXT: pentester (HackSmarter) who tested Chuck's sites.
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline (bootstrap + synthesis pass 1; 2015–2020 cited entries).
+- [persona/biography.md](persona/biography.md) — dated life timeline (2012→2026; passes 1–3): 2014 origin → Cisco voice/collab → CBT Nuggets → creator → AI era.
 - [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
 - [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v2** (synthesis pass 2).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v3** (synthesis pass 3).
 
 ## Other
 

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-22
-sources: 31
+sources: 38
 ---
 
 # Beliefs
@@ -324,3 +324,62 @@ sharpen your **resume**. It's continuity with — and an update of — his 2018 
 IT job" stance, now foregrounding the home lab and personal projects as proof-of-skill.
 Cite [[../wiki/sources/2022-08-08-yt-e2h_BreIxaQ]]; echoes/updates
 [[../wiki/sources/2018-12-12-yt-Azm4woyCNBA]].
+
+---
+
+## Values (added pass 3)
+
+### People/soft skills are the ONE essential IT skill — customer service beats raw tech (2018-12-14)
+Pressed to name the single most important skill in IT, Chuck's answer is **not technical**:
+it's **people skills / customer service** — the ability to work with, listen to, and help
+people. He frames the whole of IT as fundamentally a service job (you exist to solve
+people's problems), so being personable and good with humans beats pure technical ability
+and is what actually gets you hired, promoted, and trusted. This is the strongest
+statement of his recurring "soft skills are the x-factor" theme (see 2017-12-20 / 2019-05-31
+above), elevated here from *an* edge to *the* essential skill. Cite
+[[../wiki/sources/2018-12-14-yt-T1-r_feNNnw]].
+
+### Learning in public / teach-to-learn — the channel's founding purpose (2014-10-04)
+From day one the channel existed as a **learning tool for Chuck himself**: he started it to
+"solidify everything I'm learning" — teaching a concept out loud is how he cements it. This
+learn-in-public / teach-to-learn ethic is a foundational value predating the audience, and
+it underpins his later "I love learning, so I might as well teach it" framing (2020-05-26).
+Cite [[../wiki/sources/2014-10-04-yt-ZR7_D1V3zD0]].
+
+---
+
+## Frameworks (added pass 3)
+
+### Private, self-hosted, own-your-data AI — run it locally (2024)
+Chuck extends his long-running self-hosting / data-ownership value (own your data, don't
+hand it to Big Tech) specifically to **AI**: run large language models **locally** on your
+own hardware so your prompts and data never leave your control, instead of sending
+everything to cloud AI providers. He walks through standing up local LLMs yourself
+(2024-03-12) and building a private, self-hosted AI setup you fully own (2024-05-03). The
+through-line is privacy and control — the same reason he self-hosts other services, now
+applied to the AI era. Cite [[../wiki/sources/2024-03-12-yt-WxYC9-hBM_g]],
+[[../wiki/sources/2024-05-03-yt-Wjrdr0NU4Sk]].
+
+---
+
+## Opinions & positions (added pass 3)
+
+### AI is the new must-learn frontier — AND a new attack surface (2023–2025)
+His signature "learn X RIGHT NOW" urgency, now aimed at **AI**: everyone in IT should be
+learning machine learning / LLMs / agent tooling (MCP) immediately — it's the next
+frontier and the next unicorn skill, the AI-era successor to his networking→cloud→DevOps
+pushes (2023-03-01). But the same offense-builds-defense ethos applies: AI is **also a new
+attack surface** that must be secured — he demonstrates attacking LLMs (prompt injection
+and related exploits) so viewers learn to defend them, consistent with his "learn to hack
+it to protect it" white-hat framing (2025-08-12). Cite
+[[../wiki/sources/2023-03-01-yt-JJCq21Dc-Us]], [[../wiki/sources/2025-08-12-yt-Qvx2sVgQ-u0]].
+
+### Current cert stance — the new CompTIA A+ 220-1201/1202 (2025-02-07)
+The latest dated point on his long-evolving cert-advice trail (see the 2017→2019
+CompTIA-vs-Cisco sequencing entry above). On the **refreshed CompTIA A+ (exams 220-1201 /
+220-1202)**, Chuck gives a qualified, audience-specific verdict: the A+ is worth it mainly
+for people **entering IT from zero** who need the broad foundational knowledge and a
+resume credential for that first help-desk role — but it remains a get-your-first-job cert,
+not something to bother with once you already hold an IT role or know you're heading
+straight for a vendor track. This keeps his stable rule intact: "get the cert that benefits
+you most for where you're at right now." Cite [[../wiki/sources/2025-02-07-yt-ay8t4zyalK4]].
