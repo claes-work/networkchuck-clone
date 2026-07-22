@@ -896,3 +896,19 @@ reinforces the decentralization/privacy belief. (c) COMMUNITY/ACCOUNTABILITY: th
 Challenge" is another community-accountability format (pairs w/ 24-7 study stream). (d) Topical
 security (Follina 2022 zero-day) shows he covers current threats. (e) Python extends into web
 (Flask). Mostly reinforces existing persona threads. No inline persona edits. Debt now 1.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-09→2022-12 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429.
+- 2022-09-09 mJ_5qeqGOaI — You SUCK at Subnetting EP6 (home network) ★
+- 2022-10-07 ZSADD1nYD5Y — the challenge is over (30-day wrap; community) ★
+- 2022-11-01 6rpTjEpvUtc — automated homelab+cloud with Ansible (IaC)
+- 2022-11-07 B2V_8M9cjYw — block all ads (DNS sinkhole; AdGuard/Pi-hole) ★
+- 2022-11-14 GH6O3oBZLK8 — subdomain takeover (dangling DNS; bug bounty)
+- 2022-11-21 qOrlYzqXPa8 — 50 macOS terminal tips (reference) ★
+- 2022-12-07 DbF96IHOZig — monitor your stuff (self-hosted monitoring)
+Synthesis notes: (a) COMMAND-REFERENCE genre extends to macOS (50 tips) — note he uses/covers
+macOS too (not just Linux/Windows); add to the reference-trilogy→now-quartet. (b) Ansible/IaC
+homelab+cloud automation reinforces the automation thread. (c) Ad-blocking (DNS sinkhole) +
+private search + monitoring continue the self-hosting/own-your-data body. (d) 30-Day Cert
+Challenge WRAP reinforces community-celebration ethos (already in voice). (e) Subnetting EP6.
+Mostly reinforces existing threads. No inline persona edits. Debt now 2.
