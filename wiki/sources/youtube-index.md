@@ -57,6 +57,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
 | 2019-04-24 | HACK your IT Study Habits (Atomic Habits) | [[2019-04-24-yt-bbkBJxOo4gg]] | ★ |
 | 2019-05-10 | Do you REALLY want it? (find your why) | [[2019-05-10-yt-LfoJEZNX4DA]] | ★ |
+| 2019-05-10 | Is MPLS DEAD?!? (panel w/ Keith Barker + Jason Gooley) | [[2019-05-10-yt-cDxngzbBbhI]] | ★ |
+| 2019-05-31 | Network Engineer for a School? (school-district IT interview) | [[2019-05-31-yt-sEmEUW18uNE]] | ★ |
+| 2019-06-10 | The New CCNA - BIGGEST cert updates EVER! | [[2019-06-10-yt-nD7zD-cpQG0]] | ★ |
+| 2019-06-15 | What happened to the CCNA/CCNP/CCIE? Overview (2019) | [[2019-06-15-yt-l9sqsDqF0QY]] | ★ |
+| 2019-06-23 | Get your CCNA RIGHT NOW (before 200-301) | [[2019-06-23-yt-f4p107p3vQg]] | ★ |
+| 2019-07-09 | HOW TO get your CCNP in 2020 (no CCNA required) | [[2019-07-09-yt-fqtr_Yyy0a4]] | ★ |
+| 2019-08-27 | Hacking PUBLIC WiFi with a Raspberry Pi and Kali Linux | [[2019-08-27-yt-q7HkIwbj3CM]] | ★ |
+| 2019-10-27 | Raspberry Pi Halloween Automation (IFTTT/Alexa/REST) | [[2019-10-27-yt-B_krqlk_cXo]] | ★ |
 
 ---
-_44 videos ingested (L2) so far._
+_52 videos ingested (L2) so far._

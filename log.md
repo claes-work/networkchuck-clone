@@ -163,3 +163,27 @@ Synthesis notes: RICH + CONTRADICTIONS to reconcile.
   cloud trajectory. CCNA roadmap is pre-2020-overhaul (version-date it).
 ENTITY DEBT now: keith-barker, shawn-powers, cameron (brother), chuck-keith-sr (father),
 james-clear/atomic-habits (book). CHECKPOINT next batch (batch 9 → debt 9; then batch 10).
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2019-05→2019-10 P1, 8 ingested
+8 P1 long-form (2019-05 → 2019-10). 8 ok, 0 skipped. Heavy on the 2020 Cisco cert
+overhaul + more guest interviews + hands-on hacking/maker builds.
+- 2019-05-10 cDxngzbBbhI — is MPLS dead? panel w/ Keith Barker + Jason Gooley ★
+- 2019-05-31 sEmEUW18uNE — school-district IT interview (guest Dallas) ★
+- 2019-06-10 nD7zD-cpQG0 — new CCNA 200-301 / 2020 overhaul (Susie Wee interview) ★
+- 2019-06-15 l9sqsDqF0QY — CCNA/CCNP/CCIE 2020 restructure overview ★
+- 2019-06-23 f4p107p3vQg — get old CCNA before 2020 (time-bound) ★
+- 2019-07-09 fqtr_Yyy0a4 — CCNP in 2020 without CCNA prereq ★
+- 2019-08-27 q7HkIwbj3CM — hack public WiFi w/ Pi + Kali (ethical framing) ★
+- 2019-10-27 B_krqlk_cXo — Pi Halloween automation (IFTTT/Alexa/REST) ★
+Synthesis notes: (a) CERT-STRUCTURE cluster: four videos document Cisco's Feb-2020
+overhaul (single CCNA 200-301; CCNP two-exam core+concentration; CCNP no longer needs
+CCNA; DevNet certs). ALL version-dated/historical — at synthesis, build ONE dated
+certifications-career section on "the 2020 Cisco cert overhaul" and mark pre-2020 advice
+(e.g. CCENT, CCNA Cyber Ops, ICND1/2) as SUPERSEDED. (b) GUESTS/ENTITIES added: Jason
+Gooley (CCIE, Cisco), Susie Wee (Cisco DevNet), plus school-district interviewee — Cisco
+folks are context, only Chuck's host lines train persona. (c) CAREER STANCE: generalist-
+over-specialist + school-district IT as a viable niche (from the interview, Chuck-attributed
+framing). (d) FORMAT: signature Kali-Linux + Raspberry-Pi ETHICAL-HACKING demo (with an
+explicit ethics/education framing worth capturing in beliefs) and a fun Pi maker/automation
+build — these two formats define the post-2019 channel. Promote at CHECKPOINT (next batch
+= batch 8 done, debt 9; batch after = debt 10 → Stage S).
