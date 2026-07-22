@@ -296,3 +296,19 @@ learn-X format to container orchestration. (d) "i bought a DDoS on the dark web"
 stunt-education format (dramatic real-world demo against his OWN infra + heavy ethics
 framing) — a notable content archetype worth a beliefs/voice note next synthesis (how he
 uses shock + ethics to teach security). No inline persona edits this batch. Debt now 3.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2020-10→2020-12 P1, 6 ingested / 1 skipped / 1 retry
+8 P1 long-form selected (2020-10 → 2020-12). 6 ok, 1 skipped, 1 transient fetch error.
+- Skipped: 29VLO75woK4 "6 deals you don't want to miss" (Black Friday affiliate promo, no content).
+- 2020-10-31 xPi4uZu4uF0 — FREE CCNA EP8 (WANs) ★
+- 2020-11-10 HfPKe98UqEI — FREE Security+ EP3 (social engineering / "hacked my grandma") ★
+- 2020-11-17 UydNRZp_fmk — FREE Security+ EP4 (watering-hole/typosquatting) ★
+- 2020-11-20 Q2ErfVPomFQ — FREE Security+ EP6 (attack vectors) ★
+- 2020-12-06 80vIin4xGp8 — FREE CCNA EP9 (home network / IP addressing) ★
+- 2020-12-18 nnAQ8SYzAnE — hack like Mr. Robot (pop-culture hacking) ★
+Synthesis notes: Both free courses advance — FREE CCNA now through EP 9 (WAN, home network),
+FREE Security+ through EP 6 (social engineering, web attacks, attack vectors). Note EP 5 of
+Security+ not yet ingested (will surface later; the free-course structure at synthesis
+should list episodes by number and flag gaps). "hack like Mr. Robot" adds a pop-culture
+hacking-education archetype (reinforces the stunt/pop-culture teaching pattern). No new
+persona/beliefs beyond what pass 1 captured. Debt now 4.

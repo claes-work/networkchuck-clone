@@ -92,6 +92,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-10-19 | 3 Hacking Skills EVERYONE has // FREE Security+ // EP 1 | [[2020-10-19-yt-vyqSdJLVQgg]] | ★ |
 | 2020-10-24 | VMware on a Raspberry Pi!?!?! (ESXi Install) | [[2020-10-24-yt-6aLyZisehCU]] |  |
 | 2020-10-28 | Phishing attacks // FREE Security+ // EP 2 | [[2020-10-28-yt-u9dBGWVwMMA]] | ★ |
+| 2020-10-31 | WAN....it's not the internet!! // FREE CCNA // EP 8 | [[2020-10-31-yt-xPi4uZu4uF0]] | ★ |
+| 2020-11-10 | i hacked my grandma (social engineering) // FREE Security+ // EP 3 | [[2020-11-10-yt-HfPKe98UqEI]] | ★ |
+| 2020-11-17 | your favorite websites can be HACKED // FREE Security+ // EP 4 | [[2020-11-17-yt-UydNRZp_fmk]] | ★ |
+| 2020-11-20 | you're about to get hacked (7 reasons) // FREE Security+ // EP 6 | [[2020-11-20-yt-Q2ErfVPomFQ]] | ★ |
+| 2020-12-06 | let's hack your home network // FREE CCNA // EP 9 | [[2020-12-06-yt-80vIin4xGp8]] | ★ |
+| 2020-12-18 | hack like Mr. Robot | [[2020-12-18-yt-nnAQ8SYzAnE]] | ★ |
 
 ---
-_79 videos ingested (L2) so far._
+_85 videos ingested (L2) so far._
