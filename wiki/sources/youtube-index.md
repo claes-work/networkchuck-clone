@@ -55,10 +55,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2018-02-13 | 7 CCNA CCNP Study Tips 2018 (w/ Keith Barker CCIE) | [[2018-02-13-yt-BsH0SMDJdD4]] | ★ |
 | 2018-04-17 | Hack a Cisco Switch with a Raspberry Pi | [[2018-04-17-yt-lTlTjeCjXYM]] | ★ |
 | 2018-04-25 | STOP Buying IT Certification Books | [[2018-04-25-yt-6HsgCor5I28]] | ★ |
+| 2018-06-26 | How to become a DEVOPS Engineer (ft. Shawn Powers) | [[2018-06-26-yt-kDQMjAQNvY4]] |  |
 | 2018-07-16 | Moving my HOME NETWORK to a DATA CENTER w/ DMVPN | [[2018-07-16-yt-G5HucqXioBY]] | ★ |
 | 2018-08-11 | I PASSED THE CCNA EXAM!! (ICND2) — w/ brother Cameron | [[2018-08-11-yt-NBgRLL8mkUI]] | ★ |
+| 2018-09-26 | Network Engineers and AWS (ft. Anthony Sequeira) | [[2018-09-26-yt-443TT26w1LE]] | ★ |
+| 2018-10-18 | Do You Need IT Certifications to Get Started? (ft. Jeremy Cioara) | [[2018-10-18-yt-axtZLMvquZ0]] | ★ |
 | 2018-10-25 | What's next for NetworkChuck? *UPDATE* (automation pivot) | [[2018-10-25-yt-O8HDIRtMvwI]] | ★ |
 | 2018-10-30 | HOW to Start Coding as a Network Engineer | [[2018-10-30-yt-eAdrnTOcPOg]] | ★ |
+| 2018-11-09 | 6 STEPS to IT CAREER SUCCESS (ft. Kevin Wallace) | [[2018-11-09-yt-a5_gQLcTSUM]] |  |
 | 2018-11-23 | Re-Learning IT after MEMORY LOSS (w/ Shawn Powers) | [[2018-11-23-yt-rPjtZUBBPEU]] | ★ |
 | 2018-12-12 | How To get a JOB with a CCNA | [[2018-12-12-yt-Azm4woyCNBA]] | ★ |
 | 2018-12-16 | Fighting IMPOSTER SYNDROME in IT | [[2018-12-16-yt-iP9kuR2U8-o]] | ★ |
@@ -72,6 +76,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-03-16 | WI-FI 6 (802.11ax) explained | [[2019-03-16-yt-8cmmVEoftEM]] |  |
 | 2019-05-15 | UNLIMITED CLOUD STORAGE - Synology + Crashplan | [[2019-05-15-yt-_8OMN08VQ6A]] | ★ |
 | 2019-05-25 | SCHEDULED THE CCIE EXAM!! (written attempt; ⚠️ not a held cert) | [[2019-05-25-yt-lzFIm3zg_nI]] | ★ |
+| 2019-06-03 | Build Your Team - Cert Motivation (ft. Cioara/Bart Castle) | [[2019-06-03-yt-qo3Pe_-ZfE0]] |  |
+| 2019-06-10 | Will there be a NEW CCNA in 2019? (ft. Jeremy Cioara) | [[2019-06-10-yt-LrQ1xM-HBec]] |  |
+| 2019-07-18 | EVERYONE needs to learn LINUX (ft. Raspberry Pi 4) | [[2019-07-18-yt-l9YxTXDiiFY]] | ★ |
+| 2019-07-27 | WHY study Python, Linux, CCNA AT THE SAME TIME (ft. Cisco_Panther) | [[2019-07-27-yt-TB87gilqs8Q]] | ★ |
 | 2019-09-06 | The Most Dangerous Linux Commands | [[2019-09-06-yt-cChGFpElMEM]] | ★ |
 | 2019-09-15 | UNLIMITED Google Drive Storage (2019, obsolete) | [[2019-09-15-yt-oPrKUSizQVQ]] |  |
 | 2020-01-26 | this year....I'm going to become a HACKER!! | [[2020-01-26-yt-bTPpKxuV-CY]] | ★ |
@@ -386,4 +394,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_364 videos ingested (L2) so far._
+_372 videos ingested (L2) so far._
