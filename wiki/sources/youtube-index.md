@@ -325,11 +325,18 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-06-13 | I'm worried about Network Engineers..... | [[2025-06-13-yt-4hkJX7LBdXc]] | ★ |
 | 2025-06-21 | I went to the LARGEST networking event (Cisco Live 2025) | [[2025-06-21-yt-tTQ4vfCdMYw]] | ★ |
 | 2025-06-25 | got AI anxiety? Do this RIGHT NOW! | [[2025-06-25-yt-3BXE0e3QZ4U]] | ★ |
+| 2025-07-01 | I'm done with the AI hype | [[2025-07-01-yt-kxYh9RwLUFw]] | ★ |
 | 2025-07-16 | You NEED to Use n8n RIGHT NOW!! | [[2025-07-16-yt-ONgECvZNI3o]] | ★ |
 | 2025-08-12 | Hacking AI is TOO EASY | [[2025-08-12-yt-Qvx2sVgQ-u0]] | ★ |
+| 2025-09-08 | THIS Is Where the Internet Lives (Equinix DC tour) | [[2025-09-08-yt-v477fvbj3rk]] | ★ |
 | 2025-09-12 | you need to learn MCP RIGHT NOW!! | [[2025-09-12-yt-GuTcle5edjk]] | ★ |
 | 2025-10-03 | n8n Now Runs My ENTIRE Homelab | [[2025-10-03-yt-budTmdQfXYU]] | ★ |
+| 2025-10-14 | This AI Supercomputer can fit on your desk (DGX Spark) | [[2025-10-14-yt-FYL9e_aqZY0]] | ★ |
 | 2025-10-28 | You've Been Using AI the Hard Way (his terminal-AI workflow) | [[2025-10-28-yt-MsQACpcuTkU]] | ★ |
+| 2025-11-04 | DEFCON is Not What I Expected... | [[2025-11-04-yt-qFsj6KL8_nU]] | ★ |
+| 2025-11-17 | The Dark Web EXPOSED (Robin OSS tool) | [[2025-11-17-yt-_KzObeom88Y]] | ★ |
+| 2025-11-26 | You SUCK at Prompting AI (Here's the secret) | [[2025-11-26-yt-pwWBcsxEoLk]] | ★ |
+| 2025-11-28 | Hackers infected the wrong girlfriend.... (Bitdefender) | [[2025-11-28-yt-o-8amaZBi5M]] | ★ |
 | 2026-03-31 | the WORST hack of 2026 (supply-chain) | [[2026-03-31-yt-eGSsoSEppNU]] | ★ |
 
 ## @networkchuck_v2
@@ -349,4 +356,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_327 videos ingested (L2) so far._
+_334 videos ingested (L2) so far._
