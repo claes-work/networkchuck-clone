@@ -36,3 +36,8 @@ sources stays in `pipeline/ledger.csv`; this file is the plain-language overview
 ## F. Multi-clone future — see VISION.md
 - [ ] More people, each in its own repo built from this template
 - [ ] Clones as cooperating agents (shared data contract, knowledge never mixed)
+
+## Deferred re-ingest (recorded 2026-07-23, Stage C complete)
+The corpus is otherwise fully drained (445 L2 sources). These legit videos could NOT be fetched this run and are marked `skipped` with `DEFERRED`/`no-captions` notes — re-ingest when possible (ledger makes it exact):
+- **Rate-limited (persistent 429, captions exist):** `yt-lUzSsX4T4WQ` pfSense (6.4M), `yt-Jfvg3CS1X3A` 40 Windows Commands (4.3M), `yt-BSplICgr7iU` block-adult-sites (P2), `yt-WhoTqIuURy4` CCNA Tips ft. Cioara (P3). Retry with authenticated yt-dlp / cookies / PO-token or after a longer cooldown.
+- **No captions (would need Whisper — needs user approval):** `yt-croxobxz1bU` massive Twitter hack, `yt-BJFxMDxG_KY` tools to learn Python/Linux/Cisco, `yt-isMnWZqAh0k` What is SD-WAN, plus earlier: DDNS-Cloudflare, Puppet-for-Net-Engineers, CCNA-2-exams-or-1, 2020 'feeling stupid today'.

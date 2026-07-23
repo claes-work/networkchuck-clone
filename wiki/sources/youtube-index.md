@@ -408,4 +408,5 @@ _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the Davi
 
 ---
 _385 videos ingested (L2) so far._
-_Shorts (Stage C, in progress): ~92 skipped (clips dup-of long-form + promos/vlogs/pure-sponsor-spots), 44 standalone light-L2'd, ~17 standalone still pending light-L2._
+_Shorts (Stage C, COMPLETE): ~99 skipped (clips dup-of long-form + promos/vlogs/pure-sponsor-spots), 61 standalone light-L2'd. 0 shorts open._
+_Deferred long-form (re-ingest when fetchable): pfSense, 40-Windows-Commands, block-adult-sites, CCNA-tips-ft-Cioara (persistent 429), plus no-caption: Twitter-hack, Python/Linux/Cisco-tools, SD-WAN._
