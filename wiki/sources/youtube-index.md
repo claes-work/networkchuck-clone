@@ -337,6 +337,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-11-17 | The Dark Web EXPOSED (Robin OSS tool) | [[2025-11-17-yt-_KzObeom88Y]] | ★ |
 | 2025-11-26 | You SUCK at Prompting AI (Here's the secret) | [[2025-11-26-yt-pwWBcsxEoLk]] | ★ |
 | 2025-11-28 | Hackers infected the wrong girlfriend.... (Bitdefender) | [[2025-11-28-yt-o-8amaZBi5M]] | ★ |
+| 2025-12-10 | I'll never use n8n the same...... (n8n + Claude Code) | [[2025-12-10-yt-s96JeuuwLzc]] | ★ |
+| 2025-12-15 | stop trusting cloud cameras!! (Frigate NVR) | [[2025-12-15-yt-tbCKWX34_G4]] | ★ |
+| 2025-12-20 | Ethernet is DEAD?? Mac Studio is 100x FASTER!! | [[2025-12-20-yt-bFgTxr5yst0]] | ★ |
+| 2026-01-23 | FREE Phone Calls with Claude Code | [[2026-01-23-yt-cT22fTzotYc]] | ★ |
+| 2026-01-29 | Claude Code on your phone in 10 minutes | [[2026-01-29-yt-FEDiAHzS0zw]] | ★ |
+| 2026-02-06 | I Tried running in 3D printed shoes (personal/maker) | [[2026-02-06-yt-9LjgqZ2wP0g]] |  |
+| 2026-02-20 | become an AI HACKER (it's easier than you think) | [[2026-02-20-yt-_yfiUQSbdPY]] | ★ |
+| 2026-02-26 | Claude Code on your Phone is OFFICIAL | [[2026-02-26-yt-ocQ7ZKhHU5Q]] | ★ |
 | 2026-03-31 | the WORST hack of 2026 (supply-chain) | [[2026-03-31-yt-eGSsoSEppNU]] | ★ |
 
 ## @networkchuck_v2
@@ -356,4 +364,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_334 videos ingested (L2) so far._
+_342 videos ingested (L2) so far._
