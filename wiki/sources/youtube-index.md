@@ -317,7 +317,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-02-21 | ChatGPT Operator is expensive....use this instead (Browser Use) | [[2025-02-21-yt-sxTNACldK3Y]] |  |
 | 2025-02-28 | You're going to get Hacked in 2025 | [[2025-02-28-yt-CxTMHw-M0Yg]] | ★ |
 | 2025-03-13 | I'm changing how I use AI (Open WebUI + LiteLLM) | [[2025-03-13-yt-nQCOTzS5oU0]] | ★ |
+| 2025-04-07 | everyone is putting AI in schools...... | [[2025-04-07-yt-cJZnlnT0rPA]] | ★ |
+| 2025-04-09 | Why LLMs get dumb (Context Windows Explained) | [[2025-04-09-yt-TeQDr4DkLYo]] | ★ |
+| 2025-04-18 | Saying Goodbye…. (memorial for pug Moses; bio) | [[2025-04-18-yt-LQAOeZBdZ2k]] | ★ |
 | 2025-04-23 | Zima Board 2 (replace your homelab?) | [[2025-04-23-yt-6WYBvbn-mgQ]] |  |
+| 2025-05-22 | 37 INSANE Linux Commands you NEED to Know in 2025 | [[2025-05-22-yt-6P-vjgPx9ww]] |  |
+| 2025-06-13 | I'm worried about Network Engineers..... | [[2025-06-13-yt-4hkJX7LBdXc]] | ★ |
+| 2025-06-21 | I went to the LARGEST networking event (Cisco Live 2025) | [[2025-06-21-yt-tTQ4vfCdMYw]] | ★ |
+| 2025-06-25 | got AI anxiety? Do this RIGHT NOW! | [[2025-06-25-yt-3BXE0e3QZ4U]] | ★ |
 | 2025-07-16 | You NEED to Use n8n RIGHT NOW!! | [[2025-07-16-yt-ONgECvZNI3o]] | ★ |
 | 2025-08-12 | Hacking AI is TOO EASY | [[2025-08-12-yt-Qvx2sVgQ-u0]] | ★ |
 | 2025-09-12 | you need to learn MCP RIGHT NOW!! | [[2025-09-12-yt-GuTcle5edjk]] | ★ |
@@ -342,4 +349,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_320 videos ingested (L2) so far._
+_327 videos ingested (L2) so far._
