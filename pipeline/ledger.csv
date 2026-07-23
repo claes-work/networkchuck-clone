@@ -91,17 +91,17 @@ yt-poDIT2ruQ9M,video,how did I NOT know about this?,@NetworkChuck,https://www.yo
 yt-OD2vG5st4zI,video,Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9,@NetworkChuck,https://www.youtube.com/watch?v=OD2vG5st4zI,2023-08-23,2026-07-22,L0-discovered,2,,views=337417
 yt-Y_coOg6oHAc,video,the TOP 10 hottest IT Jobs in 2023,@NetworkChuck,https://www.youtube.com/watch?v=Y_coOg6oHAc,2023-08-15,2026-07-22,L0-discovered,2,,views=813984
 yt-6zopTcQFhqM,video,Subnetting…..but in reverse,@NetworkChuck,https://www.youtube.com/watch?v=6zopTcQFhqM,2023-07-21,2026-07-22,L0-discovered,2,,views=281101
-yt-3CaG2GI1kn0,video,you need this FREE CyberSecurity tool,@NetworkChuck,https://www.youtube.com/watch?v=3CaG2GI1kn0,2023-07-19,2026-07-22,L0-discovered,2,,views=1739183
+yt-3CaG2GI1kn0,video,you need this FREE CyberSecurity tool,@NetworkChuck,https://www.youtube.com/watch?v=3CaG2GI1kn0,2023-07-19,2026-07-22,L2,2,cybersecurity;homelab-selfhosting,free cybersec tool: Wazuh SIEM
 yt-0kk6k-VdllM,video,intro to cloud hacking (leaky buckets),@NetworkChuck,https://www.youtube.com/watch?v=0kk6k-VdllM,2023-07-10,2026-07-22,L2,1,cybersecurity;cloud-devops,intro to cloud hacking (leaky buckets/S3)
 yt-L26Xq7m0uQ0,video,how to HACK a password // Windows Edition,@NetworkChuck,https://www.youtube.com/watch?v=L26Xq7m0uQ0,2023-06-30,2026-07-22,L2,1,cybersecurity,hack a password Windows edition (NTLM; defense)
 yt-X1CM3rZwGn8,video,you NEED to learn Windows RIGHT NOW!!,@NetworkChuck,https://www.youtube.com/watch?v=X1CM3rZwGn8,2023-06-28,2026-07-22,L2,1,certifications-career;linux-terminal,learn Windows / AD (learn-X)
 yt-xBIowQ0WaR8,video,build your own cloud,@NetworkChuck,https://www.youtube.com/watch?v=xBIowQ0WaR8,2023-06-19,2026-07-22,L2,1,homelab-selfhosting;cloud-devops,build your own cloud (self-hosting/data-ownership)
-yt-B1vqKQIPxr0,video,subnetting my coffee shop,@NetworkChuck,https://www.youtube.com/watch?v=B1vqKQIPxr0,2023-05-19,2026-07-22,L0-discovered,2,,views=648507
-yt-pQrM5L6C-FQ,video,"CPU, GPU…..DPU?",@NetworkChuck,https://www.youtube.com/watch?v=pQrM5L6C-FQ,2023-05-05,2026-07-22,L0-discovered,2,,views=1090466
-yt-IYmXPF3XUwo,video,the END of VPNs?!,@NetworkChuck,https://www.youtube.com/watch?v=IYmXPF3XUwo,2023-04-28,2026-07-22,L0-discovered,2,,views=1551795
-yt-jAfQvMxcokI,video,stop giving your passwords to hackers,@NetworkChuck,https://www.youtube.com/watch?v=jAfQvMxcokI,2023-03-31,2026-07-22,L0-discovered,2,,views=379404
-yt-Kq0BMVhbFkA,video,host your own HelpDesk,@NetworkChuck,https://www.youtube.com/watch?v=Kq0BMVhbFkA,2023-03-30,2026-07-22,L0-discovered,2,,views=332306
-yt-799uhYUxtvA,video,build your own browser (crazy SECURE),@NetworkChuck,https://www.youtube.com/watch?v=799uhYUxtvA,2023-03-29,2026-07-22,L0-discovered,2,,views=358329
+yt-B1vqKQIPxr0,video,subnetting my coffee shop,@NetworkChuck,https://www.youtube.com/watch?v=B1vqKQIPxr0,2023-05-19,2026-07-22,L2,2,networking;certifications-career,subnetting my coffee shop (BIO: physical NetworkChuck Coffee shops)
+yt-pQrM5L6C-FQ,video,"CPU, GPU…..DPU?",@NetworkChuck,https://www.youtube.com/watch?v=pQrM5L6C-FQ,2023-05-05,2026-07-22,L2,2,networking;cloud-devops,CPU/GPU/DPU explainer (SmartNIC offload)
+yt-IYmXPF3XUwo,video,the END of VPNs?!,@NetworkChuck,https://www.youtube.com/watch?v=IYmXPF3XUwo,2023-04-28,2026-07-22,L2,2,networking;cybersecurity;cloud-devops,the END of VPNs (ZTNA/zero-trust; 2023 take)
+yt-jAfQvMxcokI,video,stop giving your passwords to hackers,@NetworkChuck,https://www.youtube.com/watch?v=jAfQvMxcokI,2023-03-31,2026-07-22,L2,2,cybersecurity,password security (self-hosted Passbolt)
+yt-Kq0BMVhbFkA,video,host your own HelpDesk,@NetworkChuck,https://www.youtube.com/watch?v=Kq0BMVhbFkA,2023-03-30,2026-07-22,L2,2,homelab-selfhosting;certifications-career,host your own helpdesk (ticketing)
+yt-799uhYUxtvA,video,build your own browser (crazy SECURE),@NetworkChuck,https://www.youtube.com/watch?v=799uhYUxtvA,2023-03-29,2026-07-22,L2,2,homelab-selfhosting;cybersecurity;cloud-devops,build your own secure browser (DIY Kasm / Cloud Browser)
 yt-prVHU1fLR20,video,30 Windows Commands you CAN’T live without,@NetworkChuck,https://www.youtube.com/watch?v=prVHU1fLR20,2023-03-27,2026-07-22,L2,1,linux-terminal,30 Windows commands (reference)
 yt-km81ph7pZz8,video,3 HACKING gadgets you have to TRY!!,@NetworkChuck,https://www.youtube.com/watch?v=km81ph7pZz8,2023-03-10,2026-07-22,L2,1,cybersecurity,3 Pi hacking-gadget builds (P4wnP1/Pwnagotchi)
 yt-NDlQrK_QAzY,video,the most SECURE browser!! (testing it with malware),@NetworkChuck,https://www.youtube.com/watch?v=NDlQrK_QAzY,2023-03-04,2026-07-22,L2,2,cybersecurity;cloud-devops;creator-coffee-business,Cloud Browser OFFICIAL LAUNCH (Mar 2023; Kasm; $7/mo)

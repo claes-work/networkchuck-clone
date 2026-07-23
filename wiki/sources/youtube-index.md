@@ -155,6 +155,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-01-26 | The Best PC I Have Ever Built! | [[2023-01-26-yt-InnFUrE73tU]] |  |
 | 2023-02-23 | why are TUPLES even a thing? | [[2023-02-23-yt-fR_D_KIAYrE]] |  |
 | 2023-03-04 | the most SECURE browser!! (Cloud Browser launch) | [[2023-03-04-yt-NDlQrK_QAzY]] | ★ |
+| 2023-03-29 | build your own browser (crazy SECURE) | [[2023-03-29-yt-799uhYUxtvA]] | ★ |
+| 2023-03-30 | host your own HelpDesk | [[2023-03-30-yt-Kq0BMVhbFkA]] |  |
+| 2023-03-31 | stop giving your passwords to hackers (Passbolt) | [[2023-03-31-yt-jAfQvMxcokI]] |  |
+| 2023-04-28 | the END of VPNs?! (ZTNA) | [[2023-04-28-yt-IYmXPF3XUwo]] | ★ |
+| 2023-05-05 | CPU, GPU…..DPU? | [[2023-05-05-yt-pQrM5L6C-FQ]] | ★ |
+| 2023-05-19 | subnetting my coffee shop (physical Coffee shops) | [[2023-05-19-yt-B1vqKQIPxr0]] | ★ |
+| 2023-07-19 | you need this FREE CyberSecurity tool (Wazuh) | [[2023-07-19-yt-3CaG2GI1kn0]] |  |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -300,4 +307,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_278 videos ingested (L2) so far._
+_285 videos ingested (L2) so far._

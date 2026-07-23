@@ -933,3 +933,21 @@ the NetworkChuck CLOUD BROWSER (Mar 2023, Kasm-based disposable browser, ~$7/mo)
 as his product. This DATES the Cloud Browser launch (dossier said ~2023 → now Mar 2023) and
 closes the loop with the 2022-01 Kasm precursor. Update biography + the cloud-browser entity.
 No inline persona edits. Debt now 3.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2023-03→2023-07 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429.
+- 2023-03-29 799uhYUxtvA — build your own secure browser (DIY Kasm / Cloud Browser) ★
+- 2023-03-30 Kq0BMVhbFkA — host your own helpdesk (ticketing)
+- 2023-03-31 jAfQvMxcokI — password security (self-hosted Passbolt)
+- 2023-04-28 IYmXPF3XUwo — the END of VPNs (ZTNA/zero-trust; 2023 take) ★
+- 2023-05-05 pQrM5L6C-FQ — CPU/GPU/DPU explainer (SmartNIC offload) ★
+- 2023-05-19 B1vqKQIPxr0 — subnetting my coffee shop ★
+- 2023-07-19 3CaG2GI1kn0 — free cybersec tool: Wazuh SIEM
+Synthesis notes: (a) BIO — PHYSICAL COFFEE SHOPS: "subnetting my coffee shop" confirms he is
+LAUNCHING PHYSICAL NetworkChuck Coffee SHOP(S) (2023) — an expansion of NetworkChuck Coffee
+beyond online sales into brick-and-mortar retail; add to biography + the networkchuck-coffee
+entity. (b) Cloud Browser follow-up: a DIY "build your own Kasm secure browser" (2023-03), right
+after the Cloud Browser launch — reinforces the product/Kasm thread. (c) DATED OPINION: "the END
+of VPNs" (ZTNA/zero-trust replaces VPNs, 2023) — a dated networking-future take (flag for the
+evolving-position trail). (d) Self-hosting continues (helpdesk, Passbolt password manager, Wazuh
+SIEM) — own-your-data + security-tools body. No inline persona edits. Debt now 4.
