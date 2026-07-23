@@ -397,6 +397,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-09-10 | Cisco's Certification Director Explains the Future of CCNA | [[2025-09-10-yt-1tw3O2iOt1U]] | ★ |
 | 2025-09-11 | From Engineer to YouTube Pioneer (David Bombal's Story) | [[2025-09-11-yt-DRseV4fFC9g]] | ★ |
 | 2025-09-19 | They're Teaching AI to Run the Data Center (Juniper/Apstra) | [[2025-09-19-yt-Zx4SL2h1uDg]] | ★ |
+| 2025-11-17 | Dark Web Expert Explains How He Infiltrates Cybercrime Forums | [[2025-11-17-yt-KxfAW8wPDX4]] | ★ |
 | 2025-12-02 | Interviewing a Secretive Cybercrime-Fighting Team Leader (Bitdefender) | [[2025-12-02-yt-2VOFWU77CR4]] |  |
 | 2025-12-02 | Scam Researcher tricks scammers with AI (Bitdefender) | [[2025-12-02-yt-OhyVtuYxRU8]] | ★ |
 | 2025-12-11 | He Hunts Malware for a living (Bitdefender) | [[2025-12-11-yt-EOyOplr84I4]] | ★ |
@@ -406,4 +407,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_384 videos ingested (L2) so far._
+_385 videos ingested (L2) so far._
