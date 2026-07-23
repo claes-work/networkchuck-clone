@@ -148,6 +148,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-11-14 | subdomain takeover (stealing websites) | [[2022-11-14-yt-GH6O3oBZLK8]] |  |
 | 2022-11-21 | 50 macOS Tips and Tricks Using Terminal | [[2022-11-21-yt-qOrlYzqXPa8]] | ★ |
 | 2022-12-07 | you need to monitor your stuff RIGHT NOW!! | [[2022-12-07-yt-DbF96IHOZig]] |  |
+| 2022-12-14 | EXPOSE your home network to the INTERNET!! | [[2022-12-14-yt-ey4u7OUAF3c]] |  |
+| 2022-12-23 | you NEED to use VS Code RIGHT NOW!! | [[2022-12-23-yt-1ZfO149BJvg]] | ★ |
+| 2023-01-11 | ChatGPT will make you better (first ChatGPT video) | [[2023-01-11-yt-WRe46LISkTw]] | ★ |
+| 2023-01-13 | i almost quit youtube | [[2023-01-13-yt-KA_KPmTxPSg]] | ★ |
+| 2023-01-26 | The Best PC I Have Ever Built! | [[2023-01-26-yt-InnFUrE73tU]] |  |
+| 2023-02-23 | why are TUPLES even a thing? | [[2023-02-23-yt-fR_D_KIAYrE]] |  |
+| 2023-03-04 | the most SECURE browser!! (Cloud Browser launch) | [[2023-03-04-yt-NDlQrK_QAzY]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -293,4 +300,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_271 videos ingested (L2) so far._
+_278 videos ingested (L2) so far._

@@ -912,3 +912,24 @@ homelab+cloud automation reinforces the automation thread. (c) Ad-blocking (DNS 
 private search + monitoring continue the self-hosting/own-your-data body. (d) 30-Day Cert
 Challenge WRAP reinforces community-celebration ethos (already in voice). (e) Subnetting EP6.
 Mostly reinforces existing threads. No inline persona edits. Debt now 2.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2022-12→2023-03 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429. BIO-RICH.
+- 2022-12-14 ey4u7OUAF3c — expose home network safely (Cloudflare Tunnel)
+- 2022-12-23 1ZfO149BJvg — learn VS Code RIGHT NOW ★
+- 2023-01-11 WRe46LISkTw — FIRST ChatGPT video (gen-AI era begins) ★
+- 2023-01-13 KA_KPmTxPSg — i almost quit youtube (burnout/authenticity) ★
+- 2023-01-26 InnFUrE73tU — best PC I've built
+- 2023-02-23 fR_D_KIAYrE — Python tuples
+- 2023-03-04 NDlQrK_QAzY — Cloud Browser OFFICIAL LAUNCH (Mar 2023; Kasm; $7/mo) ★
+Synthesis notes: THREE big ones. (a) AI-ERA START, dated: "ChatGPT will make you better" (Jan
+2023) is his FIRST ChatGPT/gen-AI video — the ChatGPT-specific pivot (pairs w/ the Mar-2023 ML
+video; predates it in the ai-tools arc). Stance: AI as a productivity multiplier, "use it to
+get better" (not replace you). Add to ai-tools hub + biography AI-era. (b) BIO/AUTHENTICITY:
+"i almost quit YouTube" (Jan 2023) — candid burnout/almost-quit reflection; a strong
+authenticity + mission-perseverance datapoint for biography + voice (he's open about the hard
+parts). (c) PRODUCT DATE CONFIRMED: the "most secure browser" video is the OFFICIAL LAUNCH of
+the NetworkChuck CLOUD BROWSER (Mar 2023, Kasm-based disposable browser, ~$7/mo) — he names it
+as his product. This DATES the Cloud Browser launch (dossier said ~2023 → now Mar 2023) and
+closes the loop with the 2022-01 Kasm precursor. Update biography + the cloud-browser entity.
+No inline persona edits. Debt now 3.
