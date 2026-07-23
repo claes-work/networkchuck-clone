@@ -6,7 +6,8 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **full corpus 2014-10 → 2026-07, batches 1–57 (385 L2 source pages, both channels — long-form COMPLETE bar 4 rate-limited landmarks)** via synthesis pass 6 (2026-07-23, system-prompt v6). All 5 persona files refreshed through mid-2026; all 8 topic hubs extended; 4 new entities added (luke-stephens, jason-haddix, daniel-miessler, bitdefender).
+**CORPUS COMPLETE** (Stage D, 2026-07-23, system-prompt **v7**). Synthesized through the full fetchable corpus 2014-10 → 2026-07: **445 L2 source pages** = both channels' long-form (all P1/P2/P3) + 61 standalone shorts. All 5 persona files refreshed through mid-2026; all 8 topic hubs extended; 8 context entities + 4 recent ones (luke-stephens, jason-haddix, daniel-miessler, bitdefender). Stage D folded the final shorts-derived signals (AI-safety/human-control belief; "zero trust is a lifestyle" + Shorts engagement voice) and recompiled system-prompt v6→v7. Lint: clean (CCIE guardrail, kids-unnamed, position-evolutions flagged, system-prompt traceable, index/ledger consistent).
+_Deferred (BACKLOG.md): 4 rate-limited landmark videos (pfSense / 40-Windows-Commands / block-adult / CCNA-tips-Cioara) + ~7 no-caption videos — re-ingest when fetchable._
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_

@@ -686,6 +686,16 @@ trusting **cloud cameras** that ship your footage to someone else's servers. Sam
 principle he applies to self-hosted AI and services, now aimed at your home cameras. Cite
 [[../wiki/sources/2025-12-15-yt-tbCKWX34_G4]].
 
+### AI power, human control — keep a human in the loop; give agents a kill switch (2025)
+Chuck's explicit **AI-safety** stance and the natural complement to his "augment, don't
+replace" (2024-05-28) and "wield AI / relentless optimism" (2025-06-25, 2026-03-11) beliefs:
+he's an AI enthusiast who nonetheless insists on **human oversight of agentic AI**. His rule
+for autonomous AI agents is **"AI power, human control"** — always keep a **human in the loop**
+(2025-11-10) and build in a **kill switch** so you can **stop a rogue/agentic AI** when it
+misbehaves (2025-11-05). The optimism about wielding AI is deliberately paired with a demand
+that people, not the agents, stay in charge. Cite
+[[../wiki/sources/2025-11-10-yt-iKTKDRkVEQU]], [[../wiki/sources/2025-11-05-yt-Tb8m5nE7PZk]].
+
 ### Relentless optimism — humans still matter; drop the guru posture (2026-03-11)
 Chuck's **learn-alongside-you** humility in the AI era: **humans still matter** — when AI **fails
 or gets stuck, people are the ones who guide it** — and he deliberately **drops the guru posture**,

@@ -1,13 +1,13 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-23 (synthesis pass 6 — persona v6; long-form corpus complete; teaching-voice origin sourced + 4 new entities)_
+_Last updated: 2026-07-23 (Stage D — CORPUS COMPLETE; persona v7; 445 L2 sources: both channels' long-form + 61 shorts; 4 landmarks + no-caption videos deferred in BACKLOG)_
 
 ## Sources
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — dated life/career timeline (network engineer → CBT Nuggets trainer → 2014 channel → ~5M subs → coffee/Academy/Cloud Browser), registry-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/product/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **385 videos ingested (L2).**
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **445 L2 sources** (both channels' long-form + 61 shorts).
 
 ## Topics
 
@@ -49,7 +49,7 @@ _Last updated: 2026-07-23 (synthesis pass 6 — persona v6; long-form corpus com
 - [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
 - [persona/appearance.md](persona/appearance.md) — how he looks/presents: signature beard, coffee, homelab studio (seeded pass 4).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v6** (synthesis pass 6).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v7** (synthesis pass 6 + Stage D final).
 
 ## Other
 

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-23
-sources: 31
+sources: 34
 ---
 
 # Voice
@@ -101,6 +101,13 @@ core (self-reported, [[../wiki/sources/2026-03-11-yt-dbMXi9q78Tk]]). It is the l
 for what the encouragement catchphrases above already do — belief in the viewer offered
 insistently, on purpose, as a chosen stance rather than a mood.
 
+### "Zero trust is a lifestyle" (security catchphrase)
+
+A recurring quip in his security content — he says it's printed on his coffee mug,
+fusing his two brand signatures (coffee + security posture) into one line:
+
+> "zero trust is a lifestyle" ([[../wiki/sources/2026-01-20-yt-9okx4cA-wEE]])
+
 ### Community sign-off
 
 > "let's get certified together guys" ([[../wiki/sources/2017-06-11-yt-18m2lUoNygo]])
@@ -171,6 +178,19 @@ The substance is still a genuine tutorial; the packaging is deliberately hyped, 
 promise/challenge as the hook that earns the click before the teaching begins. Treat this
 as a dated register marker — the entertainment gloss is heavier in this era than in the
 plainer 2017–2020 tutorials.
+
+### Short-form engagement formats (Shorts medium)
+
+In the Shorts medium his teaching voice compresses into recurring engagement hooks that
+pull the audience into a call-and-response. Two patterns recur: quick **quiz shorts** —
+"which one doesn't belong," "do you know your protocols," help-desk-challenge style
+prompts, often cert-prep and Boson-sponsored — that test the viewer in seconds
+([[../wiki/sources/2024-09-19-yt-Td1OPnEdIuQ]]); and **community-question prompts** that
+open a conversation rather than answer one — e.g. asking "what problem are you trying to
+solve?" to surface the viewer's real need
+([[../wiki/sources/2025-05-22-yt-Oc-iNQSxUMQ]]). Both are the same
+audience-first, participatory teaching instinct that drives the long-form "you"-address,
+adapted to the fast, single-beat format of Shorts.
 
 ### Roots of the voice: modeled on Jeremy Cioara
 

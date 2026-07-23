@@ -57,7 +57,7 @@ Monthly lint. *Needs from user: consent to install schedules.*
 
 - [x] Phase 0 — Identity & infrastructure (bootstrap) — done 2026-07-14
 - [x] Phase 1 — Biography & source map (bootstrap) — done 2026-07-14
-- [ ] Phase 2 — Books & landmark documents
-- [ ] Phase 3 — Video corpus
-- [ ] Phase 4 — Articles & social
-- [ ] Phase 5 — Automation
+- [ ] Phase 2 — Books & landmark documents _(N/A so far — no books; NetworkChuck's canon is video)_
+- [x] Phase 3 — Video corpus — **COMPLETE 2026-07-23**. Drained both channels' full long-form (P1/P2/P3) + shorts (deduped) via the ingest loop → **445 L2 source pages**, 6 synthesis checkpoints, persona **system-prompt v7**. Deferred (BACKLOG): 4 rate-limited landmarks + ~7 no-caption videos (re-ingest when fetchable). AI-transcription (Whisper) not used — awaits user approval.
+- [ ] Phase 4 — Articles & social _(next workstream: websites/blog, press, X/IG/LinkedIn, podcast feeds not on YouTube)_
+- [ ] Phase 5 — Automation _(weekly freshness cron — awaits user consent)_
