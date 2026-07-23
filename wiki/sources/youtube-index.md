@@ -82,6 +82,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2019-07-27 | WHY study Python, Linux, CCNA AT THE SAME TIME (ft. Cisco_Panther) | [[2019-07-27-yt-TB87gilqs8Q]] | ★ |
 | 2019-09-06 | The Most Dangerous Linux Commands | [[2019-09-06-yt-cChGFpElMEM]] | ★ |
 | 2019-09-15 | UNLIMITED Google Drive Storage (2019, obsolete) | [[2019-09-15-yt-oPrKUSizQVQ]] |  |
+| 2019-09-28 | How WiFi 6 (REALLY) works (ft. Clear to Send Podcast) | [[2019-09-28-yt-rcb27jWOwD0]] |  |
+| 2019-10-07 | Become an IT Project Manager - PMP (ft. Jeremy Cioara) | [[2019-10-07-yt-5_PuobVHeLg]] |  |
 | 2020-01-26 | this year....I'm going to become a HACKER!! | [[2020-01-26-yt-bTPpKxuV-CY]] | ★ |
 | 2020-02-06 | OVERWHELMED with technology (IT) | [[2020-02-06-yt-2IY1U5ljeFE]] | ★ |
 | 2020-02-16 | UniFi Dream Machine review | [[2020-02-16-yt-BezoNUflqXo]] |  |
@@ -90,6 +92,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-05-09 | get started with Ansible Network Automation | [[2020-05-09-yt-OWKPxAgh9DU]] |  |
 | 2020-05-16 | IT certifications: one thing I HATE! | [[2020-05-16-yt-0fJz-xMrqFw]] |  |
 | 2020-07-17 | HUGE announcement!! (quit job → full-time YouTube) | [[2020-07-17-yt--pNupSPAgJA]] | ★ |
+| 2020-07-22 | how social engineering DESTROYED Twitter (ft. Marcus Hutchins) | [[2020-07-22-yt-GE5J_26Ut1Q]] | ★ |
 | 2020-08-18 | new Kali Linux GUI on Windows 10 (WSL 2) | [[2020-08-18-yt-dgdOILL1184]] |  |
 | 2020-08-28 | setup a FREE VPN server in the cloud (AWS) | [[2020-08-28-yt-m-i2JBtG4FE]] |  |
 | 2020-09-09 | 5G will change gaming FOREVER | [[2020-09-09-yt-Bbqdq2sR6SY]] |  |
@@ -112,6 +115,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-06-03 | will my dad LOSE his job? (dad = trad IT infra eng) | [[2021-06-03-yt-HwSZe00ZSuU]] | ★ |
 | 2021-06-04 | apt/dpkg/git/pip // Linux for Hackers // EP 5 | [[2021-06-04-yt-vX3krP6JmOY]] | ★ |
 | 2021-06-25 | You need a NAS RIGHT NOW!! (his hybrid-cloud business) | [[2021-06-25-yt-ZMsHCCyBqEQ]] | ★ |
+| 2021-07-15 | i built a Raspberry Pi SUPER COMPUTER!! (k3s + Rancher) | [[2021-07-15-yt-X9fSMGkjtug]] | ★ |
 | 2021-08-06 | start/stop/restart Linux services // Linux for Hackers // EP 6 | [[2021-08-06-yt-wOWhfNB_r-0]] | ★ |
 | 2021-09-17 | i hate talking on the phone….. | [[2021-09-17-yt-zV8KQNJMKS8]] | ★ |
 | 2021-09-21 | let's go deeper into Python!! // Python // EP 2 | [[2021-09-21-yt-IXr0-J5XXMA]] | ★ |
@@ -146,6 +150,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2022-06-29 | i KILLED my Linux computer!! | [[2022-06-29-yt-ugt3PBeqHIo]] | ★ |
 | 2022-07-01 | ditch Google!! (private search engine) | [[2022-07-01-yt-ifT6npY39Dw]] | ★ |
 | 2022-07-19 | What is a Subnet Mask??? | [[2022-07-19-yt-oZGZRtaGyG8]] |  |
+| 2022-07-25 | find HIDDEN urls!! (subdomain enumeration, ft. HakLuke) | [[2022-07-25-yt-mYCyZgAv_zE]] | ★ |
 | 2022-08-10 | the 30 Day Cert Challenge | [[2022-08-10-yt-NeIrWXIj1m4]] | ★ |
 | 2022-08-24 | a BASH script PUSH-UP counter | [[2022-08-24-yt-nW9M0MQinfg]] |  |
 | 2022-08-29 | build a meme Python website (Flask) | [[2022-08-29-yt-5aYpkLfkgRE]] |  |
@@ -394,4 +399,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_372 videos ingested (L2) so far._
+_377 videos ingested (L2) so far._
