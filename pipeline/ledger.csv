@@ -462,30 +462,30 @@ yt-j8cYlXd_eVw,short,It only takes one photo,@NetworkChuck,https://www.youtube.c
 yt-_x5xBe7tDs4,short,The Most Popular I.T. Cert just got better,@NetworkChuck,https://www.youtube.com/watch?v=_x5xBe7tDs4,NA,2026-07-22,skipped,3,,dup-of:yt-ay8t4zyalK4 (short clip of long-form); Stage C title-dedup
 yt-uJ3G3dA4Y2A,short,5 Mac Studios = 1 insane AI Supercomputer,@NetworkChuck,https://www.youtube.com/watch?v=uJ3G3dA4Y2A,NA,2026-07-22,skipped,3,,dup-of:yt-Ju0ndy2kwlw (short clip of long-form); Stage C title-dedup
 yt-jPZAqiQ0TtU,short,How to get a job in IT (2025),@NetworkChuck,https://www.youtube.com/watch?v=jPZAqiQ0TtU,NA,2026-07-22,skipped,3,,dup-of:yt-neROHgRzhNA (short clip of long-form); Stage C title-dedup
-yt-OKrXf7SMdww,short,DeepSeek in Deep Trouble! (Internal database exposed),@NetworkChuck,https://www.youtube.com/watch?v=OKrXf7SMdww,NA,2026-07-22,L0-discovered,3,,views=154000
+yt-OKrXf7SMdww,short,DeepSeek in Deep Trouble! (Internal database exposed),@NetworkChuck,https://www.youtube.com/watch?v=OKrXf7SMdww,2025-01-29,2026-07-22,L2,3,cybersecurity;ai-tools,short: DeepSeek exposed internal DB; reinforces run-AI-locally/own-your-data; L3-cand
 yt-fDWaUwguPp8,short,Can you make your own voice assistant?,@NetworkChuck,https://www.youtube.com/watch?v=fDWaUwguPp8,NA,2026-07-22,skipped,3,,dup-of:yt-XvbVePuP7NY (short clip of long-form); Stage C title-dedup
-yt-NsUVKI40DmE,short,A history of time in computers,@NetworkChuck,https://www.youtube.com/watch?v=NsUVKI40DmE,NA,2026-07-22,L0-discovered,3,,views=320000
-yt-I4C8_HeSj-E,short,"Cybersecurity, in SPACE!!",@NetworkChuck,https://www.youtube.com/watch?v=I4C8_HeSj-E,NA,2026-07-22,L0-discovered,3,,views=41000
+yt-NsUVKI40DmE,short,A history of time in computers,@NetworkChuck,https://www.youtube.com/watch?v=NsUVKI40DmE,2025-01-21,2026-07-22,L2,3,networking,short: history of computer timekeeping -> NTP/PTP sync
+yt-I4C8_HeSj-E,short,"Cybersecurity, in SPACE!!",@NetworkChuck,https://www.youtube.com/watch?v=I4C8_HeSj-E,2024-12-23,2026-07-22,L2,3,cybersecurity,short: cybersecurity in space (Bitdefender-sponsored but genuine framing)
 yt-Dl7jHJP18qE,short,The open-source Alexa,@NetworkChuck,https://www.youtube.com/watch?v=Dl7jHJP18qE,NA,2026-07-22,skipped,3,,dup-of:yt-An4IapvutzM (short clip of long-form); Stage C title-dedup
-yt-XycW6U32h20,short,Which Network Doesn’t Belong?,@NetworkChuck,https://www.youtube.com/watch?v=XycW6U32h20,NA,2026-07-22,L0-discovered,3,,views=75000
+yt-XycW6U32h20,short,Which Network Doesn’t Belong?,@NetworkChuck,https://www.youtube.com/watch?v=XycW6U32h20,2024-12-06,2026-07-22,L2,3,networking;certifications-career,"short: CCNA quiz (RFC1918, EIGRP/OSPF); Boson plug"
 yt-1gZm_fp2JB0,short,the BEST home automation use case,@NetworkChuck,https://www.youtube.com/watch?v=1gZm_fp2JB0,NA,2026-07-22,skipped,3,,dup-of:yt-k02P5nghmfs (short clip of long-form); Stage C title-dedup
 yt-Y7d4WTvccOs,short,I’m Replacing Alexa,@NetworkChuck,https://www.youtube.com/watch?v=Y7d4WTvccOs,NA,2026-07-22,skipped,3,,dup-of:yt-XvbVePuP7NY (short clip of long-form); Stage C title-dedup
 yt-6drXjzANhUU,short,Using AI to prevent SCAMS,@NetworkChuck,https://www.youtube.com/watch?v=6drXjzANhUU,NA,2026-07-22,skipped,3,,dup-of:yt-OhyVtuYxRU8 (short clip of long-form); Stage C title-dedup
 yt-5MUGYkD_MfU,short,I forced all my employees to make a website,@NetworkChuck,https://www.youtube.com/watch?v=5MUGYkD_MfU,NA,2026-07-22,skipped,3,,dup-of:yt-2VvWM6gdDlk (short clip of long-form); Stage C title-dedup
-yt-UNTZ0rouDaQ,short,Let AI handle the dumb tickets,@NetworkChuck,https://www.youtube.com/watch?v=UNTZ0rouDaQ,NA,2026-07-22,L0-discovered,3,,views=56000
-yt-VyjxaDm2NwY,short,a raspberry pi docker container?!?,@NetworkChuck,https://www.youtube.com/watch?v=VyjxaDm2NwY,NA,2026-07-22,L0-discovered,3,,views=388000
-yt-Td1OPnEdIuQ,short,Do you know your protocols?,@NetworkChuck,https://www.youtube.com/watch?v=Td1OPnEdIuQ,NA,2026-07-22,L0-discovered,3,,views=121000
-yt-LhpGFDWJgKk,short,The new ChatGPT just dropped….it solves a big problem,@NetworkChuck,https://www.youtube.com/watch?v=LhpGFDWJgKk,NA,2026-07-22,L0-discovered,3,,views=230000
-yt-MXqcdQXFP8U,short,For when you can’t afford a Cybersecurity Engineer……,@NetworkChuck,https://www.youtube.com/watch?v=MXqcdQXFP8U,NA,2026-07-22,L0-discovered,3,,views=49000
-yt-w2NsWavoNrE,short,Which type of RAM do Laptops use??,@NetworkChuck,https://www.youtube.com/watch?v=w2NsWavoNrE,NA,2026-07-22,L0-discovered,3,,views=55000
-yt-LI7he7KYSLY,short,"over 24,000 GPUs!!!",@NetworkChuck,https://www.youtube.com/watch?v=LI7he7KYSLY,NA,2026-07-22,L0-discovered,3,,views=86000
-yt-TSqGHapvNr8,short,Hackers are looking at your website,@NetworkChuck,https://www.youtube.com/watch?v=TSqGHapvNr8,NA,2026-07-22,L0-discovered,3,,views=821000
-yt-G_99HV69hxg,short,How do touchscreens work?,@NetworkChuck,https://www.youtube.com/watch?v=G_99HV69hxg,NA,2026-07-22,L0-discovered,3,,views=239000
+yt-UNTZ0rouDaQ,short,Let AI handle the dumb tickets,@NetworkChuck,https://www.youtube.com/watch?v=UNTZ0rouDaQ,2024-11-14,2026-07-22,skipped,3,,pure CIS Copilot sponsor spot; Stage C
+yt-VyjxaDm2NwY,short,a raspberry pi docker container?!?,@NetworkChuck,https://www.youtube.com/watch?v=VyjxaDm2NwY,2024-09-25,2026-07-22,L2,3,homelab-selfhosting;linux-terminal,short: Raspberry Pi OS in a Docker container
+yt-Td1OPnEdIuQ,short,Do you know your protocols?,@NetworkChuck,https://www.youtube.com/watch?v=Td1OPnEdIuQ,2024-09-19,2026-07-22,L2,3,networking;certifications-career,short: protocol/port quiz (DNS/DHCP/FTP/HTTP/HTTPS/TFTP); CCNA prep
+yt-LhpGFDWJgKk,short,The new ChatGPT just dropped….it solves a big problem,@NetworkChuck,https://www.youtube.com/watch?v=LhpGFDWJgKk,2024-09-12,2026-07-22,L2,3,ai-tools,short: ChatGPT o1-preview reasoning model (strawberry problem); AI-enthusiast; L3-cand
+yt-MXqcdQXFP8U,short,For when you can’t afford a Cybersecurity Engineer……,@NetworkChuck,https://www.youtube.com/watch?v=MXqcdQXFP8U,2024-09-03,2026-07-22,skipped,3,,pure Bitdefender sponsor spot; Stage C
+yt-w2NsWavoNrE,short,Which type of RAM do Laptops use??,@NetworkChuck,https://www.youtube.com/watch?v=w2NsWavoNrE,2024-08-29,2026-07-22,L2,3,certifications-career,short: CompTIA A+ hardware quiz (SO-DIMM/MFA)
+yt-LI7he7KYSLY,short,"over 24,000 GPUs!!!",@NetworkChuck,https://www.youtube.com/watch?v=LI7he7KYSLY,2024-08-13,2026-07-22,L2,3,networking;ai-tools;cloud-devops,"short: Meta Llama 3.1 24k-GPU training network (RoCE, CLOS, ECMP); AI-networking; L3-cand"
+yt-TSqGHapvNr8,short,Hackers are looking at your website,@NetworkChuck,https://www.youtube.com/watch?v=TSqGHapvNr8,2024-08-13,2026-07-22,L2,3,cybersecurity,short: web-enumeration recon (gobuster/whatweb/robots.txt); HTB CPTS study; L3-cand
+yt-G_99HV69hxg,short,How do touchscreens work?,@NetworkChuck,https://www.youtube.com/watch?v=G_99HV69hxg,2024-08-08,2026-07-22,L2,3,certifications-career,short: touchscreen explainer (resistive vs capacitive); A+/fundamentals
 yt-Wq2g3JxaM3k,short,Hacking Tools,@NetworkChuck,https://www.youtube.com/watch?v=Wq2g3JxaM3k,NA,2026-07-22,skipped,3,,short dup-of long-form (topic clip); Stage C title-dedup
 yt-pVFq4opI9gM,short,You need these skills to become a hacker,@NetworkChuck,https://www.youtube.com/watch?v=pVFq4opI9gM,NA,2026-07-22,skipped,3,,dup-of:yt-5xWnmUEi1Qw (short clip of long-form); Stage C title-dedup
-yt-c1yNcSXzyB4,short,the AI HelpDesk is here!!,@NetworkChuck,https://www.youtube.com/watch?v=c1yNcSXzyB4,NA,2026-07-22,L0-discovered,3,,views=56000
+yt-c1yNcSXzyB4,short,the AI HelpDesk is here!!,@NetworkChuck,https://www.youtube.com/watch?v=c1yNcSXzyB4,2024-07-25,2026-07-22,skipped,3,,pure CISA helpdesk-AI sponsor spot; Stage C
 yt-TTdPDXTg8Ao,short,I'm going to be a hacker,@NetworkChuck,https://www.youtube.com/watch?v=TTdPDXTg8Ao,NA,2026-07-22,skipped,3,,dup-of:yt-bTPpKxuV-CY (short clip of long-form); Stage C title-dedup
-yt-mDJtWX2uc-U,short,Helpdesk IT Challenge!! How many can you get right?,@NetworkChuck,https://www.youtube.com/watch?v=mDJtWX2uc-U,NA,2026-07-22,L0-discovered,3,,views=56000
+yt-mDJtWX2uc-U,short,Helpdesk IT Challenge!! How many can you get right?,@NetworkChuck,https://www.youtube.com/watch?v=mDJtWX2uc-U,2024-07-19,2026-07-22,L2,3,certifications-career,short: CompTIA A+ quiz challenge (w/ editor Mike); Boson
 yt-PCw2kX_gbHQ,short,you can’t build your AI data center like this,@NetworkChuck,https://www.youtube.com/watch?v=PCw2kX_gbHQ,NA,2026-07-22,skipped,3,,dup-of:yt-v477fvbj3rk (short clip of long-form); Stage C title-dedup
 yt-ad-OHmjAU_Y,short,"Dump ChatGPT, use Fabric instead",@NetworkChuck,https://www.youtube.com/watch?v=ad-OHmjAU_Y,NA,2026-07-22,L0-discovered,3,,views=895000
 yt-_ZdeEQ8BeJk,short,What is SNMP?,@NetworkChuck,https://www.youtube.com/watch?v=_ZdeEQ8BeJk,NA,2026-07-22,L0-discovered,3,,views=356000
