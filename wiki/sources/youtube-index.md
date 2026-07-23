@@ -307,9 +307,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-11-27 | I started a blog.....in 2024 (why you should too) | [[2024-11-27-yt-dnE7c0ELEH8]] | ★ |
 | 2024-12-09 | I built a phone system because no one answers me | [[2024-12-09-yt-fdM1V98iIQI]] | ★ |
 | 2024-12-10 | who is this even for?? (Raspberry Pi 500) | [[2024-12-10-yt--49KVplIGDo]] |  |
+| 2024-12-18 | create your own Solana Token...in the terminal | [[2024-12-18-yt-L4ASwqLZVV0]] | ★ |
+| 2024-12-20 | Access ANY Network (remotely) (Twingate ZTNA) | [[2024-12-20-yt-1lZ3FQSv-wI]] | ★ |
+| 2025-01-28 | the hacker's roadmap (get started in IT in 2025) | [[2025-01-28-yt-5xWnmUEi1Qw]] | ★ |
+| 2025-01-31 | the ONLY way to run Deepseek... | [[2025-01-31-yt-7TR-FLWNVHY]] | ★ |
 | 2025-02-04 | Your Remote Desktop SUCKS!! (RustDesk) | [[2025-02-04-yt-EXL8mMUXs88]] |  |
+| 2025-02-06 | Deep Research.....but Open Source | [[2025-02-06-yt-4M7RIbQZ_-w]] | ★ |
 | 2025-02-17 | I built an AI supercomputer with 5 Mac Studios | [[2025-02-17-yt-Ju0ndy2kwlw]] | ★ |
+| 2025-02-21 | ChatGPT Operator is expensive....use this instead (Browser Use) | [[2025-02-21-yt-sxTNACldK3Y]] |  |
 | 2025-02-28 | You're going to get Hacked in 2025 | [[2025-02-28-yt-CxTMHw-M0Yg]] | ★ |
+| 2025-03-13 | I'm changing how I use AI (Open WebUI + LiteLLM) | [[2025-03-13-yt-nQCOTzS5oU0]] | ★ |
 | 2025-04-23 | Zima Board 2 (replace your homelab?) | [[2025-04-23-yt-6WYBvbn-mgQ]] |  |
 | 2025-07-16 | You NEED to Use n8n RIGHT NOW!! | [[2025-07-16-yt-ONgECvZNI3o]] | ★ |
 | 2025-08-12 | Hacking AI is TOO EASY | [[2025-08-12-yt-Qvx2sVgQ-u0]] | ★ |
@@ -335,4 +342,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_313 videos ingested (L2) so far._
+_320 videos ingested (L2) so far._
