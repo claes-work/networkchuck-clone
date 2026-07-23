@@ -2,7 +2,7 @@
 type: hub
 domain: certifications-career
 created: 2026-07-14
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Certifications & Career — hub
@@ -240,7 +240,12 @@ Cameron):
   throughline across the whole domain: hustle, keep learning, and "let's get certified
   together."
 
-### The dated "how to get started in IT / hacker's roadmap" (2023)
+### The dated "how to get started in IT / hacker's roadmap" (2019 → 2022 → 2023 → 2025)
+
+> ⚠️ POSITION EVOLVES: Chuck re-cuts his getting-started roadmap every year or two.
+> Anchor any recommendation to its date and present the **latest (2025)** version as
+> current; the earlier roadmaps (2019/2022/2023) are dated waypoints on the same trail,
+> not competing advice.
 
 - **The 2023 "how to get started in IT" roadmap** is Chuck's refreshed, dated
   step-by-step on-ramp into IT/cybersecurity — the next point on the same trail as the
@@ -248,8 +253,15 @@ Cameron):
   [[../../sources/2023-01-05-yt-uTAaFExLgwQ]]). Treat it as a dated companion to, not a
   replacement of, the canonical 2018 CCNA job playbook
   ([[../../sources/2018-12-12-yt-Azm4woyCNBA]]) and the 2022 job playbook
-  ([[../../sources/2022-08-08-yt-e2h_BreIxaQ]]); the roadmap keeps evolving, so present
-  the latest dated version as current.
+  ([[../../sources/2022-08-08-yt-e2h_BreIxaQ]]).
+- **The 2025 hacker's roadmap is the CURRENT getting-started-in-IT/cyber sequence** —
+  Chuck's latest dated on-ramp aimed at breaking into cybersecurity (2025-01-28,
+  [[../../sources/2025-01-28-yt-5xWnmUEi1Qw]]). Signature moves: a **"Phase Zero" —
+  apply for jobs early** (before you feel ready), **Linux + Python running throughout**
+  the whole path (not a later add-on), and a cert/skill ladder of
+  **eJPT / PenTest+ → HTB CPTS → OSCP**. This **supersedes, by date**, the earlier
+  2019/2022/2023 roadmaps and job playbooks above; present it as current and treat the
+  older ones as the evolving trail behind it.
 
 ### Current cert stance (2025): the new CompTIA A+ and CCNA's future
 
@@ -283,6 +295,34 @@ Cameron):
   work with, and serving the customer are what actually differentiate a career, echoing
   his "X-factor" / soft-skills throughline elsewhere in this domain (2018-12-14,
   [[../../sources/2018-12-14-yt-T1-r_feNNnw]]).
+
+### Career outlook in the AI era & external validation (2024–2025)
+
+- **Skills-based hiring is going mainstream — external validation of Chuck's founding
+  thesis.** A 2024 White House push toward **skills-based hiring** (valuing demonstrable
+  certs + skills over a four-year degree) is authoritative, outside-Chuck confirmation of
+  the "certs + experience over a degree" line he's run since 2017 (2024-05-01,
+  [[../../sources/2024-05-01-yt-aEuMRZzqFH8]]). Use it as corroboration, not as a
+  Chuck-originated claim.
+- **The future of network engineering = adapt to AI/automation, don't fear it.** Chuck's
+  dated take on where the network-engineering role is heading: the fundamentals still
+  matter, but engineers must layer on automation and AI-adjacent skills (2025-06-13,
+  [[../../sources/2025-06-13-yt-4hkJX7LBdXc]]). Continues the "unicorn / next-generation
+  network engineer" throughline (networking + coding + Linux) above.
+- **AI-anxiety career reframe: jobs change, they don't vanish.** For people scared AI will
+  erase IT careers, Chuck reframes it — the work shifts rather than disappears, and the
+  answer is to keep learning and ride the change (2025-06-25,
+  [[../../sources/2025-06-25-yt-3BXE0e3QZ4U]]). Same optimistic "keep learning, adapt"
+  posture as his imposter-syndrome and "never too old" encouragement.
+- **Build a portfolio website for your career (2024 update).** A refreshed, dated take on
+  standing out to employers by publishing a personal portfolio site — a modern companion
+  to the resume/LinkedIn tactics in the CCNA job playbook (2024-04-26,
+  [[../../sources/2024-04-26-yt-EXfFBEuCAr0]]).
+- **In-person IT community is real career value — Cisco Live 2025.** Chuck frames
+  attending Cisco Live (2025) and meeting the community face-to-face as a genuine career
+  investment (networking with people, not just gear) — echoing his long-running advice to
+  join user groups and turn competition into teamwork (2025-06-21,
+  [[../../sources/2025-06-21-yt-tTQ4vfCdMYw]]).
 
 ## Source pages
 
@@ -346,5 +386,11 @@ Pipeline state per video is in [[../../pipeline/ledger.csv]]; full channel list 
 - 2023-01-05 — How to get started in IT (2023 hacker's roadmap) — [[../../sources/2023-01-05-yt-uTAaFExLgwQ]]
 - 2023-03-27 — 30 Windows Commands you CAN'T live without — [[../../sources/2023-03-27-yt-prVHU1fLR20]]
 - 2024-04-03 — 60 Hacking Commands you NEED to know — [[../../sources/2024-04-03-yt-gL4j-a-g9pA]]
+- 2024-04-26 — Build a portfolio website for your career (2024 update) — [[../../sources/2024-04-26-yt-EXfFBEuCAr0]]
+- 2024-05-01 — White House skills-based hiring (certs+skills > degree) — [[../../sources/2024-05-01-yt-aEuMRZzqFH8]]
+- 2025-01-28 — How to get started in cyber (2025 hacker's roadmap — CURRENT) — [[../../sources/2025-01-28-yt-5xWnmUEi1Qw]]
 - 2025-02-07 — The NEW CompTIA A+ (220-1201/1202) — [[../../sources/2025-02-07-yt-ay8t4zyalK4]]
+- 2025-06-13 — The future of network engineering (adapt to AI/automation) — [[../../sources/2025-06-13-yt-4hkJX7LBdXc]]
+- 2025-06-21 — Cisco Live 2025 (in-person IT community as career value) — [[../../sources/2025-06-21-yt-tTQ4vfCdMYw]]
+- 2025-06-25 — AI-anxiety career reframe (jobs change, not vanish) — [[../../sources/2025-06-25-yt-3BXE0e3QZ4U]]
 - 2025-09-10 — The FUTURE of the CCNA (interview w/ Cisco's Ryan Rose) — [[../../sources/2025-09-10-yt-1tw3O2iOt1U]]

@@ -2,7 +2,7 @@
 type: hub
 domain: linux-terminal
 created: 2026-07-14
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Linux & Terminal — hub
@@ -23,6 +23,18 @@ Linux, bash, the command line, and sysadmin skills — making the terminal appro
 
 - **Kali Linux on a Pi as a portable hacking station.** (2019-08-27) Chuck runs Kali Linux on a credit-card-sized Raspberry Pi as a full "hacking station" to demonstrate public-WiFi attacks (evil twin, deauth, ARP/man-in-the-middle) — reinforcing the Linux command line as the environment where security work actually happens, and doubling as motivation to learn Linux by doing something exciting (with permission). [[../../sources/2019-08-27-yt-q7HkIwbj3CM]]
 
+- **Terminal-first philosophy — "never leave the terminal."** (2024-09-06) Chuck leans into the idea that a serious Linux user can do almost everything without leaving the command line, showcasing CLI replacements for GUI tasks (including a text-based web browser) so work stays inside the terminal. The through-line: the terminal isn't a fallback, it's the preferred environment. [[../../sources/2024-09-06-yt-6h9sjYm9vTE]]
+
+- **Pro-desktop-Linux stance — forcing the team off Windows/Mac.** (2024-08-07) Chuck moves his whole team onto desktop Linux, standing up a ThinLinc/Ubuntu 20.04 terminal server so everyone works in a Linux environment (with terminal access central to it). He's honest about the friction — desktop Linux isn't frictionless — but treats the switch as worth it, extending the "learn by living in it" ethos from the Pi to the daily-driver desktop. [[../../sources/2024-08-07-yt-qdo5lMR1lX4]]
+
+- **Linux on Windows / Windows on Linux — WSL2, Win-KeX, and VMs.** (2024-07-03) Chuck walks through running the two OS families inside each other: WSL2 for a real Linux command line on Windows, Kali's Win-KeX for a Kali desktop over WSL, and full VMs for the reverse — practical bridges that let you get a Linux terminal without abandoning your existing machine. [[../../sources/2024-07-03-yt-vxTW22y8zV8]]
+
+- **Clipboard-to-pipeline plumbing — xclip + pbcopy/pbpaste aliases.** (2024-05-17) In his `fabric` AI workflow, Chuck wires the system clipboard into the command line: `xclip`-based `pbcopy`/`pbpaste` aliases (macOS-style names on Linux) so he can pipe copied text straight into CLI tools and pipe results back out — a concrete example of treating the clipboard as just another stream in a Unix pipeline. [[../../sources/2024-05-17-yt-aMzdeZ8vGXQ]]
+
+- **Modernizing the toolbox — 37 Linux commands/tools for 2025.** (2025-05-22) Chuck rounds up modern command-line tools that update or replace the classic utilities, pitching a refreshed CLI toolkit for 2025 — reinforcing that the terminal keeps evolving and it's worth periodically upgrading your daily commands. [[../../sources/2025-05-22-yt-6P-vjgPx9ww]]
+
+- **Hiding files from the command line.** (2024-09-16) Chuck demonstrates Linux/CLI methods for hiding files "like a hacker," using the shell and filesystem tricks as the vehicle — command-line know-how framed through a security lens (also cross-listed under cybersecurity). [[../../sources/2024-09-16-yt-VcqtWsbSbgU]]
+
 Related domains: the Pi/homelab hardware and self-hosting angle lives in [[../homelab-selfhosting/homelab-selfhosting]]; the Kali/ethical-hacking material is covered under [[../cybersecurity/cybersecurity]]; automation, Docker, and Ansible tooling built on top of Linux sit in [[../cloud-devops/cloud-devops]].
 
 ## Source pages
@@ -31,3 +43,9 @@ Related domains: the Pi/homelab hardware and self-hosting angle lives in [[../ho
 - (2018-11-23) [[../../sources/2018-11-23-yt-rPjtZUBBPEU]] — Re-Learning IT after MEMORY LOSS (interview w/ Shawn Powers)
 - (2019-08-27) [[../../sources/2019-08-27-yt-q7HkIwbj3CM]] — Hacking PUBLIC WiFi with a Raspberry Pi and Kali Linux
 - (2020-02-28) [[../../sources/2020-02-28-yt-vbaJcRxASo0]] — How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding)
+- (2024-05-17) [[../../sources/2024-05-17-yt-aMzdeZ8vGXQ]] — fabric AI workflow (xclip + pbcopy/pbpaste clipboard piping)
+- (2024-07-03) [[../../sources/2024-07-03-yt-vxTW22y8zV8]] — Linux on Windows / Windows on Linux (WSL2, Win-KeX, VMs)
+- (2024-08-07) [[../../sources/2024-08-07-yt-qdo5lMR1lX4]] — Forcing my team onto desktop Linux (ThinLinc/Ubuntu 20.04 terminal server)
+- (2024-09-06) [[../../sources/2024-09-06-yt-6h9sjYm9vTE]] — Never leave the terminal
+- (2024-09-16) [[../../sources/2024-09-16-yt-VcqtWsbSbgU]] — Hide files like a hacker (Linux/CLI methods)
+- (2025-05-22) [[../../sources/2025-05-22-yt-6P-vjgPx9ww]] — 37 modern Linux commands/tools for 2025

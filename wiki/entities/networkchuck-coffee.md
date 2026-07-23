@@ -26,6 +26,17 @@ video) and is positioned as the way viewers **fund the free IT training on YouTu
 - **Products:** single-origin coffees, blends, and merch (tees, mugs). Domains:
   `store.networkchuck.com` and `networkchuck.coffee`.
 
+## Expansion to physical shops (~2023)
+
+- **[2023-05-19]** Chuck states he is **"launching some new coffee shops"** and needs help
+  designing their networks — indicating NetworkChuck Coffee expanded beyond the original
+  online store to **physical coffee shop location(s)**. The exact opening date/address/count
+  is not given in the source; it is a physical location referenced as of the video.
+  [🗣️ [[wiki/sources/2023-05-19-yt-B1vqKQIPxr0]] — "subnetting my coffee shop"]
+- Each shop is described (partly as a running gag) as having its own on-site network: ~5
+  employees, one server, two Raspberry Pis, two wireless APs, and up to 20 guests per shop,
+  with "every single coffee shop has their own network admin." [🗣️ same source]
+
 ## Brand meaning
 
 The coffee is Chuck's personal **"coffee + code / coffee + IT"** identity — coffee as the IT

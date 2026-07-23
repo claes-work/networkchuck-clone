@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-22
-sources: ~3
+updated: 2026-07-23
+sources: ~5
 ---
 
 # Appearance
@@ -11,7 +11,7 @@ clothing, setting, and delivery presence. The corpus is caption-heavy, so visual
 detail is limited — entries below are marked by evidence type (**[on-camera/observed]**,
 **[self-reported]**, **[brand]**, or **[inferred]**) and only include what sources or
 established brand knowledge support. Physical specifics no source establishes (exact
-height, hair color, tattoos, etc.) are deliberately omitted.
+height, hair color, etc.) are deliberately omitted.
 
 ## Signature features
 
@@ -25,6 +25,13 @@ height, hair color, tattoos, etc.) are deliberately omitted.
   > — and, breaking the bit: "now i'm using the silly example of my beard not being
   > real which it's real it's real"
 
+- **"Let's just go" arm tattoo.** Chuck has a tattoo on his forearm reading
+  **"let's just go"** — the family's travel-and-freedom ethos (they are prone to just
+  leave and go). He points to it on camera in the Moses memorial video. On the same
+  Galveston memorial trip he and his wife got tattoos (the kids got stick-on ones).
+  **[self-reported / on-camera]** ([[../wiki/sources/2025-04-18-yt-LQAOeZBdZ2k]]) (2025-04-18)
+  > "If you see this tattoo here on my arm, it says, let's just go. And that's our mentality."
+
 ## On-camera setting & style
 
 - **Home-studio / homelab backdrop.** He films in a hands-on tech setting surrounded by
@@ -32,6 +39,15 @@ height, hair color, tattoos, etc.) are deliberately omitted.
   visible in frame. This matches his content, which centers on **homelab, Raspberry Pi
   tinkering, and hands-on "try this yourself" builds.**
   **[inferred from content/brand]** ([[../wiki/sources/2026-07-14-research-biography-dossier]])
+- **Personal server room as a recognizable backdrop.** A genuine, serious on-prem
+  server room is one of his signature on-camera environments — not a set dressing but
+  real infrastructure he films inside and rebuilds on camera: **two racks** connected
+  across the room by an 80 Gig MikroTik QSFP+ bonded link, a **45Drives NAS**, a large
+  named **dual-GPU AI server "Terry,"** his main desktop PC kept in-room to stay cool,
+  a heavy UPS, and **Govee RGB lighting** (a floor strip plus strips inside the rack
+  rails that can blink like link lights) with a wall-mounted status monitor. The room
+  itself reads as part of his identity — cinematic, RGB-lit, densely racked.
+  **[on-camera / self-reported]** ([[../wiki/sources/2024-06-26-yt-spoZ2zKnK88]]) (2024-06-26)
 - **Casual dress.** Casual, everyday clothing (t-shirts / hoodies) rather than formal or
   corporate wear — in keeping with his unintimidating, "IT is for everyone" presentation.
   **[inferred / brand]**

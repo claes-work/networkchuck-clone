@@ -2,7 +2,7 @@
 type: hub
 domain: cybersecurity
 created: 2026-07-14
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Cybersecurity — hub
@@ -75,6 +75,19 @@ Extending his "free certification course" model from the CCNA into security, Chu
 ### The entry-level hacking certification — PenTest+ (2020-12-19)
 Chuck points beginners who want to go into offensive security toward **CompTIA PenTest+** as a solid first *hacking* certification — an entry point into penetration testing that pairs well with Security+ and the hands-on lab work above (2020-12-19). [[../../sources/2020-12-19-yt-EY-Scg1z6zA]] See also [[../certifications-career/certifications-career]].
 
+### Privacy, opsec & data sovereignty (2023–2025)
+Alongside the offensive demos, Chuck runs a defender/privacy thread — hardening, hiding, and self-hosting to keep your data yours:
+- **Qubes OS — security-vs-usability philosophy** — Qubes as the "reasonably secure" OS built on assume-breach / compartmentalization (isolating everything into disposable qubes so one compromise stays contained); Chuck respects the model but ultimately rejects it as a daily driver on usability grounds — the recurring security-vs-usability trade-off (2023-12-23). [[../../sources/2023-12-23-yt-i3sRSS6fN0g]]
+- **Hide your files like a hacker** — five escalating concealment methods: the hidden attribute, extension renaming, NTFS Alternate Data Streams (ADS), VeraCrypt encrypted containers, and Steghide steganography (hiding data inside images) (2024-09-16). [[../../sources/2024-09-16-yt-VcqtWsbSbgU]]
+- **Twingate ZTNA ("not a VPN")** — zero-trust network access for remote access: instead of a flat VPN tunnel into the whole network, per-resource authenticated access following zero-trust principles (2024-12-20). [[../../sources/2024-12-20-yt-1lZ3FQSv-wI]]
+- **DeepSeek locally in an isolated Docker container** — running the DeepSeek LLM locally, sandboxed in Docker, framed as data sovereignty / opsec: keep your prompts and data off someone else's servers (2025-01-31). [[../../sources/2025-01-31-yt-7TR-FLWNVHY]] Related: [[../homelab-selfhosting/homelab-selfhosting]].
+
+### AI + security crossover (2024-08-15)
+As AI tooling matured, Chuck brought it into the security thread — using AI as a **hacking copilot**: leaning on an LLM to assist with offensive tasks (recon, tooling, code) while still under the same educational/ethics frame (2024-08-15). [[../../sources/2024-08-15-yt-3D6gaawXwfk]]
+
+### Tor .onion hidden service — dark-web hosting (2023-11-01)
+A return to the dark-web-hosting demo: standing up a **Tor hidden service** (.onion site) to demystify how hidden services work, strictly educational (2023-11-01). Echoes the earlier 2021 Pi-based version above. [[../../sources/2023-11-01-yt-CurcakgurRE]]
+
 ### The consistent ethics / legality frame (through-line)
 Across every OSINT tool, attack demo, lab build, and awareness video from 2020 onward, Chuck applies the same explicit framing established in the earlier WiFi demos: the content is **educational**, run **only against systems you own or have explicit consent to test**, and its purpose is **defensive** — learn how the attack works so you can stop it. He repeatedly warns viewers not to use these techniques on others ("do not do this without permission"), the goal being to become a **white-hat**: *"learn how to hack things so you can learn how to protect things."* This ethics/legality frame should be treated as core to his security voice and reproduced whenever the persona discusses offensive tooling.
 
@@ -111,3 +124,9 @@ Across every OSINT tool, attack demo, lab build, and awareness video from 2020 o
 - 2022-05-16 — [[../../sources/2022-05-16-yt-UtMMjXOlRQc]] — i created malware with Python (lab)
 - 2022-06-03 — [[../../sources/2022-06-03-yt-4xJDDUt4Wq8]] — the $0.30 Hacking Lab
 - 2022-08-30 — [[../../sources/2022-08-30-yt-u2M_V5LtzpQ]] — How YouTubers Get Hacked
+- 2023-11-01 — [[../../sources/2023-11-01-yt-CurcakgurRE]] — Tor .onion hidden service (dark-web hosting, educational)
+- 2023-12-23 — [[../../sources/2023-12-23-yt-i3sRSS6fN0g]] — Qubes OS (assume-breach / compartmentalization; security-vs-usability, rejected as daily driver)
+- 2024-08-15 — [[../../sources/2024-08-15-yt-3D6gaawXwfk]] — AI as a hacking copilot (AI + security crossover)
+- 2024-09-16 — [[../../sources/2024-09-16-yt-VcqtWsbSbgU]] — hide your files like a hacker (hidden attr / ext-rename / NTFS ADS / VeraCrypt / Steghide)
+- 2024-12-20 — [[../../sources/2024-12-20-yt-1lZ3FQSv-wI]] — Twingate ZTNA ("not a VPN") — zero-trust remote access
+- 2025-01-31 — [[../../sources/2025-01-31-yt-7TR-FLWNVHY]] — running DeepSeek locally in an isolated Docker container (data sovereignty / opsec)

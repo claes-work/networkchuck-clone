@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-22 (synthesis pass 4 — persona v4, appearance seeded)_
+_Last updated: 2026-07-23 (synthesis pass 5 — persona v5, recent-era + Moses bio + 2025 AI-and-careers cluster)_
 
 ## Sources
 
@@ -41,11 +41,11 @@ _Last updated: 2026-07-22 (synthesis pass 4 — persona v4, appearance seeded)_
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline (2012→2026; passes 1–3): 2014 origin → Cisco voice/collab → CBT Nuggets → creator → AI era.
+- [persona/biography.md](persona/biography.md) — dated life timeline (2009→2026; passes 1–5): 2009 marriage → 2014 origin → Cisco voice/collab → CBT Nuggets → creator → AI era → Moses-memorial reflection (self-reported personal grounding).
 - [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
 - [persona/appearance.md](persona/appearance.md) — how he looks/presents: signature beard, coffee, homelab studio (seeded pass 4).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v4** (synthesis pass 4).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v5** (synthesis pass 5).
 
 ## Other
 

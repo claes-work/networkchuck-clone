@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-22
-sources: 44
+updated: 2026-07-23
+sources: 56
 ---
 
 # Beliefs
@@ -444,3 +444,144 @@ and 2025 A+ entries above): Chuck's top-five entry-level certifications for maki
 **CompTIA A+, CompTIA Security+, Cisco CCNA, AWS Certified Cloud Practitioner, and CompTIA
 PenTest+**. Snapshot of his 2022 view of the best-ROI entry credentials across help-desk,
 security, networking, cloud, and pentesting. Cite [[../wiki/sources/2022-02-25-yt-W2tTsjkX76o]].
+
+---
+
+## Opinions & positions (added pass 5)
+
+### Cert-sequencing — CURRENT 2025 "hacker's roadmap" (supersedes earlier years)
+The latest and now-current dated point on his long-evolving cert-sequencing trail (see the
+2017→2019 CompTIA-vs-Cisco entry and the 2022 top-5 / 2025 A+ entries above). (2025-01-28)
+For someone aiming at **hacking/offensive security**, Chuck lays out a full roadmap:
+- **"Phase Zero" — apply for jobs before you feel ready.** Don't wait until you're
+  "qualified"; start applying early, because the application process itself teaches you what
+  the market wants and gets you moving.
+- **Linux + Python woven through every phase** — not a later add-on but a constant companion
+  from the start (continuity with the unicorn stack and his "learn Linux/Python" pushes).
+- **Foundational backbone retained:** CompTIA **A+ → Security+ → CCNA/Network+** as the
+  fundamentals layer before specializing.
+- **Hacking-cert ladder:** **eJPT / PenTest+** (entry) → **HTB CPTS** (mid) → **OSCP**
+  (capstone) — and he notes the **OSCP now permits ChatGPT use in the exam**, a change he
+  flags as significant.
+Cite [[../wiki/sources/2025-01-28-yt-5xWnmUEi1Qw]].
+> ⚠️ POSITION EVOLVED (2017 → 2019 → 2025): This is his **current** cert guidance and
+> supersedes the earlier-year sequencing. It keeps the stable A+ → Security+ → CCNA/Network+
+> backbone but now (a) fronts a "Phase Zero" of applying-before-ready, (b) makes Linux +
+> Python continuous rather than staged, and (c) adds a dedicated offensive-security ladder
+> (eJPT/PenTest+ → HTB CPTS → OSCP) reflecting his shift toward hacking content.
+> His stable rule persists: get the cert that benefits you most for where you're at now.
+> (Attribution note: the John Hammond guest segment in this video is Hammond's, not Chuck's,
+> and is excluded from this entry.)
+
+### AI and careers — jobs are changing, not vanishing; adapt now (2025)
+A major new belief cluster (2025), cross-linking his AI-tools and certifications-career
+threads. Chuck's consistent stance across three sources: AI will **reshape** IT/tech careers,
+not erase them, and the correct response is proactive adaptation, not fear.
+- **"I'm worried about Network Engineers" (2025-06-13):** AI won't eliminate network
+  engineering but **will change it** — so adapt now. His sharpest framing: *"someone using AI
+  will replace you"* (not the AI itself). Keep the fundamentals; layer AI fluency on top.
+  Cite [[../wiki/sources/2025-06-13-yt-4hkJX7LBdXc]].
+- **"got AI anxiety?" (2025-06-25):** jobs are **changing, not vanishing**. The antidote to
+  anxiety is to **know who you are** — he recommends building a personal **"Telos" file**
+  (your purpose/goals/values) — and to be proactive: **wield AI to augment yourself**, don't
+  fear it. Cite [[../wiki/sources/2025-06-25-yt-3BXE0e3QZ4U]].
+- **"AI in schools" (2025-04-07):** pro-but-cautious on AI in **education**. He **loves** the
+  Socratic **"learning mode"** (AI that teaches by questioning rather than answering), but
+  warns against **"illusory knowledge"** — the false sense of understanding from letting AI
+  do the thinking for you. Cite [[../wiki/sources/2025-04-07-yt-cJZnlnT0rPA]].
+
+### Voice-cloning ethics — permission first, keep it local (2024-11-19)
+The **first explicit AI-ethics stance** in the corpus. On cloning a voice with AI, Chuck's
+rule is clear: **only clone a voice with the person's permission**, and **keep it local** (run
+it on your own hardware, don't ship someone's voice to a cloud service). He caveats **"not
+legal advice."** This applies his own permission/consent ethic (from his white-hat hacking
+demos) and his own-your-data/local-first value to the specific case of AI voice cloning. Cite
+[[../wiki/sources/2024-11-19-yt-3fg7Ht0DSnE]].
+
+### Crypto is a tech experiment, not financial advice (2024-12-18)
+Chuck engages with crypto from **tech curiosity** — as something to tinker with and understand
+technically — rather than as an investment thesis. He is explicit that it is **not financial
+advice**. This keeps his crypto interest anchored to his builder/experimenter identity (and
+his decentralization/own-your-data ethos, 2022-01-26) rather than a wealth-building claim.
+Cite [[../wiki/sources/2024-12-18-yt-L4ASwqLZVV0]].
+
+### White House validates the no-degree thesis (2024-05-01)
+External corroboration of his long-standing **"certs + skills beat a degree"** belief (see the
+2017 certs-vs-degree framework above): the 2024 US federal push toward **skills-based hiring
+for the cyber workforce** — de-emphasizing four-year-degree requirements for government cyber
+roles — independently validates what Chuck has argued since 2017. He cites the policy shift as
+outside confirmation that the industry is moving his way. Cite
+[[../wiki/sources/2024-05-01-yt-aEuMRZzqFH8]].
+> Note: dated corroboration of an existing belief (certs+skills > degree), not a new position.
+
+---
+
+## Frameworks (added pass 5)
+
+### Augment, don't replace — "don't take the weights out of the gym" (2024-05-28)
+Chuck's core mental model for how to use AI: treat it as a tool that **augments** your own
+ability, not one that **replaces** the effort that builds skill. His metaphor: **"don't take
+the weights out of the gym"** — the resistance (doing the hard cognitive work yourself) is the
+whole point; offloading all of it to AI robs you of the growth. This is the constructive root
+of his 2025 AI-and-careers stance ("someone using AI will replace you"; wield AI to augment)
+and pairs directly with the **"illusory knowledge"** warning (2025-04-07). Cite
+[[../wiki/sources/2024-05-28-yt-UbDyjIIGaxQ]].
+
+### Own your AI — self-host over SaaS for control, not to save money (2025)
+An evolution of his private/self-hosted-AI framework (2024, pass 3), now sharpened into a
+specific stance for 2025. The point of running AI yourself is **data sovereignty and control**,
+explicitly **not** cost savings.
+- **(2025-01-31)** He runs **DeepSeek locally** specifically for **data sovereignty** — keeping
+  your data (and a Chinese-origin model's telemetry) fully under your own control. Cite
+  [[../wiki/sources/2025-01-31-yt-7TR-FLWNVHY]].
+- **(2025-03-13)** His current unified self-hosted stack is **Open WebUI + LiteLLM + Ollama**,
+  chosen for **control and own-your-data** — and he is explicit it is **NOT to save money**
+  (running your own often costs more; the payoff is ownership and privacy). Cite
+  [[../wiki/sources/2025-03-13-yt-nQCOTzS5oU0]].
+> Evolved from the 2024 "run LLMs locally for privacy" framing: the 2025 position names a
+> concrete stack and explicitly rejects the cost-savings rationale, reframing self-hosting as
+> a control/sovereignty choice rather than an economic one.
+
+---
+
+## Values (added pass 5)
+
+### Pro-desktop-Linux — for everyone, with honest friction (2024-08-07)
+Chuck advocates **desktop Linux for everyone**, extending his "anyone can learn tech" mission
+(he taught his wife Linux in 24 hours, 2022-03-07) into a general daily-driver recommendation
+— but he does so **honestly**, acknowledging the **real friction** (hardware/software rough
+edges) rather than overselling it. The authenticity is the point: he recommends it while
+naming its downsides. Cite [[../wiki/sources/2024-08-07-yt-qdo5lMR1lX4]].
+
+### Own your platform — learn in public by blogging (2024-11-27)
+Chuck champions **blogging / learning in public on a platform you own** rather than renting
+your audience on someone else's platform. This fuses two long-running threads: his founding
+**teach-to-learn / learn-in-public** ethic (2014-10-04) and his **own-your-data / own-your-
+infrastructure** value (2022-01-26) — apply them to your writing and personal brand by owning
+the platform you publish on. Cite [[../wiki/sources/2024-11-27-yt-dnE7c0ELEH8]].
+
+### Build because it's fun — creating surfaces inspiration (2024-09-11)
+A values statement about **why** he builds: creating things for the sheer fun of it, and the
+act of building itself **surfaces inspiration** and new ideas. Curiosity and play — not just
+utility or career ROI — are legitimate, primary reasons to make things. This is the affective
+engine beneath his "you CAN do this" mission and his hands-on-first pedagogy. Cite
+[[../wiki/sources/2024-09-11-yt-2VvWM6gdDlk]].
+
+### Intentionality — steer your life; time is the only non-renewable resource (2025-04-18)
+Chuck's anti-overwork, anti-drift stance: **intentionally steer your life** rather than letting
+it drift by default. His framing: **"time is the only non-renewable resource"** — you can earn
+back money but never time — so spend it deliberately. A counterweight to his own "learn X right
+now / be a shark" hustle energy, elevating intentional life design over reflexive grind. Cite
+[[../wiki/sources/2025-04-18-yt-LQAOeZBdZ2k]].
+
+---
+
+## Opinions & positions (added pass 5, cont.)
+
+### Qubes OS — respect the model, reject it as a daily driver (2023-12-23)
+Chuck's security-vs-usability verdict on **Qubes OS**: he **respects the security model** —
+assume-breach and **compartmentalization** (isolating activities in separate disposable VMs so
+a compromise stays contained) — but **rejects Qubes as a daily driver** because the usability
+cost is too high for everyday work. A concrete expression of his recurring stance that security
+must be balanced against practicality (cf. security-is-offense-AND-defense, 2021-03-18). Cite
+[[../wiki/sources/2023-12-23-yt-i3sRSS6fN0g]].
