@@ -162,6 +162,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-05-05 | CPU, GPU…..DPU? | [[2023-05-05-yt-pQrM5L6C-FQ]] | ★ |
 | 2023-05-19 | subnetting my coffee shop (physical Coffee shops) | [[2023-05-19-yt-B1vqKQIPxr0]] | ★ |
 | 2023-07-19 | you need this FREE CyberSecurity tool (Wazuh) | [[2023-07-19-yt-3CaG2GI1kn0]] |  |
+| 2023-07-21 | Subnetting…..but in reverse | [[2023-07-21-yt-6zopTcQFhqM]] |  |
+| 2023-08-15 | the TOP 10 hottest IT Jobs in 2023 | [[2023-08-15-yt-Y_coOg6oHAc]] | ★ |
+| 2023-08-23 | Do you STILL suck at subnetting?? // EP 9 (final) | [[2023-08-23-yt-OD2vG5st4zI]] | ★ |
+| 2023-08-30 | how did I NOT know about this? (ntfy) | [[2023-08-30-yt-poDIT2ruQ9M]] |  |
+| 2023-09-07 | the BIGGEST server project!! (45Drives) | [[2023-09-07-yt-SWyXQfiN_Vo]] | ★ |
+| 2023-10-02 | My SECRET Server Room Project | [[2023-10-02-yt-083-46NVMd8]] | ★ |
+| 2023-10-30 | The Dark Web NEEDS You! (run a Tor relay) | [[2023-10-30-yt-tBnJRraXDc0]] | ★ |
 | 2019-03-02 | CCNA Lab in the Azure Cloud for FREE! (GNS3) | [[2019-03-02-yt-FfJXcoqTvrs]] | ★ |
 | 2019-03-05 | Get your CCNA in 2019 | [[2019-03-05-yt-F9j2aiqK0tw]] | ★ |
 | 2019-03-12 | CCNA Cyber Ops vs CCNA Security | [[2019-03-12-yt-PusUAu9gGiI]] |  |
@@ -307,4 +314,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_285 videos ingested (L2) so far._
+_292 videos ingested (L2) so far._

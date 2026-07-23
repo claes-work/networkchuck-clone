@@ -951,3 +951,20 @@ after the Cloud Browser launch — reinforces the product/Kasm thread. (c) DATED
 of VPNs" (ZTNA/zero-trust replaces VPNs, 2023) — a dated networking-future take (flag for the
 evolving-position trail). (d) Self-hosting continues (helpdesk, Passbolt password manager, Wazuh
 SIEM) — own-your-data + security-tools body. No inline persona edits. Debt now 4.
+
+## [2026-07-22] ingest | yt batch (@NetworkChuck, 8) — 2023-07→2023-10 P2, 7 ingested / 1 rate-limited
+8 P2. 7 ok, 0 skipped, 1 x 429.
+- 2023-07-21 6zopTcQFhqM — subnetting in reverse
+- 2023-08-15 Y_coOg6oHAc — top 10 IT jobs 2023 (dated) ★
+- 2023-08-23 OD2vG5st4zI — You SUCK at Subnetting EP9 (SERIES FINALE) ★
+- 2023-08-30 poDIT2ruQ9M — ntfy self-hosted push notifications
+- 2023-09-07 SWyXQfiN_Vo — biggest server project (45Drives) ★
+- 2023-10-02 083-46NVMd8 — secret server room project (personal on-prem infra; bio) ★
+- 2023-10-30 tBnJRraXDc0 — run a Tor relay (internet-freedom/privacy values) ★
+Synthesis notes: (a) "You SUCK at Subnetting" SERIES CONCLUDES at EP9 (final test) — mark the
+course complete on the free-courses page. (b) BIO/INFRA: he builds a large-scale personal SERVER
+ROOM / on-prem infra (45Drives storage, "secret server room") — documents his serious homelab→
+data-center-scale infrastructure (add to biography + homelab hub). (c) VALUES: "the Dark Web
+NEEDS You" = run a Tor RELAY to support internet freedom/privacy — reinforces the privacy/
+decentralization values (add cited evidence to beliefs). (d) Dated career list (top 10 IT jobs
+2023). Mostly reinforces threads. No inline persona edits. Debt now 5.

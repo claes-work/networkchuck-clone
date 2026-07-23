@@ -81,16 +81,16 @@ yt-nTqu6w2wc68,video,you need to learn tmux RIGHT NOW!!,@NetworkChuck,https://ww
 yt-i3sRSS6fN0g,video,the most secure OS in the world.....I hate it,@NetworkChuck,https://www.youtube.com/watch?v=i3sRSS6fN0g,2023-12-23,2026-07-22,L0-discovered,2,,views=883754
 yt-JJ0St6OmTp0,video,Google is forcing you to use their proxy (build your own instead),@NetworkChuck,https://www.youtube.com/watch?v=JJ0St6OmTp0,2023-11-22,2026-07-22,L0-discovered,2,,views=742368
 yt-CurcakgurRE,video,Put your website on the Dark Web,@NetworkChuck,https://www.youtube.com/watch?v=CurcakgurRE,2023-11-01,2026-07-22,L0-discovered,2,,views=311596
-yt-tBnJRraXDc0,video,The Dark Web NEEDS You!,@NetworkChuck,https://www.youtube.com/watch?v=tBnJRraXDc0,2023-10-30,2026-07-22,L0-discovered,2,,views=506701
-yt-083-46NVMd8,video,My SECRET Server Room Project,@NetworkChuck,https://www.youtube.com/watch?v=083-46NVMd8,2023-10-02,2026-07-22,L0-discovered,2,,views=570897
+yt-tBnJRraXDc0,video,The Dark Web NEEDS You!,@NetworkChuck,https://www.youtube.com/watch?v=tBnJRraXDc0,2023-10-30,2026-07-22,L2,2,cybersecurity;homelab-selfhosting,run a Tor relay (internet-freedom/privacy values)
+yt-083-46NVMd8,video,My SECRET Server Room Project,@NetworkChuck,https://www.youtube.com/watch?v=083-46NVMd8,2023-10-02,2026-07-22,L2,2,homelab-selfhosting;networking,secret server room project (personal on-prem infra; bio)
 yt-U2-JPqrALsA,video,How To Access the DARK WEB in 2024 (3 Levels),@NetworkChuck,https://www.youtube.com/watch?v=U2-JPqrALsA,2023-09-30,2026-07-22,L2,1,cybersecurity;linux-terminal,access the dark web 2024 (3 levels; safety/ethics)
 yt-jsKqQvFk7Sk,video,the Raspberry Pi 5,@NetworkChuck,https://www.youtube.com/watch?v=jsKqQvFk7Sk,2023-09-28,2026-07-22,L2,1,homelab-selfhosting,the Raspberry Pi 5 (hardware overview)
 yt-qHe4mlhuNt4,video,Hacking the world’s most popular database,@NetworkChuck,https://www.youtube.com/watch?v=qHe4mlhuNt4,2023-09-14,2026-07-22,L2,1,cybersecurity;cloud-devops,hacking a database (Oracle 23c; lab/defense)
-yt-SWyXQfiN_Vo,video,the BIGGEST server project they've ever done!! (45Drives),@NetworkChuck,https://www.youtube.com/watch?v=SWyXQfiN_Vo,2023-09-07,2026-07-22,L0-discovered,2,,views=164341
-yt-poDIT2ruQ9M,video,how did I NOT know about this?,@NetworkChuck,https://www.youtube.com/watch?v=poDIT2ruQ9M,2023-08-30,2026-07-22,L0-discovered,2,,views=1017230
-yt-OD2vG5st4zI,video,Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9,@NetworkChuck,https://www.youtube.com/watch?v=OD2vG5st4zI,2023-08-23,2026-07-22,L0-discovered,2,,views=337417
-yt-Y_coOg6oHAc,video,the TOP 10 hottest IT Jobs in 2023,@NetworkChuck,https://www.youtube.com/watch?v=Y_coOg6oHAc,2023-08-15,2026-07-22,L0-discovered,2,,views=813984
-yt-6zopTcQFhqM,video,Subnetting…..but in reverse,@NetworkChuck,https://www.youtube.com/watch?v=6zopTcQFhqM,2023-07-21,2026-07-22,L0-discovered,2,,views=281101
+yt-SWyXQfiN_Vo,video,the BIGGEST server project they've ever done!! (45Drives),@NetworkChuck,https://www.youtube.com/watch?v=SWyXQfiN_Vo,2023-09-07,2026-07-22,L2,2,homelab-selfhosting,biggest server project (45Drives; large-scale infra)
+yt-poDIT2ruQ9M,video,how did I NOT know about this?,@NetworkChuck,https://www.youtube.com/watch?v=poDIT2ruQ9M,2023-08-30,2026-07-22,L2,2,homelab-selfhosting;linux-terminal,ntfy self-hosted push notifications
+yt-OD2vG5st4zI,video,Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9,@NetworkChuck,https://www.youtube.com/watch?v=OD2vG5st4zI,2023-08-23,2026-07-22,L2,2,networking;certifications-career,You SUCK at Subnetting EP9 (series finale/final test)
+yt-Y_coOg6oHAc,video,the TOP 10 hottest IT Jobs in 2023,@NetworkChuck,https://www.youtube.com/watch?v=Y_coOg6oHAc,2023-08-15,2026-07-22,L2,2,certifications-career,top 10 IT jobs 2023 (dated career market)
+yt-6zopTcQFhqM,video,Subnetting…..but in reverse,@NetworkChuck,https://www.youtube.com/watch?v=6zopTcQFhqM,2023-07-21,2026-07-22,L2,2,networking;certifications-career,subnetting in reverse
 yt-3CaG2GI1kn0,video,you need this FREE CyberSecurity tool,@NetworkChuck,https://www.youtube.com/watch?v=3CaG2GI1kn0,2023-07-19,2026-07-22,L2,2,cybersecurity;homelab-selfhosting,free cybersec tool: Wazuh SIEM
 yt-0kk6k-VdllM,video,intro to cloud hacking (leaky buckets),@NetworkChuck,https://www.youtube.com/watch?v=0kk6k-VdllM,2023-07-10,2026-07-22,L2,1,cybersecurity;cloud-devops,intro to cloud hacking (leaky buckets/S3)
 yt-L26Xq7m0uQ0,video,how to HACK a password // Windows Edition,@NetworkChuck,https://www.youtube.com/watch?v=L26Xq7m0uQ0,2023-06-30,2026-07-22,L2,1,cybersecurity,hack a password Windows edition (NTLM; defense)
