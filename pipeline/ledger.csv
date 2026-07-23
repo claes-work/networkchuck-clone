@@ -426,14 +426,14 @@ yt-iKTKDRkVEQU,short,ALWAYS Keep a Human in the Loop!,@NetworkChuck,https://www.
 yt-YSsvdQ12Jns,short,AI in the Terminal Changes EVERYTHING,@NetworkChuck,https://www.youtube.com/watch?v=YSsvdQ12Jns,NA,2026-07-22,skipped,3,,dup-of:yt-MsQACpcuTkU (short clip of long-form); Stage C title-dedup
 yt-Tb8m5nE7PZk,short,The AI Kill Switch (stop Rogue AI),@NetworkChuck,https://www.youtube.com/watch?v=Tb8m5nE7PZk,2025-11-05,2026-07-22,L2,3,ai-tools;cybersecurity,short: AI kill-switch / stop rogue AI (human-control belief); L3-cand
 yt-YiVD5IPxif0,short,This Docker Update Gives AI Superpowers,@NetworkChuck,https://www.youtube.com/watch?v=YiVD5IPxif0,NA,2026-07-22,skipped,3,,dup-of:yt-GuTcle5edjk (short clip of long-form); Stage C title-dedup
-yt-5UE_G0zGsO0,short,The Silent Killer of Startups...,@NetworkChuck,https://www.youtube.com/watch?v=5UE_G0zGsO0,NA,2026-07-22,L0-discovered,3,,views=78000
+yt-5UE_G0zGsO0,short,The Silent Killer of Startups...,@NetworkChuck,https://www.youtube.com/watch?v=5UE_G0zGsO0,2025-10-29,2026-07-22,skipped,3,,pure Vanta sponsor spot; Stage C
 yt-v7-gJ3uqZ5A,short,He Broke the AI Image Filter (With One Simple Trick),@NetworkChuck,https://www.youtube.com/watch?v=v7-gJ3uqZ5A,NA,2026-07-22,skipped,3,,dup-of:yt-Qvx2sVgQ-u0 (short clip of long-form); Stage C title-dedup
 yt-XApvdsXEyyw,short,He Hacked ChatGPT…with Its Own Image Generator,@NetworkChuck,https://www.youtube.com/watch?v=XApvdsXEyyw,NA,2026-07-22,skipped,3,,dup-of:yt-Qvx2sVgQ-u0 (short clip of long-form); Stage C title-dedup
-yt-CqFfcZELbG0,short,It’s a Trap!!!,@NetworkChuck,https://www.youtube.com/watch?v=CqFfcZELbG0,NA,2026-07-22,L0-discovered,3,,views=134000
-yt-F2pG7EJ0lS4,short,THIS is losing you MILLIONS!!,@NetworkChuck,https://www.youtube.com/watch?v=F2pG7EJ0lS4,NA,2026-07-22,L0-discovered,3,,views=93000
+yt-CqFfcZELbG0,short,It’s a Trap!!!,@NetworkChuck,https://www.youtube.com/watch?v=CqFfcZELbG0,2025-10-10,2026-07-22,L2,3,cybersecurity,short: datacenter 'man trap' / anti-tailgating physical security
+yt-F2pG7EJ0lS4,short,THIS is losing you MILLIONS!!,@NetworkChuck,https://www.youtube.com/watch?v=F2pG7EJ0lS4,2025-10-08,2026-07-22,L2,3,cloud-devops,short: AWS EKS Auto Mode (managed k8s; marketing framing)
 yt-Uc18mso08Ro,short,I Accidentally Turned Claude Into a Hacker...,@NetworkChuck,https://www.youtube.com/watch?v=Uc18mso08Ro,NA,2026-07-22,skipped,3,,dup-of:yt-Qvx2sVgQ-u0 (short clip of long-form); Stage C title-dedup
-yt-8jWFN6vQf8Y,short,One of these is NOT a Keyboard.,@NetworkChuck,https://www.youtube.com/watch?v=8jWFN6vQf8Y,NA,2026-07-22,L0-discovered,3,,views=300000
-yt-qK7uaQyjTqg,short,AWS just made Kubernetes EASY (Amazon EKS Auto Mode),@NetworkChuck,https://www.youtube.com/watch?v=qK7uaQyjTqg,NA,2026-07-22,L0-discovered,3,,views=59000
+yt-8jWFN6vQf8Y,short,One of these is NOT a Keyboard.,@NetworkChuck,https://www.youtube.com/watch?v=8jWFN6vQf8Y,2025-09-25,2026-07-22,L2,3,linux-terminal;homelab-selfhosting,short: Raspberry Pi 500 Plus reveal (keyboard-PC)
+yt-qK7uaQyjTqg,short,AWS just made Kubernetes EASY (Amazon EKS Auto Mode),@NetworkChuck,https://www.youtube.com/watch?v=qK7uaQyjTqg,2025-09-24,2026-07-22,L2,3,cloud-devops,short: Amazon EKS Auto Mode explainer
 yt-4dqhgCM6LNU,short,You can HACK AI with EMOJIS,@NetworkChuck,https://www.youtube.com/watch?v=4dqhgCM6LNU,NA,2026-07-22,skipped,3,,dup-of:yt-Qvx2sVgQ-u0 (short clip of long-form); Stage C title-dedup
 yt-EOPo7yL86vE,short,THIS new standard changes how I use AI.,@NetworkChuck,https://www.youtube.com/watch?v=EOPo7yL86vE,NA,2026-07-22,skipped,3,,dup-of:yt-GuTcle5edjk (short clip of long-form); Stage C title-dedup
 yt-gEElEzKazYA,short,N8n AI Agents are INSANE!!,@NetworkChuck,https://www.youtube.com/watch?v=gEElEzKazYA,NA,2026-07-22,skipped,3,,dup-of:yt-ONgECvZNI3o (short clip of long-form); Stage C title-dedup
@@ -441,24 +441,24 @@ yt-yPGimRqITrc,short,it’s like you never left your home lab.,@NetworkChuck,htt
 yt-_u1V5GLzP98,short,Trying the Strongest Coffee in the World (7 espressos in 1 shot!!),@NetworkChuck,https://www.youtube.com/watch?v=_u1V5GLzP98,NA,2026-07-22,skipped,3,,promo/announcement/vlog short — no ingestable educational content; Stage C
 yt-vtPOBzq4zrs,short,the most POWERFUL automation tool I’ve EVER SEEN! (N8n),@NetworkChuck,https://www.youtube.com/watch?v=vtPOBzq4zrs,NA,2026-07-22,skipped,3,,dup-of:yt-ONgECvZNI3o (short clip of long-form); Stage C title-dedup
 yt-3HiWCSYCIZE,short,why are Hackers going to Las Vegas?,@NetworkChuck,https://www.youtube.com/watch?v=3HiWCSYCIZE,NA,2026-07-22,skipped,3,,dup-of:yt-qFsj6KL8_nU (short clip of long-form); Stage C title-dedup
-yt-dG8VTdEoatM,short,"21,000 Hackers go HERE every Summer",@NetworkChuck,https://www.youtube.com/watch?v=dG8VTdEoatM,NA,2026-07-22,L0-discovered,3,,views=133000
-yt-G5OM24KrAH0,short,This makes audits stupidly easy,@NetworkChuck,https://www.youtube.com/watch?v=G5OM24KrAH0,NA,2026-07-22,L0-discovered,3,,views=150000
-yt-Oc-iNQSxUMQ,short,"What is a problem that you see in the world, one that you are actively trying to solve?",@NetworkChuck,https://www.youtube.com/watch?v=Oc-iNQSxUMQ,NA,2026-07-22,L0-discovered,3,,views=87000
-yt-XS6615BRiX4,short,"If you see this, you might be hacked.",@NetworkChuck,https://www.youtube.com/watch?v=XS6615BRiX4,NA,2026-07-22,L0-discovered,3,,views=167000
+yt-dG8VTdEoatM,short,"21,000 Hackers go HERE every Summer",@NetworkChuck,https://www.youtube.com/watch?v=dG8VTdEoatM,2025-06-18,2026-07-22,L2,3,cybersecurity;certifications-career,short: Black Hat USA (21k hackers) event promo/community
+yt-G5OM24KrAH0,short,This makes audits stupidly easy,@NetworkChuck,https://www.youtube.com/watch?v=G5OM24KrAH0,2025-06-03,2026-07-22,skipped,3,,pure Vanta sponsor spot; Stage C
+yt-Oc-iNQSxUMQ,short,"What is a problem that you see in the world, one that you are actively trying to solve?",@NetworkChuck,https://www.youtube.com/watch?v=Oc-iNQSxUMQ,2025-05-22,2026-07-22,L2,3,creator-coffee-business,short: Chuck's community question 'what problem are you solving?' (curiosity/crowdsource voice); L3-cand
+yt-XS6615BRiX4,short,"If you see this, you might be hacked.",@NetworkChuck,https://www.youtube.com/watch?v=XS6615BRiX4,2025-05-02,2026-07-22,skipped,3,,pure ThreatLocker sponsor spot (Chuck notes script not his); Stage C
 yt-8fMRim06fAE,short,Meet the new Bernard Hackwell,@NetworkChuck,https://www.youtube.com/watch?v=8fMRim06fAE,NA,2026-07-22,skipped,3,,promo/announcement/vlog short — no ingestable educational content; Stage C
 yt-D-ZlJPKk7kM,short,You’re using ChatGPT WRONG,@NetworkChuck,https://www.youtube.com/watch?v=D-ZlJPKk7kM,NA,2026-07-22,skipped,3,,dup-of:yt-UbDyjIIGaxQ (short clip of long-form); Stage C title-dedup
 yt-TwG6-TRg5Rs,short,Cisco U Spotlight is BACK! And it's kind of amazing.,@NetworkChuck,https://www.youtube.com/watch?v=TwG6-TRg5Rs,NA,2026-07-22,skipped,3,,promo/announcement/vlog short — no ingestable educational content; Stage C
-yt-Flqljv8clcY,short,Local AI has a Secret Weakness,@NetworkChuck,https://www.youtube.com/watch?v=Flqljv8clcY,NA,2026-07-22,L0-discovered,3,,views=1000000
-yt-VSdcWKCT3V8,short,Which AI has the Best Memory?,@NetworkChuck,https://www.youtube.com/watch?v=VSdcWKCT3V8,NA,2026-07-22,L0-discovered,3,,views=137000
+yt-Flqljv8clcY,short,Local AI has a Secret Weakness,@NetworkChuck,https://www.youtube.com/watch?v=Flqljv8clcY,2025-04-16,2026-07-22,L2,3,ai-tools;homelab-selfhosting,"short: local-AI context-window/VRAM limits (KV cache quant, Gemma 3 128K)"
+yt-VSdcWKCT3V8,short,Which AI has the Best Memory?,@NetworkChuck,https://www.youtube.com/watch?v=VSdcWKCT3V8,2025-04-15,2026-07-22,L2,3,ai-tools,short: AI context-window size ranking (128K->10M across models)
 yt-FV_7DnBMFAU,short,We took our Cable Management to the next level,@NetworkChuck,https://www.youtube.com/watch?v=FV_7DnBMFAU,NA,2026-07-22,skipped,3,,promo/announcement/vlog short — no ingestable educational content; Stage C
 yt-QD2GWLGtZp4,short,ChatGPT gets dumber the longer you talk,@NetworkChuck,https://www.youtube.com/watch?v=QD2GWLGtZp4,NA,2026-07-22,skipped,3,,dup-of:yt-TeQDr4DkLYo (short clip of long-form); Stage C title-dedup
 yt-ZWPh6c8Gqg8,short,we finally organized our Tech Junk Drawer,@NetworkChuck,https://www.youtube.com/watch?v=ZWPh6c8Gqg8,NA,2026-07-22,skipped,3,,promo/announcement/vlog short — no ingestable educational content; Stage C
-yt-on-AmAv_DtI,short,EVERYTHING NEW with ChatGPT 4o Image Generation,@NetworkChuck,https://www.youtube.com/watch?v=on-AmAv_DtI,NA,2026-07-22,L0-discovered,3,,views=73000
-yt-QVjxorbKY6c,short,YOU decide how this AI helps your team,@NetworkChuck,https://www.youtube.com/watch?v=QVjxorbKY6c,NA,2026-07-22,L0-discovered,3,,views=28000
+yt-on-AmAv_DtI,short,EVERYTHING NEW with ChatGPT 4o Image Generation,@NetworkChuck,https://www.youtube.com/watch?v=on-AmAv_DtI,2025-03-28,2026-07-22,L2,3,ai-tools,short: ChatGPT 4o image generation demo (vs DALL-E 3)
+yt-QVjxorbKY6c,short,YOU decide how this AI helps your team,@NetworkChuck,https://www.youtube.com/watch?v=QVjxorbKY6c,2025-03-20,2026-07-22,skipped,3,,pure CISA/sponsor spot; Stage C
 yt-KFsvPP9Kiw8,short,the FASTEST way to build a website,@NetworkChuck,https://www.youtube.com/watch?v=KFsvPP9Kiw8,NA,2026-07-22,skipped,3,,dup-of:yt-2VvWM6gdDlk (short clip of long-form); Stage C title-dedup
-yt-nbPfYbvlVec,short,AI can handle the boring stuff!,@NetworkChuck,https://www.youtube.com/watch?v=nbPfYbvlVec,NA,2026-07-22,L0-discovered,3,,views=44000
+yt-nbPfYbvlVec,short,AI can handle the boring stuff!,@NetworkChuck,https://www.youtube.com/watch?v=nbPfYbvlVec,2025-03-14,2026-07-22,skipped,3,,pure CISA/sponsor spot; Stage C
 yt--eSTJ2-fszw,short,Your Remote Desktop SUCKS!!,@NetworkChuck,https://www.youtube.com/watch?v=-eSTJ2-fszw,NA,2026-07-22,skipped,3,,dup-of:yt-EXL8mMUXs88 (short clip of long-form); Stage C title-dedup
-yt-j8cYlXd_eVw,short,It only takes one photo,@NetworkChuck,https://www.youtube.com/watch?v=j8cYlXd_eVw,NA,2026-07-22,L0-discovered,3,,views=74000
+yt-j8cYlXd_eVw,short,It only takes one photo,@NetworkChuck,https://www.youtube.com/watch?v=j8cYlXd_eVw,2025-02-28,2026-07-22,L2,3,cybersecurity;ai-tools,short: live deepfake 'hacker tool' demo (guests Addy/Anna)
 yt-_x5xBe7tDs4,short,The Most Popular I.T. Cert just got better,@NetworkChuck,https://www.youtube.com/watch?v=_x5xBe7tDs4,NA,2026-07-22,skipped,3,,dup-of:yt-ay8t4zyalK4 (short clip of long-form); Stage C title-dedup
 yt-uJ3G3dA4Y2A,short,5 Mac Studios = 1 insane AI Supercomputer,@NetworkChuck,https://www.youtube.com/watch?v=uJ3G3dA4Y2A,NA,2026-07-22,skipped,3,,dup-of:yt-Ju0ndy2kwlw (short clip of long-form); Stage C title-dedup
 yt-jPZAqiQ0TtU,short,How to get a job in IT (2025),@NetworkChuck,https://www.youtube.com/watch?v=jPZAqiQ0TtU,NA,2026-07-22,skipped,3,,dup-of:yt-neROHgRzhNA (short clip of long-form); Stage C title-dedup

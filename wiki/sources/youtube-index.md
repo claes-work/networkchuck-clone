@@ -408,4 +408,4 @@ _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the Davi
 
 ---
 _385 videos ingested (L2) so far._
-_Shorts (Stage C, in progress): 83 skipped (63 clips dup-of long-form, 20 promos/vlogs), 22 standalone light-L2'd, 42 standalone still pending light-L2._
+_Shorts (Stage C, in progress): ~89 skipped (clips dup-of long-form + promos/vlogs/pure-sponsor-spots), 32 standalone light-L2'd, ~30 standalone still pending light-L2._
