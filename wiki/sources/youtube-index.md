@@ -372,7 +372,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Title | Page | ★ |
 |------|-------|------|---|
+| 2022-02-03 | how to NOT be a hacking noob in 2022 (ft. John Hammond) | [[2022-02-03-yt-T7AaBcNj-mA]] |  |
+| 2022-02-14 | He put all his money in NFTs and crypto (ft. Knox Hutchinson) | [[2022-02-14-yt-5ZVuh-EzZzc]] |  |
 | 2022-02-21 | why David Bombal became a hacker (noobs podcast ep. 4) | [[2022-02-21-yt-tWAkJw3_l2s]] | ★ |
+| 2022-03-14 | LINUX saved his life! (ft. Shawn Powers) | [[2022-03-14-yt-tf8Ed15IzXs]] |  |
 | 2022-03-25 | What does a threat analyst do? (interview clip) | [[2022-03-25-yt-spyROTCQ3oM]] |  |
 | 2022-04-04 | Cheating is okay (As long as you are learning) | [[2022-04-04-yt-surLiBtVoaU]] | ★ |
 | 2022-07-26 | talking with HakLuke (interview) | [[2022-07-26-yt-4585YGGF_ps]] | ★ |
@@ -386,11 +389,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-03-28 | Create Your Own Raspberry Pi File Server (SMB) | [[2025-03-28-yt-vrELBV-r4Aw]] |  |
 | 2025-07-03 | The Future of Networking Certifications (Cisco guests) | [[2025-07-03-yt-zeKdiBF4HGc]] | ★ |
 | 2025-07-16 | How to Run n8n Locally (On-Premise Setup) | [[2025-07-16-yt--ErfsM2TYsM]] |  |
+| 2025-07-28 | This Man Taught Me Everything I Know (Jeremy Cioara — mentor/bio) | [[2025-07-28-yt-2jgDUaF8E8M]] | ★ |
 | 2025-07-29 | Network Engineer lets AI run his Network (interview) | [[2025-07-29-yt-ySLe49h81yg]] | ★ |
+| 2025-08-12 | The AI Attack Blueprint (ft. Jason Haddix) | [[2025-08-12-yt-2Z-9EOyb6HE]] | ★ |
+| 2025-08-25 | The Telos Method Explained (ft. Daniel Miessler) | [[2025-08-25-yt-popvxbg9Flc]] | ★ |
 | 2025-09-09 | How Long Do Network Engineers Have Left? (John Capobianco) | [[2025-09-09-yt-_Nl7hEbTTjQ]] | ★ |
 | 2025-09-10 | Cisco's Certification Director Explains the Future of CCNA | [[2025-09-10-yt-1tw3O2iOt1U]] | ★ |
 | 2025-09-11 | From Engineer to YouTube Pioneer (David Bombal's Story) | [[2025-09-11-yt-DRseV4fFC9g]] | ★ |
 | 2025-09-19 | They're Teaching AI to Run the Data Center (Juniper/Apstra) | [[2025-09-19-yt-Zx4SL2h1uDg]] | ★ |
+| 2025-12-02 | Interviewing a Secretive Cybercrime-Fighting Team Leader (Bitdefender) | [[2025-12-02-yt-2VOFWU77CR4]] |  |
 | 2025-12-02 | Scam Researcher tricks scammers with AI (Bitdefender) | [[2025-12-02-yt-OhyVtuYxRU8]] | ★ |
 | 2025-12-11 | He Hunts Malware for a living (Bitdefender) | [[2025-12-11-yt-EOyOplr84I4]] | ★ |
 | 2026-01-27 | Unboxing $48,000 worth of Mac Studios (AI cluster) | [[2026-01-27-yt-Wb72L0RAUjQ]] |  |
@@ -399,4 +406,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_377 videos ingested (L2) so far._
+_384 videos ingested (L2) so far._
