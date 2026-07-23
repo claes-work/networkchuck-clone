@@ -360,16 +360,24 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | Date | Title | Page | ★ |
 |------|-------|------|---|
 | 2022-02-21 | why David Bombal became a hacker (noobs podcast ep. 4) | [[2022-02-21-yt-tWAkJw3_l2s]] | ★ |
+| 2022-03-25 | What does a threat analyst do? (interview clip) | [[2022-03-25-yt-spyROTCQ3oM]] |  |
+| 2022-04-04 | Cheating is okay (As long as you are learning) | [[2022-04-04-yt-surLiBtVoaU]] | ★ |
+| 2022-07-26 | talking with HakLuke (interview) | [[2022-07-26-yt-4585YGGF_ps]] | ★ |
+| 2022-08-08 | How to get a job in IT (according to the experts) | [[2022-08-08-yt-neROHgRzhNA]] | ★ |
 | 2024-12-19 | Home Assistant made their own Alexa!! | [[2024-12-19-yt-An4IapvutzM]] |  |
 | 2025-02-07 | Is the NEW CompTIA A+ Exam Worth It? (220-1201/1202) | [[2025-02-07-yt-ay8t4zyalK4]] | ★ |
+| 2025-02-12 | How I Accidentally Created a Viral Meme Coin | [[2025-02-12-yt-W4tw9wM62kA]] | ★ |
 | 2025-03-05 | How I handle multiple Python Versions (pyenv) | [[2025-03-05-yt-MVyb-nI4KyI]] | ★ |
 | 2025-03-13 | how to host Open WebUI locally (self-hosted AI Hub) | [[2025-03-13-yt-JJ_0-pAOIEk]] |  |
 | 2025-03-13 | Turn Open WebUI into a real website (Domain + SSL) | [[2025-03-13-yt-BdH_yR_J3FQ]] |  |
 | 2025-03-28 | Create Your Own Raspberry Pi File Server (SMB) | [[2025-03-28-yt-vrELBV-r4Aw]] |  |
+| 2025-07-03 | The Future of Networking Certifications (Cisco guests) | [[2025-07-03-yt-zeKdiBF4HGc]] | ★ |
 | 2025-07-16 | How to Run n8n Locally (On-Premise Setup) | [[2025-07-16-yt--ErfsM2TYsM]] |  |
+| 2025-07-29 | Network Engineer lets AI run his Network (interview) | [[2025-07-29-yt-ySLe49h81yg]] | ★ |
+| 2025-09-09 | How Long Do Network Engineers Have Left? (John Capobianco) | [[2025-09-09-yt-_Nl7hEbTTjQ]] | ★ |
 | 2025-09-10 | Cisco's Certification Director Explains the Future of CCNA | [[2025-09-10-yt-1tw3O2iOt1U]] | ★ |
 
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_350 videos ingested (L2) so far._
+_358 videos ingested (L2) so far._
