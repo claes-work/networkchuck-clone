@@ -345,7 +345,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-02-06 | I Tried running in 3D printed shoes (personal/maker) | [[2026-02-06-yt-9LjgqZ2wP0g]] |  |
 | 2026-02-20 | become an AI HACKER (it's easier than you think) | [[2026-02-20-yt-_yfiUQSbdPY]] | ★ |
 | 2026-02-26 | Claude Code on your Phone is OFFICIAL | [[2026-02-26-yt-ocQ7ZKhHU5Q]] | ★ |
+| 2026-03-11 | I almost quit YouTube.... (AI burnout, sabbatical) | [[2026-03-11-yt-dbMXi9q78Tk]] | ★ |
+| 2026-03-30 | OpenClaw......RIGHT NOW??? (personal-AI harness) | [[2026-03-30-yt-T-HZHO_PQPY]] | ★ |
 | 2026-03-31 | the WORST hack of 2026 (supply-chain) | [[2026-03-31-yt-eGSsoSEppNU]] | ★ |
+| 2026-04-09 | i didn't want to like this.... (Perplexity Computer) | [[2026-04-09-yt-G3jvn7n-68Y]] | ★ |
+| 2026-05-20 | you need to use Hermes RIGHT NOW!! (goodbye OpenClaw) | [[2026-05-20-yt-QQEgIo4Juxg]] |  |
+| 2026-06-01 | Switching back to Windows?!? (considering; still Mac) | [[2026-06-01-yt-cGXAmnUabEY]] | ★ |
+| 2026-06-15 | I was wrong about VPNs (consumer-VPN reversal) | [[2026-06-15-yt-axfNxZ1R6C4]] | ★ |
+| 2026-07-02 | Fable 5 is back.....run these prompts before July 12th | [[2026-07-02-yt-YC77Lb_cN6c]] | ★ |
+| 2026-07-19 | I got inside FIFA's Secret World Cup Broadcast Network | [[2026-07-19-yt-LhnH0juUaGw]] | ★ |
 
 ## @networkchuck_v2
 
@@ -364,4 +372,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_342 videos ingested (L2) so far._
+_350 videos ingested (L2) so far._
