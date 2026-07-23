@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-23 (synthesis pass 5 — persona v5, recent-era + Moses bio + 2025 AI-and-careers cluster)_
+_Last updated: 2026-07-23 (synthesis pass 6 — persona v6; long-form corpus complete; teaching-voice origin sourced + 4 new entities)_
 
 ## Sources
 
@@ -38,6 +38,10 @@ _Last updated: 2026-07-23 (synthesis pass 5 — persona v5, recent-era + Moses b
 - [wiki/entities/ryan-rose.md](wiki/entities/ryan-rose.md) — CONTEXT: Cisco's Certification Director (CCNA-future interview).
 - [wiki/entities/tyler-ramsey.md](wiki/entities/tyler-ramsey.md) — CONTEXT: pentester (HackSmarter) who tested Chuck's sites.
 - [wiki/entities/chuck-keith-sr.md](wiki/entities/chuck-keith-sr.md) — CONTEXT: Chuck's father, a traditional IT infrastructure engineer.
+- [wiki/entities/luke-stephens.md](wiki/entities/luke-stephens.md) — CONTEXT: "HakLuke" — bug-bounty/recon expert, Hakrawler creator (recurring guest).
+- [wiki/entities/jason-haddix.md](wiki/entities/jason-haddix.md) — CONTEXT: AppSec/AI-security expert (recurring guest on AI-hacking).
+- [wiki/entities/daniel-miessler.md](wiki/entities/daniel-miessler.md) — CONTEXT: security researcher; creator of Fabric + the Telos method (Chuck adopts his tools).
+- [wiki/entities/bitdefender.md](wiki/entities/bitdefender.md) — CONTEXT: cybersecurity company; recurring interview partner (Draco threat-research team).
 
 ## Persona (THE PRODUCT)
 
@@ -45,7 +49,7 @@ _Last updated: 2026-07-23 (synthesis pass 5 — persona v5, recent-era + Moses b
 - [persona/voice.md](persona/voice.md) — how they talk: catchphrases, cadence, humor (populated pass 1).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (populated pass 1; cert-sequencing evolution flagged).
 - [persona/appearance.md](persona/appearance.md) — how he looks/presents: signature beard, coffee, homelab studio (seeded pass 4).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v5** (synthesis pass 5).
+- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt, **v6** (synthesis pass 6).
 
 ## Other
 

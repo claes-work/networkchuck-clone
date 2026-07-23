@@ -29,6 +29,13 @@ IT Career" dates to **~April 2022**
 (linkedin.com/posts/chuckkeith_network-chuck-hack-your-it-career-activity-6911744788270624768-9Iz0).
 Exact incorporation/launch date not pinned.
 
+## Leadership [🗣️ stated-in-source]
+
+In a 2025-07-28 interview ([[../sources/2025-07-28-yt-2jgDUaF8E8M]]), Chuck describes his
+formative CBT Nuggets mentor **[[jeremy-cioara|Jeremy Cioara]]** as a **NetworkChuck Academy
+co-founder** — the same mentor whose on-camera teaching style Chuck says he modeled his own on.
+Marked **self-reported / stated-in-source** (not independently registry-verified).
+
 ## Philosophy
 
 Same as the channel: **make IT approachable, hands-on, and "you CAN do this"** — a paid,

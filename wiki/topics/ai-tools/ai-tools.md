@@ -3,6 +3,7 @@ type: hub
 domain: ai-tools
 created: 2026-07-14
 updated: 2026-07-23
+synthesis_pass: 6
 ---
 
 # AI Tools — hub
@@ -31,7 +32,24 @@ education (2025-04-07) [[../../sources/2025-04-07-yt-cJZnlnT0rPA]]. His mental m
 AI at work is **augment, don't replace**: he showcased Daniel Miessler's Fabric and its
 library of reusable system-prompt "patterns" as a way to bolt AI onto existing workflows
 as a force-multiplier, not a human replacement (2024-05-28)
-[[../../sources/2024-05-28-yt-UbDyjIIGaxQ]].
+[[../../sources/2024-05-28-yt-UbDyjIIGaxQ]]. He extended that Miessler lineage by
+adopting the **Telos Method** — a structured personal-context framework (mission,
+problems, goals) you hand to an AI so it reasons about *your* life with real context
+rather than generic advice (2025-08-25) [[../../sources/2025-08-25-yt-popvxbg9Flc]]. By
+2025 he had crystallized a **2025 prompting framework**: treat the *prompt as a program*,
+think first before writing, and lean on chain-of-thought / tree-of-thought structuring so
+the model reasons in steps rather than blurting an answer (2025-11-26)
+[[../../sources/2025-11-26-yt-pwWBcsxEoLk]].
+
+### The skeptic's balance — "done with the AI hype"
+For all his AI enthusiasm, Chuck draws a hard line at hype. In "I'm done with the AI
+hype" he argues the real leverage is **data and context, not bolt-on AI features** — a
+model is only as good as what you feed it, and slapping "AI" on a product doesn't make it
+useful (2025-07-01) [[../../sources/2025-07-01-yt-kxYh9RwLUFw]]. That balanced/skeptical
+stance is the counterweight to his "learn it now" excitement, and it colors his reviews:
+he gave the **Perplexity Comet/Computer** a reluctant, hype-resistant review, weighing an
+agentic AI browser/desktop on real utility rather than novelty (2026-04-09)
+[[../../sources/2026-04-09-yt-G3jvn7n-68Y]].
 
 ### Networking meets AI
 Chuck bridges his networking roots into the AI datacenter era, explaining the
@@ -70,6 +88,10 @@ rather than uploaded to a cloud voice service (2024-11-19)
 Pushing self-hosting to its limit, Chuck built a home "AI supercomputer" by clustering
 5 Mac Studios to run large models locally — proving the own-your-AI thesis can scale to
 serious hardware, not just a single GPU (2025-02-17) [[../../sources/2025-02-17-yt-Ju0ndy2kwlw]].
+He extended the same thesis onto purpose-built silicon with NVIDIA's **DGX Spark**, a
+desktop "AI supercomputer" that puts datacenter-class local inference on your desk —
+running large models at scale without shipping prompts to the cloud (2025-10-14)
+[[../../sources/2025-10-14-yt-FYL9e_aqZY0]].
 
 ### AI automation / agents
 Chuck's 2025 arc moves from chatting with AI to putting AI to work. Early in the year
@@ -89,6 +111,24 @@ terminal-AI workflow (Claude Code-style), arguing most people use AI "the hard w
 staying in a chat box instead of letting it act in the terminal (2025-10-28)
 [[../../sources/2025-10-28-yt-MsQACpcuTkU]]. See also [[../cloud-devops/cloud-devops]].
 
+### Agentic coding / AI agents (2026)
+Into 2026 Chuck's AI arc tips fully into **agentic coding** — AI agents that write and run
+code, not just chat. He wired **Claude Code into n8n**, driving it *headless* so an
+automation workflow can invoke a coding agent as one step in a larger pipeline (2025-12-10)
+[[../../sources/2025-12-10-yt-s96JeuuwLzc]]. He then chased the "code from anywhere" dream:
+running **Claude Code as a phone extension** so the agent lives in your pocket (2026-01-23)
+[[../../sources/2026-01-23-yt-cT22fTzotYc]], and driving Claude Code **from your phone over
+SSH to a VPS** so a real box does the work while you steer from mobile (2026-01-29)
+[[../../sources/2026-01-29-yt-FEDiAHzS0zw]] — a workflow Anthropic later shipped officially
+as **Claude Code mobile remote-control** (2026-02-26) [[../../sources/2026-02-26-yt-ocQ7ZKhHU5Q]].
+He also tracks the personal-AI-agent harness space, where **the tooling churns fast**: he
+covered **OpenClaw** as a personal-AI-agent harness (2026-03-30)
+[[../../sources/2026-03-30-yt-T-HZHO_PQPY]], only for it to be superseded weeks later by
+**Hermes** (2026-05-20) [[../../sources/2026-05-20-yt-QQEgIo4Juxg]] — a live illustration
+of how quickly AI tools rise and fall. On the lighter side, his satirical **"Fable 5"**
+sketch spoofs the relentless AI-model-release hype cycle (2026-07-02)
+[[../../sources/2026-07-02-yt-YC77Lb_cN6c]]. See also [[../cloud-devops/cloud-devops]].
+
 ### AI security — AI as a new attack surface
 Consistent with his ethical-hacking roots, Chuck treats AI as something to attack as
 well as use: hacking AI and prompt injection is "too easy," and AI systems open a fresh
@@ -96,7 +136,12 @@ class of vulnerabilities defenders now have to think about (2025-08-12)
 [[../../sources/2025-08-12-yt-Qvx2sVgQ-u0]]. The flip side is AI as a hacking *copilot* —
 he used Notion AI / ChatGPT / Claude as study-and-recon aids while working the HTB CPTS
 pentest path, treating AI as a force-multiplier for the hacker rather than only a target
-(2024-08-15) [[../../sources/2024-08-15-yt-3D6gaawXwfk]]. See also
+(2024-08-15) [[../../sources/2024-08-15-yt-3D6gaawXwfk]]. He deepened the offensive-AI
+thread with hacker Jason Haddix: attacking and red-teaming AI systems as a discipline in
+its own right — how LLM-backed apps get exploited and how to think like an attacker
+against them (2025-08-12) [[../../sources/2025-08-12-yt-2Z-9EOyb6HE]], carried forward
+into 2026 with a further AI attack/red-team deep-dive (2026-02-20)
+[[../../sources/2026-02-20-yt-_yfiUQSbdPY]]. See also
 [[../cybersecurity/cybersecurity]].
 
 ### Through-line
@@ -133,10 +178,24 @@ to lean into — a career/mindset argument that the people who learn to use it w
 - 2025-06-25 — AI anxiety, reframed (career/mindset) [[../../sources/2025-06-25-yt-3BXE0e3QZ4U]]
 - 2025-07-16 — You NEED to Use n8n RIGHT NOW!! [[../../sources/2025-07-16-yt-ONgECvZNI3o]]
 - 2025-07-16 — How to Run n8n Locally (On-Premise Setup) [[../../sources/2025-07-16-yt--ErfsM2TYsM]]
+- 2025-07-01 — I'm done with the AI hype (data/context > bolt-on AI) [[../../sources/2025-07-01-yt-kxYh9RwLUFw]]
 - 2025-08-12 — Hacking AI is TOO EASY [[../../sources/2025-08-12-yt-Qvx2sVgQ-u0]]
+- 2025-08-12 — Hacking AI with Jason Haddix (AI attack / red-team) [[../../sources/2025-08-12-yt-2Z-9EOyb6HE]]
+- 2025-08-25 — The Telos Method (Miessler): personal-context framework for AI [[../../sources/2025-08-25-yt-popvxbg9Flc]]
 - 2025-09-12 — you need to learn MCP RIGHT NOW!! [[../../sources/2025-09-12-yt-GuTcle5edjk]]
 - 2025-10-03 — n8n Now Runs My ENTIRE Homelab [[../../sources/2025-10-03-yt-budTmdQfXYU]]
+- 2025-10-14 — NVIDIA DGX Spark: desktop AI supercomputer (local at scale) [[../../sources/2025-10-14-yt-FYL9e_aqZY0]]
 - 2025-10-28 — You've Been Using AI the Hard Way (terminal-AI workflow) [[../../sources/2025-10-28-yt-MsQACpcuTkU]]
+- 2025-11-26 — My 2025 prompting framework (prompt=program, CoT/ToT, think-first) [[../../sources/2025-11-26-yt-pwWBcsxEoLk]]
+- 2025-12-10 — n8n orchestrating Claude Code headless [[../../sources/2025-12-10-yt-s96JeuuwLzc]]
+- 2026-01-23 — Claude Code as a phone extension [[../../sources/2026-01-23-yt-cT22fTzotYc]]
+- 2026-01-29 — Claude Code from your phone (SSH / VPS) [[../../sources/2026-01-29-yt-FEDiAHzS0zw]]
+- 2026-02-20 — AI attack / red-team deep-dive (Haddix thread) [[../../sources/2026-02-20-yt-_yfiUQSbdPY]]
+- 2026-02-26 — Anthropic official Claude Code mobile remote-control [[../../sources/2026-02-26-yt-ocQ7ZKhHU5Q]]
+- 2026-03-30 — OpenClaw personal-AI-agent harness (superseded by Hermes) [[../../sources/2026-03-30-yt-T-HZHO_PQPY]]
+- 2026-05-20 — Hermes personal-AI-agent harness (supersedes OpenClaw) [[../../sources/2026-05-20-yt-QQEgIo4Juxg]]
+- 2026-04-09 — Perplexity Computer (reluctant review) [[../../sources/2026-04-09-yt-G3jvn7n-68Y]]
+- 2026-07-02 — Fable 5 (satirical AI-model sketch) [[../../sources/2026-07-02-yt-YC77Lb_cN6c]]
 
 ## Related hubs
 

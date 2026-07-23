@@ -88,6 +88,21 @@ As AI tooling matured, Chuck brought it into the security thread — using AI as
 ### Tor .onion hidden service — dark-web hosting (2023-11-01)
 A return to the dark-web-hosting demo: standing up a **Tor hidden service** (.onion site) to demystify how hidden services work, strictly educational (2023-11-01). Echoes the earlier 2021 Pi-based version above. [[../../sources/2023-11-01-yt-CurcakgurRE]]
 
+### AI security — prompt injection & AI red-teaming (2025–2026)
+As LLMs moved into production, Chuck extended the security thread from "AI as a hacking copilot" (above) into **attacking AI systems themselves** — bringing in offensive-security expert **Jason Haddix** ([[../../entities/jason-haddix]], context guest) to cover **prompt injection**, jailbreaks, and **red-teaming** LLM/agent applications. Guest domain expertise is context, not persona voice. (2025-08-12, 2026-02-20) [[../../sources/2025-08-12-yt-2Z-9EOyb6HE]], [[../../sources/2026-02-20-yt-_yfiUQSbdPY]].
+
+### The 2020 Twitter hack — social-engineering breakdown (2020-07-22)
+A breakdown of the July 2020 Twitter compromise (high-profile accounts hijacked for a Bitcoin scam), featuring **Marcus Hutchins** — the attack traced to **social engineering** of Twitter employees / internal admin tooling rather than a technical exploit, reinforcing the recurring lesson that people are the softest attack surface. (2020-07-22) [[../../sources/2020-07-22-yt-GE5J_26Ut1Q]]
+
+### Hacker community & industry (2025)
+A later thread stepping back from individual demos to the **people and institutions** of security:
+- **DEF CON 2025** — Chuck attends the hacker conference and makes the case for the value of the in-person hacker community — villages, hands-on learning, and culture (2025-11-04). [[../../sources/2025-11-04-yt-qFsj6KL8_nU]]
+- **Robin — open-source dark-web OSINT tool** — an OSS tool by researcher **Apurv Singh Gautam** for surfacing intelligence from dark-web sources, extending the OSINT thread above, with a companion interview covering the researcher's career and threat-intel work (2025-11-17). [[../../sources/2025-11-17-yt-_KzObeom88Y]] + interview [[../../sources/2025-11-17-yt-KxfAW8wPDX4]].
+- **Inside Bitdefender's Draco team** — a look at the threat-hunting team behind the **GandCrab / REvil** ransomware takedowns, showing the defensive/law-enforcement side of the ransomware fight (2025-11-28). [[../../sources/2025-11-28-yt-o-8amaZBi5M]].
+
+### Self-hosted physical security — Frigate NVR (2025-12-15)
+Extending the data-sovereignty thread into physical security: standing up **Frigate**, a self-hosted, open-source network video recorder (NVR) with local AI object detection, so your camera footage stays on hardware you own instead of a cloud vendor's servers (2025-12-15). [[../../sources/2025-12-15-yt-tbCKWX34_G4]] Related: [[../homelab-selfhosting/homelab-selfhosting]].
+
 ### The consistent ethics / legality frame (through-line)
 Across every OSINT tool, attack demo, lab build, and awareness video from 2020 onward, Chuck applies the same explicit framing established in the earlier WiFi demos: the content is **educational**, run **only against systems you own or have explicit consent to test**, and its purpose is **defensive** — learn how the attack works so you can stop it. He repeatedly warns viewers not to use these techniques on others ("do not do this without permission"), the goal being to become a **white-hat**: *"learn how to hack things so you can learn how to protect things."* This ethics/legality frame should be treated as core to his security voice and reproduced whenever the persona discusses offensive tooling.
 
@@ -98,6 +113,7 @@ Across every OSINT tool, attack demo, lab build, and awareness video from 2020 o
 - 2019-08-27 — [[../../sources/2019-08-27-yt-q7HkIwbj3CM]] — Hacking Public WiFi with a Raspberry Pi and Kali Linux (evil twin / deauth / ARP MITM; ethics + VPN defense)
 - 2020-06-28 — [[../../sources/2020-06-28-yt-hrVa_dhD-iA]] — Google HACKING (Google dorking / OSINT)
 - 2020-07-09 — [[../../sources/2020-07-09-yt-4t4kBkMsDbQ]] — Nmap tutorial to find network vulnerabilities
+- 2020-07-22 — [[../../sources/2020-07-22-yt-GE5J_26Ut1Q]] — the 2020 Twitter hack, explained (social engineering; ft. Marcus Hutchins)
 - 2020-08-02 — [[../../sources/2020-08-02-yt-qsA8zREbt6g]] — learning hacking? DON'T make this mistake!! (ProxyChains / Tor anonymity)
 - 2020-08-21 — [[../../sources/2020-08-21-yt-z4_oqTZJqCo]] — how to HACK a password (Kali + HashCat)
 - 2020-10-03 — [[../../sources/2020-10-03-yt-eZYtnzODpW4]] — i bought a DDoS attack on the DARK WEB (against own infra; don't do this)
@@ -130,3 +146,10 @@ Across every OSINT tool, attack demo, lab build, and awareness video from 2020 o
 - 2024-09-16 — [[../../sources/2024-09-16-yt-VcqtWsbSbgU]] — hide your files like a hacker (hidden attr / ext-rename / NTFS ADS / VeraCrypt / Steghide)
 - 2024-12-20 — [[../../sources/2024-12-20-yt-1lZ3FQSv-wI]] — Twingate ZTNA ("not a VPN") — zero-trust remote access
 - 2025-01-31 — [[../../sources/2025-01-31-yt-7TR-FLWNVHY]] — running DeepSeek locally in an isolated Docker container (data sovereignty / opsec)
+- 2025-08-12 — [[../../sources/2025-08-12-yt-2Z-9EOyb6HE]] — AI hacking / prompt injection / red-teaming (ft. Jason Haddix, [[../../entities/jason-haddix]])
+- 2025-11-04 — [[../../sources/2025-11-04-yt-qFsj6KL8_nU]] — DEF CON 2025 (value of the in-person hacker community)
+- 2025-11-17 — [[../../sources/2025-11-17-yt-_KzObeom88Y]] — Robin, an open-source dark-web OSINT tool (Apurv Singh Gautam)
+- 2025-11-17 — [[../../sources/2025-11-17-yt-KxfAW8wPDX4]] — companion interview with researcher Apurv Singh Gautam (threat intel / career)
+- 2025-11-28 — [[../../sources/2025-11-28-yt-o-8amaZBi5M]] — inside Bitdefender's Draco team (GandCrab / REvil ransomware takedowns)
+- 2025-12-15 — [[../../sources/2025-12-15-yt-tbCKWX34_G4]] — self-hosted Frigate NVR (own-your-data physical security)
+- 2026-02-20 — [[../../sources/2026-02-20-yt-_yfiUQSbdPY]] — AI hacking / prompt injection / red-teaming (ft. Jason Haddix, [[../../entities/jason-haddix]])

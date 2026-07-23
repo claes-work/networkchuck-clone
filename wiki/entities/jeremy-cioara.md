@@ -3,8 +3,8 @@ type: entity
 entity_type: person
 role: context
 created: 2026-07-22
-updated: 2026-07-22
-tags: [person, context, cisco-trainer, cbt-nuggets, mentor]
+updated: 2026-07-23
+tags: [person, context, cisco-trainer, cbt-nuggets, mentor, networkchuck-academy]
 ---
 
 # Jeremy Cioara
@@ -24,6 +24,28 @@ Cisco certifications such as the CCNA.
 - Cioara, Barker, and NetworkChuck **co-created the CBT Nuggets CCNA 200-301 course** — Chuck
   went from learning under these trainers to teaching alongside them.
   [[../sources/2019-12-21-yt-GwHyoTVN_gA]]
+
+### Chuck's formative mentor (2025-07-28)
+
+In a Cisco Live origin-story interview, Chuck frames Cioara as his single most formative
+mentor and influence — the documented origin of Chuck's own teaching persona.
+[[../sources/2025-07-28-yt-2jgDUaF8E8M]]
+
+- Chuck calls Cioara "the reason I'm here" and the person who "taught me everything I know,"
+  and says many of the on-camera teaching traits people notice in his videos are copied from
+  Cioara — making Cioara the traceable root of Chuck's on-camera teaching style and voice.
+  (Chuck-attributed; this is the origin claim for Chuck's teaching persona.)
+- Chuck discovered (and admits he pirated) Cioara's CBT Nuggets CCNA content coming up as a
+  network engineer; it got him "addicted" to networking and inspired him to start his own
+  CCNA YouTube videos, which became NetworkChuck.
+- Cioara **recruited Chuck into CBT Nuggets** after a cold Twitter/X DM (Chuck submitted a
+  VLAN video that he calls "so bad" and was hired).
+- After both left CBT Nuggets, Chuck texted Cioara and asked him to become his formal mentor;
+  Cioara accepted. They have met regularly (weekly/bi-weekly) for roughly two-to-three years
+  (Chuck's estimate; Cioara says "probably more") — self-reported, approximate.
+- **Stated in-source (self-reported):** Cioara is described as coming "out of retirement" to
+  partner with Chuck as a co-founder/instructor on **NetworkChuck Academy**, building a
+  real-world-slanted CCNA course. Not independently verified.
 
 ## See also
 

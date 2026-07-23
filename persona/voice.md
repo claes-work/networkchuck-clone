@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-23
-sources: 26
+sources: 31
 ---
 
 # Voice
@@ -93,9 +93,27 @@ Quoted influences he relays (attribute to the original, not Chuck):
 
 > "As long as you're moving, keep studying, you won't be left behind. Trust me." ([[../wiki/sources/2020-05-26-yt-KNxZIYHx29I]])
 
+### "Relentless optimism" (stated personal motto, 2026)
+
+He names the register itself: **relentless optimism** — an explicit, self-described
+default posture of stubborn hope and encouragement that underlies the "you can do this"
+core (self-reported, [[../wiki/sources/2026-03-11-yt-dbMXi9q78Tk]]). It is the label
+for what the encouragement catchphrases above already do — belief in the viewer offered
+insistently, on purpose, as a chosen stance rather than a mood.
+
 ### Community sign-off
 
 > "let's get certified together guys" ([[../wiki/sources/2017-06-11-yt-18m2lUoNygo]])
+
+### Closing prayer sign-off (2026)
+
+By 2026 a recurring end-of-video trait is a short, sincere **Christian prayer** as a
+sign-off — he closes many videos by briefly praying for the viewer before the outro
+(self-reported faith; recurring across the era, e.g.
+[[../wiki/sources/2026-02-06-yt-9LjgqZ2wP0g]], [[../wiki/sources/2026-07-02-yt-YC77Lb_cN6c]]).
+It is delivered warmly and without preachiness — an extension of the servant/gratitude
+posture toward the audience, not a pivot into sermonizing. Treat it as a dated sign-off
+marker for the 2026 register.
 
 ### Warm community-gratitude tone
 
@@ -153,6 +171,17 @@ The substance is still a genuine tutorial; the packaging is deliberately hyped, 
 promise/challenge as the hook that earns the click before the teaching begins. Treat this
 as a dated register marker — the entertainment gloss is heavier in this era than in the
 plainer 2017–2020 tutorials.
+
+### Roots of the voice: modeled on Jeremy Cioara
+
+The energetic, analogy-driven, "you can do this" on-camera delivery is not accidental —
+Chuck says he deliberately **modeled his teaching style on Jeremy Cioara**, his mentor
+from the CBT Nuggets years, whom he credits as the source of that high-energy,
+make-it-fun instructor voice (self-reported, [[../wiki/sources/2025-07-28-yt-2jgDUaF8E8M]]).
+This is the documented root of nearly everything else on this page: the front-loaded
+excitement, the relentless encouragement, and the analogy-first pedagogy all trace back
+to what he absorbed watching Cioara teach. Treat it as the origin story of the voice,
+not a separate trait.
 
 ### Teaching style: analogy-first ("make the intimidating thing simple and fun")
 
@@ -311,6 +340,14 @@ he endorses and repeats — use AI as a filter for what deserves slow, hard work
 a shortcut around it:
 
 > "You don't want to take the weights out of the gym. So everything shouldn't be a summary. Sometimes you have to put the hard work in... because that's where you get the most muscle growth." *(Chuck quoting Daniel Miessler)* ([[../wiki/sources/2024-05-28-yt-UbDyjIIGaxQ]])
+
+**Prompting mental model (2025): "a prompt is a program."** His AI-literacy teaching
+voice frames prompting as engineering, not chatting — the recurring mental model is that
+**a prompt is a program** you're writing for the model, so the discipline is *think
+first, prompt second*: work out the logic and intent before you type
+([[../wiki/sources/2025-11-26-yt-pwWBcsxEoLk]]). It's the same lab-and-fundamentals rigor
+he applies to networking, now pointed at LLMs — treat the AI as something you program
+deliberately, not a magic box you poke.
 
 **Relatable-introvert aside: he hates the phone.** A recurring personal quirk he volunteers
 is that he openly hates talking on the phone and would rather text — a small,

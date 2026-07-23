@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-23
-sources: 56
+sources: 69
 ---
 
 # Beliefs
@@ -585,3 +585,124 @@ a compromise stays contained) — but **rejects Qubes as a daily driver** becaus
 cost is too high for everyday work. A concrete expression of his recurring stance that security
 must be balanced against practicality (cf. security-is-offense-AND-defense, 2021-03-18). Cite
 [[../wiki/sources/2023-12-23-yt-i3sRSS6fN0g]].
+
+---
+
+## Opinions & positions (added pass 6)
+
+### Consumer VPNs — POSITION EVOLVED: "I was wrong about VPNs" (2026-06-15)
+Chuck publicly **corrects his earlier take** that HTTPS makes personal/consumer VPNs useless.
+His revised view: consumer VPNs **do** have real, **event-driven value** — they hide **metadata**
+(DNS lookups and the SNI/hostname still leak even under HTTPS), they help against **targeted
+harassment/doxxing** (masking your real IP), and they unlock **geo-restricted** content. The
+correction is deliberately **narrow**: it applies to **consumer/personal VPNs only** and is about
+*when* they're worth using (situationally, not always-on for everyone). Cite
+[[../wiki/sources/2026-06-15-yt-axfNxZ1R6C4]].
+> ⚠️ POSITION EVOLVED (consumer VPNs): Chuck previously argued "HTTPS makes consumer VPNs
+> useless." As of 2026-06-15 he retracts the blanket dismissal — consumer VPNs have genuine
+> situational value (metadata/DNS+SNI hiding, anti-harassment, geo-unblocking). **Scope is
+> narrow:** this touches **only** consumer VPNs. His separate corporate stance — that modern
+> remote access should be **ZTNA, "not a VPN"** — is **unchanged** by this correction.
+
+### OS pragmatism — "Switching back to Windows?!?" is tool-driven, not tribal (2026-06-01)
+An OpenAI-sponsored "I'm *considering* it" piece, not a switch. Chuck **still daily-drives a Mac**
+and uses **Windows only for vMix** (streaming/production); what's *pulling* him toward Windows is
+**AI tooling** (e.g. Codex going Windows-native), not any change of allegiance. The belief to
+record is the **framing**: his OS choice is **pragmatic and tool-driven** — pick the OS that best
+runs the tools you need right now — **not tribal**. He does **not** retract his desktop-Linux-for-
+everyone advocacy. Cite [[../wiki/sources/2026-06-01-yt-cGXAmnUabEY]].
+> Nuance (not reversal) vs. his pro-desktop-Linux value (2024-08-07) and Linux advocacy: the OS
+> position is best read as **"right tool for the job,"** with Linux still recommended broadly and
+> Mac/Windows chosen when specific tooling (vMix, AI-native apps) demands it. No contradiction —
+> a consistent tool-driven pragmatism underneath.
+
+### AI-hype skepticism — value is in the data, not the "AI sticker" (2025-07-01)
+A **maturation** of his AI enthusiasm: Chuck is still **pro-AI**, but openly **skeptical of bolt-on
+"AI sticker" hype** — products that slap "AI" on top for marketing. His position: real value comes
+from **your data and context**, so **AI-native** designs beat **bolt-on** AI, and you should take
+vendor AI claims **"with a grain of salt"** and stay balanced. This tempers his earlier "learn AI
+RIGHT NOW" urgency (2023-03-01) with discernment about *which* AI actually delivers. Cite
+[[../wiki/sources/2025-07-01-yt-kxYh9RwLUFw]].
+
+### Agentic coding is the next frontier — "code from anywhere" (2026-02-26)
+Chuck flags **agentic coding** (AI coding agents like **Claude Code**) — and the ability to drive
+it **"from anywhere"** — as the **next frontier** of his automation arc. It extends his existing
+automation/MCP/n8n thread (see AI-as-new-frontier, 2023-03-01) from workflow automation into
+**AI agents that write and run code for you**. Cite [[../wiki/sources/2026-02-26-yt-ocQ7ZKhHU5Q]].
+
+### AI security is the new career frontier — prompt injection & AI red-teaming (2026-02-20)
+Chuck names **AI security / AI hacking** (prompt injection, **AI red-teaming**, attacking and
+defending LLM-powered systems) as **the new frontier** for security careers — the next place to
+skill up. This continues his AI-is-also-an-attack-surface stance (2025-08-12) and his broader
+"learn offense to build defense" ethos, now pointed squarely at AI systems. Cite
+[[../wiki/sources/2026-02-20-yt-_yfiUQSbdPY]].
+> ⚠️ ATTRIBUTION: guest **Jason Haddix's** frameworks/theses in this video are **context**, not
+> Chuck's. Only Chuck's own framing — that AI security is the emerging career frontier — is
+> recorded here.
+
+### Future of networking certs — CCNA still the gold standard; run TOWARD AI (2025-07-03)
+Chuck's forward take on networking credentials: the **CCNA remains the entry-level gold standard**
+and keeps its value, **colleges can't keep pace** with the field (continuity with his long-standing
+certs-beat-degrees thesis), and the right move is to **run *toward* AI**, not away from it — layer
+AI fluency on top of networking fundamentals. Continuous with his 2025 "someone using AI will
+replace you" adapt-now stance (2025-06-13). Cite [[../wiki/sources/2025-07-03-yt-zeKdiBF4HGc]].
+
+### Creator integrity — the accidental meme-coin he refused to cash in (2025-02-12)
+When a token tied to Chuck went **accidentally viral**, he **refused to sell or rug-pull** and
+**told viewers not to buy it** — declining an easy payday to protect his audience. A concrete
+demonstration of **creator integrity** and his standing **"not financial advice"** posture (cf.
+crypto-as-tech-experiment, 2024-12-18): audience trust over money. Cite
+[[../wiki/sources/2025-02-12-yt-W4tw9wM62kA]].
+
+---
+
+## Frameworks (added pass 6)
+
+### Learning philosophy — "no shame in looking at solutions while learning" (2022-04-04)
+Chuck's explicit permission structure for learners: while you're learning, **there is no shame in
+looking at the solution/answer**. Getting unstuck by checking how something is done — then
+understanding it — beats grinding in frustrated silence. Complements his systems-over-willpower
+(2019) and "just DO it" (2020-11-25) frameworks by removing the shame that stalls beginners. Cite
+[[../wiki/sources/2022-04-04-yt-surLiBtVoaU]].
+
+### Know yourself — Telos purpose-file + build an AI version of you (2025-08-25)
+An extension of his AI-anxiety antidote ("know who you are," 2025-06-25). Chuck **adopts Miessler's
+"Telos"** idea — a **purpose/values/goals file** that captures who you are — and goes further:
+**capture yourself now to build an AI version of you** from that values file (a personal persona AI
+grounded in your own purpose). The self-knowledge is the foundation; the AI-of-you is the payoff.
+Cite [[../wiki/sources/2025-08-25-yt-popvxbg9Flc]].
+> ⚠️ ATTRIBUTION: the **"Telos" purpose-file framework is Daniel Miessler's** — context, not
+> Chuck's coinage. What's recorded here is Chuck's **adoption/endorsement** of it and his own
+> "build an AI version of yourself from a values file" extension.
+
+---
+
+## Values (added pass 6)
+
+### Own your data → own your cameras — self-host physical security (2025-12-15)
+Chuck extends his **own-your-data / decentralization** value (2022-01-26) into **physical
+security**: **self-host your surveillance** (e.g. **Frigate** NVR on your own hardware) instead of
+trusting **cloud cameras** that ship your footage to someone else's servers. Same privacy/control
+principle he applies to self-hosted AI and services, now aimed at your home cameras. Cite
+[[../wiki/sources/2025-12-15-yt-tbCKWX34_G4]].
+
+### Relentless optimism — humans still matter; drop the guru posture (2026-03-11)
+Chuck's **learn-alongside-you** humility in the AI era: **humans still matter** — when AI **fails
+or gets stuck, people are the ones who guide it** — and he deliberately **drops the guru posture**,
+positioning himself as learning *with* the audience rather than lecturing from above. A values
+counterweight to AI-doom and an evolution of his day-one "I'm not that smart… if I can do it, you
+can" ethos into the AI age. Cite [[../wiki/sources/2026-03-11-yt-dbMXi9q78Tk]].
+
+---
+
+## Frameworks (added pass 6, longitudinal roots)
+
+### Longitudinal roots of the unicorn / hacker's-roadmap stack (2019)
+Early dated data points that **underpin his later "Linux + Python woven throughout" roadmaps**
+(the 2025 hacker's-roadmap, 2025-01-28, and the unicorn stack above):
+- **(2019-07-27) "Study Python + Linux + CCNA together"** — the direct **root** of his 2025
+  position that Linux and Python should run **continuously through every phase** of your learning
+  rather than as later add-ons. Cite [[../wiki/sources/2019-07-27-yt-TB87gilqs8Q]].
+- **(2019-07-18) "Everyone needs Linux"** — a **deep root** of his sustained Linux advocacy that
+  later matures into desktop-Linux-for-everyone (2024-08-07) and the "learn Linux" pushes. Cite
+  [[../wiki/sources/2019-07-18-yt-l9YxTXDiiFY]].

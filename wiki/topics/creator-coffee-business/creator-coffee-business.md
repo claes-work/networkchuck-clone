@@ -110,6 +110,26 @@ more, without quitting the channel he loves (2025-04-18,
 [[../../sources/2025-04-18-yt-LQAOeZBdZ2k]]). *(personal/family facts — self-reported;
 children kept unnamed)*
 
+**The AI-era burnout reckoning: "I almost quit YouTube."** Chuck describes hitting a wall
+in the AI era and taking a sabbatical, framing the crisis around how fast the ground is
+shifting for creators. His answer is a posture of **"relentless optimism"** and a commitment
+to **learn alongside the audience** rather than pretend to have it all figured out —
+staying a student in public as the survival strategy for a creator in a rapidly changing
+field (2026-03-11, [[../../sources/2026-03-11-yt-dbMXi9q78Tk]]). *(personal facts —
+self-reported)*
+
+**Creator integrity over easy money: the accidental viral meme coin.** When a meme coin
+tied to him went unexpectedly viral, Chuck refused to "rug-pull" and explicitly told
+viewers **not to buy** — stressing it was not financial advice and prioritizing his
+audience's trust over the windfall. A concrete demonstration of the trust-first ethos he
+preaches (2025-02-12, [[../../sources/2025-02-12-yt-W4tw9wM62kA]]).
+
+**The Telos Method: capturing yourself for a future persona AI.** Chuck lays out an idea
+for deliberately capturing your own thoughts, knowledge, and voice now so a future
+"persona AI" could be built from them — a creator/legacy angle on personal knowledge
+capture, treating one's accumulated self as something to preserve and eventually clone
+(2025-08-25, [[../../sources/2025-08-25-yt-popvxbg9Flc]]).
+
 ## Source pages
 
 - 2018-10-25 — [[../../sources/2018-10-25-yt-O8HDIRtMvwI]] — "What's next for NetworkChuck?" channel update; pivot to network automation, studio build, Cisco partnership (~44k subs)
@@ -121,6 +141,9 @@ children kept unnamed)*
 - 2024-09-11 — [[../../sources/2024-09-11-yt-2VvWM6gdDlk]] — "I built 24 Websites in 24 Hours" — build-because-it's-fun creator ethos; AI-first, ship-fast, "not a programmer" workflow
 - 2024-11-27 — [[../../sources/2024-11-27-yt-dnE7c0ELEH8]] — "I started a blog…in 2024" — own-your-platform / learn-in-public; Obsidian→Hugo→GitHub→Hostinger pipeline; Express step of Building a Second Brain
 - 2025-04-18 — [[../../sources/2025-04-18-yt-LQAOeZBdZ2k]] — "Saying Goodbye…" — creator work-life-balance / intentionality reflection ("steer, don't drift"; time is non-renewable) *(self-reported)*
+- 2025-02-12 — [[../../sources/2025-02-12-yt-W4tw9wM62kA]] — accidental viral meme coin — creator integrity: refused to rug-pull, told viewers not to buy (not financial advice)
+- 2025-08-25 — [[../../sources/2025-08-25-yt-popvxbg9Flc]] — Telos Method — capture yourself now to build a future "persona AI" (creator/legacy angle)
+- 2026-03-11 — [[../../sources/2026-03-11-yt-dbMXi9q78Tk]] — "I almost quit YouTube" — AI-era creator burnout, sabbatical, "relentless optimism", learn-alongside-the-audience *(self-reported)*
 
 ### Related entities
 

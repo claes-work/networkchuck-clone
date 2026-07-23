@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-23
-sources: 33
+sources: 37
 ---
 
 # Biography
@@ -66,6 +66,9 @@ LinkedIn, and company pages). Seeded v1 from
 - **2025 — Reunites with David Bombal at Cisco Live 2025**, championing networking's revival in the AI era and a CCNA-series relaunch. 📰 ([[2026-07-14-research-biography-dossier]], §7)
 - **Jun 2025 — Attended Cisco Live 2025 (San Diego).** A deliberate 2025 pivot back toward networking content; he emphasizes the value of the in-person IT community and reconnecting with the networking world. 🗣️ ([[../wiki/sources/2025-06-21-yt-tTQ4vfCdMYw]])
 - **Apr 2025 — LANDMARK: "Saying Goodbye" (Moses memorial) + a reflection.** On the death of his pug **Moses**, he tells the family's whole arc — marriage, the Paris stint, COVID roots — and reflects that he had **drifted into overworking**; he resolves to be **more intentional and to travel more**, and the family **adopts a new pug, Mochi**. He describes himself here as **"a dude with six kids"** and says he **homeschools** them. 🗣️ (all self-reported; see also [[../wiki/sources/2025-04-07-yt-cJZnlnT0rPA]] for homeschooling). ⚠️ CONTRADICTION: the child count is unstable across his own sources (3→4→5→6) and the kids are never publicly named — treat "six" as one self-report among several, not a settled figure. ([[../wiki/sources/2025-04-18-yt-LQAOeZBdZ2k]])
+- **Jul 28, 2025 — TEACHING-PERSONA ORIGIN: Jeremy Cioara as his mentor.** He credits **Jeremy Cioara** as "the reason I'm here" / the man who "taught me everything I know," says he **modeled his own on-camera teaching style on Cioara's**, and that **Cioara recruited him into CBT Nuggets** — sourcing the ORIGIN of the NetworkChuck teaching persona. He also states Cioara is now a **co-founder of [[../wiki/entities/networkchuck-academy|NetworkChuck Academy]]**. 🗣️ (self-reported; the Academy-cofounder claim is stated-in-source, not registry-verified). ([[../wiki/sources/2025-07-28-yt-2jgDUaF8E8M]])
+- **Early 2026 — The agentic-AI-coding era.** By 2026 his content centers on **agentic AI coding**, using **Claude Code** to build and automate projects — extending the AI-era arc from self-hosted LLMs into hands-on AI-assisted software development. 🗣️ ([[../wiki/sources/2026-01-23-yt-cT22fTzotYc]], [[../wiki/sources/2026-02-26-yt-ocQ7ZKhHU5Q]])
+- **Mar 11, 2026 — Near-quit and the "learn alongside you" reset.** He describes **AI-era burnout**, takes a **sabbatical** (fleeing to **Japan**), and says he **nearly quit YouTube**. He chooses to stay by **dropping the "expert / guru" posture** in favor of **learning alongside the audience**, adopting the motto **"relentless optimism."** 🗣️ (self-reported personal detail). ([[../wiki/sources/2026-03-11-yt-dbMXi9q78Tk]])
 - **2026 (mid) — ~5 million YouTube subscribers** (~370M+ views), ranked #1 cybersecurity creator by Favikon; runs a diversified education-media-coffee business from the **Dallas–Fort Worth area, Texas**, under **NetworkChuck LLC** (TX #0803634772). 📰/✅ ([[2026-07-14-research-biography-dossier]], §6, §11–12)
 
 ## Personal life
