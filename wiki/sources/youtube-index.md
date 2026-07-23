@@ -285,8 +285,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-05-01 | White House says NO DEGREE!! | [[2024-05-01-yt-aEuMRZzqFH8]] | ★ |
 | 2024-05-03 | host ALL your AI locally | [[2024-05-03-yt-Wjrdr0NU4Sk]] | ★ |
 | 2024-05-16 | monitor all your stuff RIGHT NOW!! | [[2024-05-16-yt--2yzXSIuC8o]] | ★ |
+| 2024-05-17 | I use this everyday (xclip clipboard) | [[2024-05-17-yt-aMzdeZ8vGXQ]] |  |
+| 2024-05-28 | You've been using AI Wrong (Fabric patterns) | [[2024-05-28-yt-UbDyjIIGaxQ]] | ★ |
 | 2024-06-11 | RetroPie: A Raspberry Pi Gaming Machine | [[2024-06-11-yt-AaseHnf0k2o]] |  |
+| 2024-06-26 | Your Cable Management SUCKS!! (Fixing My Server Room) | [[2024-06-26-yt-spoZ2zKnK88]] | ★ |
+| 2024-07-03 | Linux on Windows......Windows on Linux | [[2024-07-03-yt-vxTW22y8zV8]] |  |
 | 2024-07-26 | the FrankeNAS // a CEPH Tutorial | [[2024-07-26-yt-jJrnJ9rj6fs]] | ★ |
+| 2024-08-07 | I forced EVERYONE to use Linux | [[2024-08-07-yt-qdo5lMR1lX4]] | ★ |
+| 2024-08-15 | Using AI to become a Hacker | [[2024-08-15-yt-3D6gaawXwfk]] | ★ |
+| 2024-08-28 | What is DNS? (and how it makes the Internet work) | [[2024-08-28-yt-NiQTs9DbtW4]] | ★ |
 | 2024-08-30 | IPv6 keeps getting hacked on Windows | [[2024-08-30-yt-Z_QlUyYlUCg]] |  |
 | 2024-09-18 | he hacked my websites (guest pentester) | [[2024-09-18-yt-AxMWywGFSfs]] | ★ |
 | 2024-09-25 | 18 Weird and Wonderful ways I use Docker | [[2024-09-25-yt-RUqGlWr5LBA]] | ★ |
@@ -321,4 +328,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_299 videos ingested (L2) so far._
+_306 videos ingested (L2) so far._
