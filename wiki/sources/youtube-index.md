@@ -272,12 +272,19 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-09-14 | Hacking the world's most popular database (Oracle) | [[2023-09-14-yt-qHe4mlhuNt4]] |  |
 | 2023-09-28 | the Raspberry Pi 5 | [[2023-09-28-yt-jsKqQvFk7Sk]] |  |
 | 2023-09-30 | How To Access the DARK WEB in 2024 (3 Levels) | [[2023-09-30-yt-U2-JPqrALsA]] |  |
+| 2023-11-01 | Put your website on the Dark Web | [[2023-11-01-yt-CurcakgurRE]] |  |
+| 2023-11-22 | Google is forcing you to use their proxy (build your own instead) | [[2023-11-22-yt-JJ0St6OmTp0]] | ★ |
+| 2023-12-23 | the most secure OS in the world.....I hate it (Qubes) | [[2023-12-23-yt-i3sRSS6fN0g]] | ★ |
 | 2023-12-30 | you need to learn tmux RIGHT NOW!! | [[2023-12-30-yt-nTqu6w2wc68]] | ★ |
 | 2024-01-08 | 3 Levels of WiFi Hacking | [[2024-01-08-yt-dZwbb42pdtg]] | ★ |
+| 2024-02-09 | AI Networking is CRAZY!! (but is it fast enough?) | [[2024-02-09-yt-fb69FyW2KLk]] | ★ |
 | 2024-02-16 | I ditched my Raspberry Pi for this | [[2024-02-16-yt-5FhDrux0kCc]] |  |
 | 2024-03-12 | Run your own AI (but private) | [[2024-03-12-yt-WxYC9-hBM_g]] | ★ |
 | 2024-04-03 | 60 Hacking Commands You NEED to Know | [[2024-04-03-yt-gL4j-a-g9pA]] | ★ |
+| 2024-04-26 | you STILL need a website RIGHT NOW!! (yes, even in 2025) | [[2024-04-26-yt-EXfFBEuCAr0]] |  |
+| 2024-05-01 | White House says NO DEGREE!! | [[2024-05-01-yt-aEuMRZzqFH8]] | ★ |
 | 2024-05-03 | host ALL your AI locally | [[2024-05-03-yt-Wjrdr0NU4Sk]] | ★ |
+| 2024-05-16 | monitor all your stuff RIGHT NOW!! | [[2024-05-16-yt--2yzXSIuC8o]] | ★ |
 | 2024-06-11 | RetroPie: A Raspberry Pi Gaming Machine | [[2024-06-11-yt-AaseHnf0k2o]] |  |
 | 2024-07-26 | the FrankeNAS // a CEPH Tutorial | [[2024-07-26-yt-jJrnJ9rj6fs]] | ★ |
 | 2024-08-30 | IPv6 keeps getting hacked on Windows | [[2024-08-30-yt-Z_QlUyYlUCg]] |  |
@@ -314,4 +321,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_292 videos ingested (L2) so far._
+_299 videos ingested (L2) so far._
