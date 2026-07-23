@@ -376,8 +376,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-29 | Network Engineer lets AI run his Network (interview) | [[2025-07-29-yt-ySLe49h81yg]] | ★ |
 | 2025-09-09 | How Long Do Network Engineers Have Left? (John Capobianco) | [[2025-09-09-yt-_Nl7hEbTTjQ]] | ★ |
 | 2025-09-10 | Cisco's Certification Director Explains the Future of CCNA | [[2025-09-10-yt-1tw3O2iOt1U]] | ★ |
+| 2025-09-11 | From Engineer to YouTube Pioneer (David Bombal's Story) | [[2025-09-11-yt-DRseV4fFC9g]] | ★ |
+| 2025-09-19 | They're Teaching AI to Run the Data Center (Juniper/Apstra) | [[2025-09-19-yt-Zx4SL2h1uDg]] | ★ |
+| 2025-12-02 | Scam Researcher tricks scammers with AI (Bitdefender) | [[2025-12-02-yt-OhyVtuYxRU8]] | ★ |
+| 2025-12-11 | He Hunts Malware for a living (Bitdefender) | [[2025-12-11-yt-EOyOplr84I4]] | ★ |
+| 2026-01-27 | Unboxing $48,000 worth of Mac Studios (AI cluster) | [[2026-01-27-yt-Wb72L0RAUjQ]] |  |
+| 2026-02-13 | Talk to Claude on 3CX Phone System (Full Setup) | [[2026-02-13-yt-EIhAelYTna8]] |  |
 
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_358 videos ingested (L2) so far._
+_364 videos ingested (L2) so far._
