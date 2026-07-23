@@ -295,10 +295,17 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-08-15 | Using AI to become a Hacker | [[2024-08-15-yt-3D6gaawXwfk]] | ★ |
 | 2024-08-28 | What is DNS? (and how it makes the Internet work) | [[2024-08-28-yt-NiQTs9DbtW4]] | ★ |
 | 2024-08-30 | IPv6 keeps getting hacked on Windows | [[2024-08-30-yt-Z_QlUyYlUCg]] |  |
+| 2024-09-06 | never leave the terminal (links browser) | [[2024-09-06-yt-6h9sjYm9vTE]] | ★ |
+| 2024-09-11 | I built 24 Websites in 24 Hours | [[2024-09-11-yt-2VvWM6gdDlk]] | ★ |
+| 2024-09-16 | Hide your files like a hacker (5 Ways) | [[2024-09-16-yt-VcqtWsbSbgU]] |  |
 | 2024-09-18 | he hacked my websites (guest pentester) | [[2024-09-18-yt-AxMWywGFSfs]] | ★ |
 | 2024-09-25 | 18 Weird and Wonderful ways I use Docker | [[2024-09-25-yt-RUqGlWr5LBA]] | ★ |
 | 2024-10-08 | so...I put a Time Server in my HomeLab | [[2024-10-08-yt-6YHqVbvfMYI]] |  |
 | 2024-10-25 | your home automation SUCKS!! (Home Assistant) | [[2024-10-25-yt-k02P5nghmfs]] | ★ |
+| 2024-11-04 | my local, AI Voice Assistant (I replaced Alexa!!) | [[2024-11-04-yt-XvbVePuP7NY]] | ★ |
+| 2024-11-19 | Cloning my Voice Into an AI Assistant | [[2024-11-19-yt-3fg7Ht0DSnE]] | ★ |
+| 2024-11-27 | I started a blog.....in 2024 (why you should too) | [[2024-11-27-yt-dnE7c0ELEH8]] | ★ |
+| 2024-12-09 | I built a phone system because no one answers me | [[2024-12-09-yt-fdM1V98iIQI]] | ★ |
 | 2024-12-10 | who is this even for?? (Raspberry Pi 500) | [[2024-12-10-yt--49KVplIGDo]] |  |
 | 2025-02-04 | Your Remote Desktop SUCKS!! (RustDesk) | [[2025-02-04-yt-EXL8mMUXs88]] |  |
 | 2025-02-17 | I built an AI supercomputer with 5 Mac Studios | [[2025-02-17-yt-Ju0ndy2kwlw]] | ★ |
@@ -328,4 +335,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _(7 short "become a hacker" clips on @networkchuck_v2 skipped as dup-of the David Bombal episode.)_
 
 ---
-_306 videos ingested (L2) so far._
+_313 videos ingested (L2) so far._
